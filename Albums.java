@@ -18,7 +18,7 @@ import javax.imageio.*;
 
 class Albums extends JFrame {
 
-  public static boolean LIVE = false;
+  public static boolean LIVE = true;
 
   public static List<String[]> albums = new ArrayList<String[]>();
   public static List<String[]> randoms = new ArrayList<String[]>();
