@@ -271,6 +271,9 @@ class Albums extends JFrame {
 
           if (title.equals("The Money Store"))
             picLink = "static.wikia.nocookie.net/4chanmusic/images/2/29/Tms-1200.jpg/revision/latest/scale-to-width-down/500?cb=20160210044217";
+
+          if (title.equals("Electric Ladyland"))
+            picLink = "images-na.ssl-images-amazon.com/images/I/51VWpTObMvL.jpg";
           
           albums.add(new String[]{title, artist, picLink, genres, rating});
         }
