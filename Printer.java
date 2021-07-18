@@ -6,41 +6,46 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.io.File;
+import java.io.FileWriter;
 
 public class Printer{
 
-	 public static List<String[]> albums = new ArrayList<String[]>();
-	 public static List<String[]> randoms = new ArrayList<String[]>();
+	public static List<String[]> albums = new ArrayList<String[]>();
 
 	public static String[] genreTypes = {"Any", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz"};
 
 	public static void main(String[] args) throws IOException {
 
-        //for (int g = 1; g <= genreTypes.length; g++) {
+    for (int g = 8; g <= genreTypes.length; g++) {
 
-		int g = 11;
+		//int g = 1;
 
         String site = getSite(g);
 
-        URL url = new URL(site);
-        getAlbums(url);
-
-        url = new URL(site + "2/#results");
-        getAlbums(url);
-
-        url = new URL(site + "3/#results");
-        getAlbums(url);
-
-        printAlbums();
-
-        for (String[] s : albums) {
-          for (String str : s) {
-        	 System.out.println(str);
-          }
-          System.out.println();
+        for (int i = 1; i <= 4; i ++) {
+          URL url;
+          if (i == 1)
+            url = new URL(site);
+          else
+            url = new URL(site + i + "/#results");
+          getAlbums(url);
         }
 
-    	//}
+        FileWriter myWriter = new FileWriter(genreTypes[g - 1].replace(" ", "-") + ".txt");
+        for (String[] s : albums) {
+          for (String str: s) {
+            myWriter.write(str + "\n");
+          }
+          myWriter.write("\n");
+        }
+        myWriter.close();
+
+        for (int i = 0; i < albums.size(); i=i) {
+          albums.remove(i);
+        }
+
+    	}
 
 	}
 
@@ -64,7 +69,7 @@ public class Printer{
     	while(sc.hasNext()) {
        String s = sc.next();
        
-       if (s.length() > 20 && s.substring(6, 21).equals("/release/album/")) {
+       if (s.contains("/release/album/") || s.contains("/release/mixtape/")) {
 
         String n = sc.next();
         int i = n.indexOf("\"");
@@ -199,33 +204,8 @@ public class Printer{
     	}
 	}
 
-	public static void printAlbums() {
-    	//System.out.println("How many albums would you like to generate? (MAX 120)");
-
-    int numAlbums = 9;//console.nextInt();
-    int num = 1;
-
-    ArrayList<String[]> albumsC = new ArrayList<String[]>();
-    for (String[] s : albums) {
-      albumsC.add(s);
-    }
-
-    while(numAlbums > 0) {
-      int i = (int) (albumsC.size() * Math.random());
-
-
-      //System.out.println(num + ". " + albums.get(i)[0] + " - " + albums.get(i)[1]);
-      randoms.add(new String[]{Integer.toString(num), albumsC.get(i)[0], albumsC.get(i)[1], albumsC.get(i)[2], albumsC.get(i)[3], albumsC.get(i)[4]});
-      
-      albumsC.remove(i);
-
-      numAlbums--;
-      num++;
-    }
-	}
-
 	public static String getSite(int genreNum) {
-    	String site = "https://rateyourmusic.com/charts/top/album/all-time/";
+    	String site = "https://rateyourmusic.com/charts/top/album,mixtape/all-time/";
 
     
       // String s = genreTypes[genreNum - 1];

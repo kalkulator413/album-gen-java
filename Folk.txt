@@ -68,7 +68,7 @@ The Bootleg Series Vol. 14: More Blood, More Tracks
 Bob Dylan
 e.snmc.io/i/300/s/d0495718b3133dc2ad3526d5da0091b8/7160627
 Singer/Songwriter, Contemporary Folk
-9.88
+9.86
 
 Five Leaves Left
 Nick Drake
@@ -86,7 +86,7 @@ Forever Changes
 Love
 e.snmc.io/i/300/s/524baed4edebd2c1f5f32cea4debd07f/2667874
 Psychedelic Pop, Psychedelic Rock, Psychedelic Folk
-9.54
+9.52
 
 Blue
 Joni Mitchell
@@ -98,25 +98,25 @@ Songs of Love and Hate
 Leonard Cohen
 e.snmc.io/i/300/s/6f9fb9f472defd46e9a0791a957f1e6c/7303903
 Singer/Songwriter, Contemporary Folk
-9.6
+9.58
 
 Ys
 Joanna Newsom
 e.snmc.io/i/300/s/b0b81e21f8c047a7121f5ff1f5d0599a/7851102
 Chamber Folk, Singer/Songwriter, Progressive Folk
-9.46
+9.48
 
 Dream Letter: Live in London 1968
 Tim Buckley
 e.snmc.io/i/300/s/21799ec9ce8f601ed0281e924eaa1f76/1225482
 Singer/Songwriter, Contemporary Folk
-9.7
+9.72
 
 Astral Weeks
 Van Morrison
 e.snmc.io/i/300/s/0f616894669858f90cc54b0c23db26f7/3457399
 Singer/Songwriter, Chamber Folk
-9.48
+9.46
 
 First Utterance
 Comus
@@ -133,7 +133,7 @@ Contemporary Folk, Singer/Songwriter
 Rear View Mirror
 Townes Van Zandt
 e.snmc.io/i/300/s/cecdb1bc584a352437e54b45ea24d7a5/8923764
-Singer/Songwriter, Country, Contemporary Folk, Outlaw Country
+Singer/Songwriter, Country, Contemporary Folk
 9.68
 
 Townes Van Zandt
@@ -146,7 +146,7 @@ Mount Eerie
 The Microphones
 e.snmc.io/i/300/s/e9c4811c96b21000465fe9d9c9411034/3897420
 Avant-Folk, Psychedelic Folk
-9.46
+9.48
 
 0%
 青葉市子
@@ -193,8 +193,8 @@ Chamber Folk, Singer/Songwriter, Progressive Folk
 プネウマ (Pneuma)
 青葉市子
 e.snmc.io/i/300/s/449713f1e0192822321f5b743e3b897b/6772033
-Chamber Folk
-9.5
+Chamber Folk, Singer/Songwriter
+9.52
 
 A Crow Looked at Me
 Mount Eerie
@@ -214,29 +214,29 @@ e.snmc.io/i/300/s/5fac348945e21256a03db09bd4713f87/1476108
 Singer/Songwriter, Indie Folk
 9.46
 
+0
+青葉市子
+e.snmc.io/i/300/s/c47934084004c42e7a4788a90a8ff91b/8329253
+Contemporary Folk, Singer/Songwriter
+9.36
+
+Folk Aesthetic
+Tenhi
+e.snmc.io/i/300/s/5cd8867da2efb33ec7d21bec3d165fca/2500468
+Dark Folk
+9.44
+
 The Bootleg Series Vol. 7: No Direction Home: The Soundtrack
 Bob Dylan
 e.snmc.io/i/300/s/450710a3002dafd9d7d2e25acd9cd2e3/1439008
 Singer/Songwriter, Folk Rock, Contemporary Folk
 9.44
 
-0
-青葉市子
-e.snmc.io/i/300/s/c47934084004c42e7a4788a90a8ff91b/8329253
-Contemporary Folk, Singer/Songwriter
-9.34
-
 Fare Forward Voyagers (Soldier's Choice)
 John Fahey
 e.snmc.io/i/300/s/e50b31abaac4b1d9bbe5bccfebba00e3/7231554
 American Primitivism
 9.38
-
-Folk Aesthetic
-Tenhi
-e.snmc.io/i/300/s/5cd8867da2efb33ec7d21bec3d165fca/2500468
-Dark Folk
-9.42
 
 Amazing Grace
 Aretha Franklin
@@ -268,17 +268,23 @@ e.snmc.io/i/300/s/5627d3392f7f1997dd27f5c941431f01/2236263
 Singer/Songwriter, Country, Contemporary Folk
 9.32
 
+Jackson C. Frank
+Jackson C. Frank
+e.snmc.io/i/300/s/aec8a7c0f5474d2a0506a4e24794cb39/4996422
+Contemporary Folk, Singer/Songwriter
+9.3
+
 Microphones in 2020
 The Microphones
 e.snmc.io/i/300/s/e5e85deb231fb8da6caa31d69883a8f9/8449827
 Singer/Songwriter, Indie Folk, Avant-Folk
 9.2
 
-Jackson C. Frank
-Jackson C. Frank
-e.snmc.io/i/300/s/aec8a7c0f5474d2a0506a4e24794cb39/4996422
+"Gift" at Sogetsu Hall
+青葉市子
+e.snmc.io/i/300/s/804df3a1bda79dc92997dd25faaad894/8089302
 Contemporary Folk, Singer/Songwriter
-9.3
+9.38
 
 Exuma
 Exuma
@@ -290,13 +296,7 @@ Desertshore
 Nico
 e.snmc.io/i/300/s/48cecfadd71ffe09d25450196059d481/8038102
 Avant-Folk, Chamber Folk
-9.24
-
-"Gift" at Sogetsu Hall
-青葉市子
-e.snmc.io/i/300/s/804df3a1bda79dc92997dd25faaad894/8089302
-Contemporary Folk, Singer/Songwriter
-9.36
+9.22
 
 Fly, Fly My Sadness
 The Bulgarian Voices Angelite, Huun-Huur-Tu /><a href="/artist/сергей_старостин" class="artistСергей Старостин
@@ -310,11 +310,11 @@ e.snmc.io/i/300/s/aaf782caa5121363aab7f638fa78e81c/1213109
 Singer/Songwriter, Folk Pop
 9.26
 
-The Wicker Man
-Paul Giovanni, Gary Carpenter /
-e.snmc.io/i/300/s/4806d43c96a9d9975baa019f862b8b49/2045348
-Film Score, Contemporary Folk, Film Soundtrack
-9.34
+Helplessness Blues
+Fleet Foxes
+e.snmc.io/i/300/s/4ea2966ae431bec1743bff24a3e8b7f3/3550870
+Indie Folk, Chamber Folk
+9.14
 
 The Dance of the Moon and the Sun
 Natural Snow Buildings
@@ -322,11 +322,11 @@ e.snmc.io/i/300/s/0c15ce615e5d2d690c523713684e8513/5322298
 Drone, Psychedelic Folk, Avant-Folk
 9.22
 
-Phil Ochs in Concert
-Phil Ochs
-e.snmc.io/i/300/s/5f60783e4f63e84a7fe720723d62df78/3305097
-Contemporary Folk, Singer/Songwriter
-9.38
+The Wicker Man
+Paul Giovanni, Gary Carpenter /
+e.snmc.io/i/300/s/4806d43c96a9d9975baa019f862b8b49/2045348
+Film Score, Contemporary Folk, Film Soundtrack
+9.34
 
 "Al final de este viaje..."
 Silvio Rodríguez
@@ -338,13 +338,7 @@ Live in London
 Leonard Cohen
 e.snmc.io/i/300/s/c228ab6bd000dfc9403f60b3dbff9b09/2618659
 Singer/Songwriter, Contemporary Folk
-9.32
-
-Helplessness Blues
-Fleet Foxes
-e.snmc.io/i/300/s/4ea2966ae431bec1743bff24a3e8b7f3/3550870
-Indie Folk, Chamber Folk
-9.12
+9.3
 
 Divers
 Joanna Newsom
@@ -352,17 +346,17 @@ e.snmc.io/i/300/s/bb9f549273d98057376871db694dfafd/5795654
 Chamber Folk, Singer/Songwriter
 9.22
 
-Veedon Fleece
-Van Morrison
-e.snmc.io/i/300/s/604998aa5164800b39825e6170cce944/1253666
-Singer/Songwriter, Contemporary Folk, Folk Rock
-9.24
-
 Mi sei apparso come un fantasma
 Songs: Ohia
 e.snmc.io/i/300/s/14fd23e30fd01589bae0902a2494edfd/1239446
 Singer/Songwriter, Contemporary Folk, Slowcore
 9.38
+
+Veedon Fleece
+Van Morrison
+e.snmc.io/i/300/s/604998aa5164800b39825e6170cce944/1253666
+Singer/Songwriter, Contemporary Folk, Folk Rock
+9.24
 
 Young Shakespeare
 Neil Young
@@ -370,34 +364,16 @@ e.snmc.io/i/300/s/846780a6cd8f8275ef87df523bfcdfed/8794280
 Singer/Songwriter, Contemporary Folk
 9.36
 
+Phil Ochs in Concert
+Phil Ochs
+e.snmc.io/i/300/s/5f60783e4f63e84a7fe720723d62df78/3305097
+Contemporary Folk, Singer/Songwriter
+9.36
+
 (after)
 Mount Eerie
 e.snmc.io/i/300/s/0fa2a24d8584cb529beba71c47e84429/7110314
 Singer/Songwriter, Indie Folk
-9.3
-
-Bookends
-Simon & Garfunkel
-e.snmc.io/i/300/s/423283d8716486c75ecdea1f804ea600/2667837
-Folk Pop, Folk Rock
-9.18
-
-Live at the Isle of Wight 1970
-Leonard Cohen
-e.snmc.io/i/300/s/10a5c8a2333a8fb5079b1024104a61ec/2999495
-Singer/Songwriter, Contemporary Folk
-9.3
-
-Didn't It Rain
-Songs: Ohia
-e.snmc.io/i/300/s/3a79862a8ed9785fe425e431c9a63d8b/2414076
-Singer/Songwriter, Contemporary Folk, Slowcore
-9.24
-
-Friday Night in San Francisco
-Al Di Meola,
-e.snmc.io/i/300/s/f1843028643fe734351a678b2dd8d2ee/2487903
-Flamenco Jazz
 9.28
 
 アダンの風 (Windswept Adan)
@@ -406,16 +382,34 @@ e.snmc.io/2.5/img/images/blockedf.png
 Chamber Folk, Singer/Songwriter
 9.18
 
-Le mystère des voix bulgares : volume 1
-Le Mystère des voix bulgares
-e.snmc.io/i/300/s/2fbbd762b91a9f8895af8f8341700823/2463213
-Bulgarian Folk Music, Polyphonic Chant, White Voice
-9.26
+Live at the Isle of Wight 1970
+Leonard Cohen
+e.snmc.io/i/300/s/10a5c8a2333a8fb5079b1024104a61ec/2999495
+Singer/Songwriter, Contemporary Folk
+9.3
+
+Bookends
+Simon & Garfunkel
+e.snmc.io/i/300/s/423283d8716486c75ecdea1f804ea600/2667837
+Folk Pop, Folk Rock
+9.18
+
+Didn't It Rain
+Songs: Ohia
+e.snmc.io/i/300/s/3a79862a8ed9785fe425e431c9a63d8b/2414076
+Singer/Songwriter, Contemporary Folk, Slowcore
+9.24
 
 Over the Garden Wall
 The Blasting Company
 e.snmc.io/i/300/s/7607bb301f8eff43221a7259328f12f9/6256130
-Ragtime, Television Music, Chamber Folk, American Folk Music
+Television Music, Ragtime, Chamber Folk, American Folk Music
+9.26
+
+Le mystère des voix bulgares : volume 1
+Le Mystère des voix bulgares
+e.snmc.io/i/300/s/2fbbd762b91a9f8895af8f8341700823/2463213
+Bulgarian Folk Music, Polyphonic Chant, White Voice
 9.26
 
 All Hail West Texas
@@ -424,17 +418,29 @@ e.snmc.io/i/300/s/59b17c227e5271ac0489adc6c2189306/3758889
 Singer/Songwriter, Indie Folk
 9.18
 
+Friday Night in San Francisco
+Al Di Meola,
+e.snmc.io/i/300/s/f1843028643fe734351a678b2dd8d2ee/2487903
+Flamenco Jazz
+9.26
+
+Minas
+Milton Nascimento
+e.snmc.io/i/300/s/4e7368a618768a6442a74c39df44423d/1434085
+MPB, Singer/Songwriter, Progressive Folk
+9.26
+
 Songs From Suicide Bridge
 David Kauffman &
 e.snmc.io/i/300/s/e0213182443e455a4f417e7ce0ab1970/2183875
 Contemporary Folk, Singer/Songwriter
-9.24
+9.26
 
-I Want to See the Bright Lights Tonight
-Richard & Linda Thompson
-e.snmc.io/i/300/s/64dc1747972605e188f620c3364918fd/3012175
-British Folk Rock, Contemporary Folk
-9.2
+Storia di un impiegato
+Fabrizio De André
+e.snmc.io/i/300/s/e2b2f9a8ce70f0609e8a7e29a5ae9e8b/1297940
+Canzone d'autore
+9.26
 
 For Emma, Forever Ago
 Bon Iver
@@ -442,11 +448,11 @@ e.snmc.io/i/300/s/43efed7a1b38bf0c500fbf2215e67f63/2045769
 Indie Folk, Singer/Songwriter
 9.02
 
-Storia di un impiegato
-Fabrizio De André
-e.snmc.io/i/300/s/e2b2f9a8ce70f0609e8a7e29a5ae9e8b/1297940
-Canzone d'autore
-9.24
+I Want to See the Bright Lights Tonight
+Richard & Linda Thompson
+e.snmc.io/i/300/s/64dc1747972605e188f620c3364918fd/3012175
+British Folk Rock, Contemporary Folk
+9.2
 
 かがやき (Kagayaki)
 高木正勝
@@ -456,7 +462,7 @@ Chamber Folk, Neoclassical New Age
 
 Starsailor
 Tim Buckley
-e.snmc.io/i/300/s/76fdf5fa1b592b0e325b05eef88c671b/2728541
+e.snmc.io/i/300/s/f23dc87bb29e01b97a373a644d2295ac/9098606
 Experimental Rock, Avant-Folk, Singer/Songwriter
 9.12
 
@@ -472,29 +478,17 @@ e.snmc.io/i/300/s/21791a1b36d5b07d48f6424a875d51f3/1938821
 Folk Pop, Contemporary Folk
 9.28
 
+Fleet Foxes
+Fleet Foxes
+e.snmc.io/i/300/s/d0b5368820b4b1b0ff4f096c15696138/7024826
+Chamber Folk, Indie Folk
+9.0
+
 Michigan
 Sufjan Stevens
 e.snmc.io/i/300/s/4b8a6faf87d141608d354c06fd13ec37/2310620
 Chamber Folk, Singer/Songwriter, Indie Folk
 9.1
-
-Tea for the Tillerman
-Cat Stevens
-e.snmc.io/i/300/s/e1020c2272b131518150045137aa467d/3815293
-Singer/Songwriter, Folk Pop, Folk Rock
-9.14
-
-Fleet Foxes
-Fleet Foxes
-e.snmc.io/i/300/s/d0b5368820b4b1b0ff4f096c15696138/7024826
-Chamber Folk, Indie Folk
-8.98
-
-Les cinq saisons
-Harmonium
-e.snmc.io/i/300/s/df9a8da4de7749f792b6633af3c87d7d/6209405
-Progressive Folk
-9.18
 
 Non al denaro non all'amore né al cielo
 Fabrizio De André
@@ -502,16 +496,28 @@ e.snmc.io/i/300/s/527b12739abd75e367f388cdaa27aa12/1569800
 Canzone d'autore
 9.2
 
+Tea for the Tillerman
+Cat Stevens
+e.snmc.io/i/300/s/e1020c2272b131518150045137aa467d/3815293
+Singer/Songwriter, Folk Pop, Folk Rock
+9.14
+
+Les cinq saisons
+Harmonium
+e.snmc.io/i/300/s/df9a8da4de7749f792b6633af3c87d7d/6209405
+Progressive Folk
+9.18
+
+Live at the Troubadour 1969
+Tim Buckley
+e.snmc.io/i/300/s/1f57ec3959ec2b0863d081a29d7d2147/2761142
+Singer/Songwriter, Psychedelic Folk
+9.26
+
 Happy Sad
 Tim Buckley
 e.snmc.io/i/300/s/5878729f1ee1867d116db953aa3f36f0/3913404
 Singer/Songwriter, Psychedelic Folk
-9.12
-
-Parsley, Sage, Rosemary and Thyme
-Simon and Garfunkel
-e.snmc.io/i/300/s/ee2b94bbb8f6b438630a2651ca23affc/2667835
-Folk Pop, Folk Rock
 9.12
 
 Ghost Tropic
@@ -520,17 +526,17 @@ e.snmc.io/i/300/s/958a3276a7e3a9d194f161c8c9722c4b/1322493
 Contemporary Folk, Singer/Songwriter, Slowcore
 9.16
 
-Live at the Troubadour 1969
-Tim Buckley
-e.snmc.io/i/300/s/1f57ec3959ec2b0863d081a29d7d2147/2761142
-Singer/Songwriter, Psychedelic Folk
-9.26
+Geraes
+Milton Nascimento
+e.snmc.io/i/300/s/1dc5c5bac354ff60e470aa0bf08d9eba/1406674
+MPB, Contemporary Folk, Singer/Songwriter
+9.24
 
-New Skin for the Old Ceremony
-Leonard Cohen
-e.snmc.io/2.5/img/images/blockedf.png
-Singer/Songwriter, Contemporary Folk
-9.14
+Parsley, Sage, Rosemary and Thyme
+Simon and Garfunkel
+e.snmc.io/i/300/s/ee2b94bbb8f6b438630a2651ca23affc/2667835
+Folk Pop, Folk Rock
+9.12
 
 John Prine
 John Prine
@@ -544,17 +550,17 @@ e.snmc.io/i/300/s/efbef9208ac82ae86a7873d047368e83/1761109
 MPB, Avant-Folk
 9.2
 
-Volume 6: Days Have Gone By
-John Fahey
-e.snmc.io/i/300/s/a2f75e9547c9a9b711a17a26f9048ce4/2723479
-American Primitivism
-9.18
+New Skin for the Old Ceremony
+Leonard Cohen
+e.snmc.io/2.5/img/images/blockedf.png
+Singer/Songwriter, Contemporary Folk
+9.14
 
-Geraes
-Milton Nascimento
-e.snmc.io/i/300/s/1dc5c5bac354ff60e470aa0bf08d9eba/1406674
-MPB, Contemporary Folk, Singer/Songwriter
-9.22
+The Lioness
+Songs: Ohia
+e.snmc.io/i/300/s/b516a13f8bb2f6587a0a1f24c4752fff/8794572
+Singer/Songwriter, Slowcore, Contemporary Folk
+9.14
 
 The Sunset Tree
 The Mountain Goats
@@ -562,11 +568,11 @@ e.snmc.io/i/300/s/71223bd12822db11cca75d2afc5eded6/2257875
 Indie Folk, Singer/Songwriter
 9.12
 
-The Lioness
-Songs: Ohia
-e.snmc.io/i/300/s/b516a13f8bb2f6587a0a1f24c4752fff/8794572
-Singer/Songwriter, Contemporary Folk, Slowcore
-9.14
+Volume 6: Days Have Gone By
+John Fahey
+e.snmc.io/i/300/s/a2f75e9547c9a9b711a17a26f9048ce4/2723479
+American Primitivism
+9.18
 
 The Times They Are A-Changin'
 Bob Dylan
@@ -586,10 +592,10 @@ e.snmc.io/i/300/s/55233836a97e70ce2827245ad5ff6969/7846888
 Indie Folk, Singer/Songwriter
 9.12
 
-Korowód
-Marek Grechuta, Anawa
-e.snmc.io/i/300/s/a520dfdada394017f487ea2c4c4f1f8f/4186298
-Progressive Folk, Poezja śpiewana, Folk Rock
+La buona novella
+Fabrizio De André
+e.snmc.io/i/300/s/b430acd3d08e276dfb8770fc4e9b08cf/2759269
+Canzone d'autore, Chamber Folk
 9.16
 
 El derecho de vivir en paz
@@ -598,16 +604,16 @@ e.snmc.io/i/300/s/1ac0345b6e722eca48ddad6a7270b77c/8829456
 Nueva canción latinoamericana
 9.18
 
+Korowód
+Marek Grechuta, Anawa
+e.snmc.io/i/300/s/a520dfdada394017f487ea2c4c4f1f8f/4186298
+Progressive Folk, Poezja śpiewana, Folk Rock
+9.16
+
 大勘定 (Daikanjyo)
 明田川荘之
 e.snmc.io/i/300/s/529ce0950ee4383d3c4b212570905cce/4770402
 Avant-Folk, Free Improvisation
-9.16
-
-La buona novella
-Fabrizio De André
-e.snmc.io/i/300/s/b430acd3d08e276dfb8770fc4e9b08cf/2759269
-Canzone d'autore, Chamber Folk
 9.16
 
 John Wesley Harding
@@ -616,17 +622,17 @@ e.snmc.io/i/300/s/81e7255d2ed9a4526c8925b0c5db6879/1966527
 Folk Rock, Singer/Songwriter, Contemporary Folk
 9.06
 
-O Brother, Where Art Thou?
-Various Artists
-e.snmc.io/i/300/s/a38aebfec0d75fdf41975e4073b7ac26/6519525
-Film Soundtrack, American Folk Music, Country
-9.14
-
 The Milk-Eyed Mender
 Joanna Newsom
 e.snmc.io/i/300/s/4c0f1eb10244a84474fcdea0de9ac0c3/3324388
 Contemporary Folk, Singer/Songwriter
 9.06
+
+The Marble Index
+Nico
+e.snmc.io/i/300/s/73b769038f7b757d1bc693b695bfbe17/2893749
+Avant-Folk
+9.08
 
 Secos & Molhados
 Secos & Molhados
@@ -634,34 +640,10 @@ e.snmc.io/i/300/s/6b52f04a57a1c5d6f5d87740b03cf3f9/5020907
 Folk Pop, Progressive Pop, Art Pop
 9.14
 
-Miles of Aisles
-Joni Mitchell, L.A. Express
-e.snmc.io/i/300/s/0d8910baad59dc4b3a59ea1d1d9825a9/6150519
-Singer/Songwriter, Contemporary Folk
-9.2
-
-The Marble Index
-Nico
-e.snmc.io/i/300/s/73b769038f7b757d1bc693b695bfbe17/2893749
-Avant-Folk
-9.06
-
-Teaser and the Firecat
-Cat Stevens
-e.snmc.io/i/300/s/8486826991435e569c0a3bd244808f04/5587030
-Singer/Songwriter, Folk Rock, Folk Pop, Contemporary Folk
-9.12
-
-Paêbirú
-Lula Côrtes, Zé Ramalho
-e.snmc.io/i/300/s/62d9bf76d48b50ec3fd2eb5820718265/1592399
-Psychedelic Folk, Brazilian Folk Music
-9.14
-
-Father of Folk Blues
-Son House
-e.snmc.io/i/300/s/fd829021700134df169fb0982040eaa8/2198848
-Delta Blues
+O Brother, Where Art Thou?
+Various Artists
+e.snmc.io/i/300/s/a38aebfec0d75fdf41975e4073b7ac26/6519525
+Film Soundtrack, American Folk Music, Country
 9.14
 
 America
@@ -670,17 +652,59 @@ e.snmc.io/i/300/s/4f0bdd9066e92f5bbe30e447b97a8169/1214721
 American Primitivism
 9.14
 
+Teaser and the Firecat
+Cat Stevens
+e.snmc.io/i/300/s/8486826991435e569c0a3bd244808f04/5587030
+Singer/Songwriter, Folk Pop, Folk Rock, Contemporary Folk
+9.12
+
+Paêbirú
+Lula Côrtes, Zé Ramalho
+e.snmc.io/i/300/s/62d9bf76d48b50ec3fd2eb5820718265/1592399
+Psychedelic Folk, Brazilian Folk Music
+9.14
+
+Thunder Perfect Mind
+Current 93
+e.snmc.io/i/300/s/c863818397de005705f4ee1eaf986e91/2352617
+Neofolk
+9.08
+
+Father of Folk Blues
+Son House
+e.snmc.io/i/300/s/fd829021700134df169fb0982040eaa8/2198848
+Delta Blues
+9.14
+
+Miles of Aisles
+Joni Mitchell, L.A. Express
+e.snmc.io/i/300/s/0d8910baad59dc4b3a59ea1d1d9825a9/6150519
+Singer/Songwriter, Contemporary Folk
+9.18
+
 Ladies of the Canyon
 Joni Mitchell
 e.snmc.io/i/300/s/fb7a4ef80f76d342a2904fd8d30b0096/4051805
 Singer/Songwriter, Contemporary Folk
 9.12
 
-Thunder Perfect Mind
-Current 93
-e.snmc.io/i/300/s/c863818397de005705f4ee1eaf986e91/2352617
-Neofolk
-9.06
+Alturas de Machu Pichu
+Los Jaivas
+e.snmc.io/i/300/s/a6c448f07e8bccfeaf7794d1a6b60613/1361628
+Progressive Rock, Progressive Folk, Andean Rock
+9.12
+
+A peleja do Diabo com o dono do céu
+Zé Ramalho
+e.snmc.io/i/300/s/34b7c6f2dd3768c0358063028bbad65a/3572321
+Contemporary Folk, Cantoria
+9.18
+
+Gunfighter Ballads and Trail Songs
+Marty Robbins
+e.snmc.io/i/300/s/b7edef03053c18b0f258bdd69d829e78/4921077
+Cowboy
+9.1
 
 Tutti morimmo a stento
 Fabrizio De André
@@ -694,26 +718,243 @@ e.snmc.io/i/300/s/eb45da1fb7ce5ba3acc2aa38f96a3d2a/3506693
 Nueva canción latinoamericana, Singer/Songwriter, Indigenous Andean Music
 9.14
 
-Alturas de Machu Pichu
-Los Jaivas
-e.snmc.io/i/300/s/a6c448f07e8bccfeaf7794d1a6b60613/1361628
-Progressive Rock, Progressive Folk, Andean Rock
-9.12
-
-Gunfighter Ballads and Trail Songs
-Marty Robbins
-e.snmc.io/i/300/s/b7edef03053c18b0f258bdd69d829e78/4921077
-Cowboy
-9.1
-
-A peleja do Diabo com o dono do céu
-Zé Ramalho
-e.snmc.io/i/300/s/34b7c6f2dd3768c0358063028bbad65a/3572321
-Contemporary Folk, Cantoria
-9.18
-
 In concerto: Arrangiamenti PFM
 Fabrizio De André, Premiata Forneria Marconi
 e.snmc.io/i/300/s/d24c43714b15b7680a5489822e637031/1569806
 Canzone d'autore, Contemporary Folk
 9.16
+
+Roman Candle
+Elliott Smith
+e.snmc.io/i/300/s/949dd873e52e103e2bcac0fa4301dff8/1325170
+Singer/Songwriter, Indie Folk
+9.04
+
+Vol. II: Death Chants, Breakdowns and Military Waltzes
+John Fahey
+e.snmc.io/i/300/s/6e9abf346ef1983afca7aed5ba9a3a7a/6415873
+American Primitivism
+9.12
+
+Folk Singer
+Muddy Waters
+e.snmc.io/i/300/s/0fd6ba6854d0afe46df2f48b4fa7ed30/2620121
+Delta Blues
+9.1
+
+Lorca
+Tim Buckley
+e.snmc.io/i/300/s/c9c92e2e77193637b06639e98c4df381/4047939
+Avant-Folk, Psychedelic Folk, Singer/Songwriter
+9.06
+
+Time (The Revelator)
+Gillian Welch
+e.snmc.io/i/300/s/7ae3eaabfd75ab8d2f8c959569429c2e/2760910
+Americana, Contemporary Folk, Singer/Songwriter
+9.1
+
+La leyenda del tiempo
+Camarón
+e.snmc.io/i/300/s/7cb35573440d97d2afaedfe2e03b53e8/5442058
+Flamenco nuevo
+9.1
+
+Today!
+Mississippi John Hurt
+e.snmc.io/i/300/s/acb1209aa3785d60175d8a0a01bd6515/4802934
+Piedmont Blues, Country Blues
+9.14
+
+Almoraima
+Paco de Lucía
+e.snmc.io/i/300/s/91bf2f9bfd4b63ad5761323bcfba61fb/1379009
+Flamenco
+9.16
+
+Sounds of Silence
+Simon & Garfunkel
+e.snmc.io/i/300/s/052e5c22535cba325b2b9a6607fd99aa/4981818
+Folk Pop, Folk Rock
+9.02
+
+Dragging a Dead Deer Up a Hill
+Grouper
+e.snmc.io/i/300/s/0a7662eb2a491a9e149089f53c01bdbc/2592690
+Psychedelic Folk, Ambient
+9.0
+
+Will the Circle Be Unbroken
+The Nitty Gritty Dirt Band
+e.snmc.io/i/300/s/d498c5929f41abff398c02fe4157e19c/2137384
+Bluegrass, Traditional Country
+9.1
+
+Fuente y caudal
+Paco de Lucía
+e.snmc.io/i/300/s/8358f58780c43fdbab2d5a579bc7a0cc/5891147
+Flamenco
+9.12
+
+Beauty Reaps the Blood of Solitude
+Nature and Organisation
+e.snmc.io/i/300/s/618f8a07c46338ea01a0d65845bcad59/2749948
+Neofolk
+9.1
+
+Like a Ship... (Without a Sail)
+Pastor T.L. Barrett, The Youth for Christ Choir
+e.snmc.io/i/300/s/65d13761fc2d459e953817dab6f874b5/3096873
+Soul, Gospel, Spirituals
+9.14
+
+Just Another Diamond Day
+Vashti Bunyan
+e.snmc.io/i/300/s/4dc43240ec04ac1eb8a191e66e53954a/3099943
+Chamber Folk, Singer/Songwriter, Contemporary Folk
+9.02
+
+Sojourner
+Magnolia Electric Co.
+e.snmc.io/i/300/s/f2fe36d9424d3bb3baca5d995c97771e/1952690
+Alt-Country, Americana, Folk Rock, Contemporary Folk
+9.1
+
+Parallelograms
+Linda Perhacs
+e.snmc.io/i/300/s/f2e0f215b7a12038c7f61625fc0d01e8/2805357
+Psychedelic Folk, Singer/Songwriter
+9.06
+
+Zé Ramalho
+Zé Ramalho
+e.snmc.io/i/300/s/55dcacca3adb85726505ae3f45d235f5/3092525
+Contemporary Folk, Singer/Songwriter, Cantoria
+9.16
+
+New Moon
+Elliott Smith
+e.snmc.io/i/300/s/7e37401a68d8ce60708600923b6b5c41/5146841
+Singer/Songwriter, Indie Folk
+9.06
+
+Crêuza de mä
+Fabrizio De André
+e.snmc.io/i/300/s/61381c7ffc2df6eb8d6ac33c231af2e5/1297941
+Canzone d'autore, Contemporary Folk
+9.08
+
+Benji
+Sun Kil Moon
+e.snmc.io/i/300/s/fe7211f8db687841a294de898875c2db/5081896
+Contemporary Folk, Singer/Songwriter
+8.92
+
+The Concert in Central Park
+Simon and Garfunkel
+e.snmc.io/i/300/s/4ee91a18dfba796c00e7eb0d4e7534ca/2418036
+Folk Pop, Singer/Songwriter, Pop Rock
+9.08
+
+Omega
+Enrique Morente, Lagartija Nick
+e.snmc.io/i/300/s/f9794b666d14a68fc57f3b597cdf9b93/6241859
+Flamenco nuevo, Experimental Rock
+9.1
+
+Songs From a Room
+Leonard Cohen
+e.snmc.io/i/300/s/26df65d2878c60e0d2f3dd8a21564e07/2221897
+Contemporary Folk, Singer/Songwriter
+9.02
+
+You Don't Mess Around With Jim
+Jim Croce
+e.snmc.io/i/300/s/6e3ff36568de8948c2a87ec0c353a4aa/8810005
+Singer/Songwriter, Folk Pop
+9.08
+
+Días y flores
+Silvio Rodríguez
+e.snmc.io/i/300/s/bb1226a0264d59c688cad3768aabb5cc/3887727
+Nueva trova
+9.12
+
+Live in Dublin
+Bruce Springsteen With The Sessions Band
+e.snmc.io/i/300/s/3e915757bee19dc010c5faa2f411e3cb/1921954
+Folk Rock, American Folk Music
+9.1
+
+Mediterráneo
+Joan Manuel Serrat
+e.snmc.io/i/300/s/fb68c6f56d27e9fb8eb14a93098940a1/4471710
+Nueva canción española, Singer/Songwriter, Baroque Pop
+9.08
+
+Beverly Glenn-Copeland
+Beverly Glenn-Copeland
+e.snmc.io/i/300/s/0bbcdc32493ae2c65c4f7de7666cfa44/1522431
+Singer/Songwriter, Contemporary Folk, Psychedelic Folk
+9.12
+
+Goodbye and Hello
+Tim Buckley
+e.snmc.io/i/300/s/1b514c1a291b16d76bf6beef5c4e05b4/4196265
+Singer/Songwriter, Folk Rock, Psychedelic Folk
+9.02
+
+Sugar Mountain: Live at Canterbury House 1968
+Neil Young
+e.snmc.io/i/300/s/f4fa6d6e7fa1cc7f697b28917ab9ee9c/2439826
+Singer/Songwriter, Contemporary Folk, Folk Rock
+9.12
+
+Heart Food
+Judee Sill
+e.snmc.io/i/300/s/a84d33c6110f3c78109cf987d1f8dc68/1232283
+Singer/Songwriter, Chamber Folk
+9.06
+
+Por este rio acima
+Fausto
+e.snmc.io/i/300/s/f3026ea0b1a1da306e61e40e592cd495/6662043
+Progressive Folk, Portuguese Folk Music
+9.1
+
+Seven Swans
+Sufjan Stevens
+e.snmc.io/i/300/s/e8227ea304e5f96cc2a761027396818d/8773469
+Singer/Songwriter, Indie Folk, Chamber Folk
+8.96
+
+Of Ruine or Some Blazing Starre
+Current 93
+e.snmc.io/i/300/s/8623b32efe89c701c4f6622d6b95dd7c/1970459
+Neofolk
+9.02
+
+Sleep Has His House
+Current Ninety Three
+e.snmc.io/i/300/s/d3950652e17c0d1fa78fb00f76245033/4920690
+Neofolk, Avant-Folk
+9.04
+
+qp
+青葉市子
+e.snmc.io/i/300/s/a886ec150d725799a7f7354f85d792b0/7132500
+Contemporary Folk, Singer/Songwriter
+9.04
+
+Time of No Reply
+Nick Drake
+e.snmc.io/i/300/s/3957a84607d959c0a0a6d594d282d290/2429564
+Contemporary Folk, Singer/Songwriter
+9.08
+
+All the Pretty Little Horses
+Current 93
+e.snmc.io/i/300/s/1305409af19da3a348b457b86fc9ca62/1218481
+Neofolk
+8.96
+

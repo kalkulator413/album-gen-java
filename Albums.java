@@ -1,4 +1,5 @@
 //FNU Kalkin, 2021
+//fix text panel sizes, make it so more accessible on windows
 
 import java.io.IOException;
 import java.net.URL;
@@ -29,25 +30,11 @@ class Albums extends JFrame {
   public static void main(String[] args) throws IOException {
 
     JFrame start = new JFrame();
-    start.setSize(900, 650);
-
-    DefaultListModel<String> genre = new DefaultListModel<>();
-    for (String s : genreTypes) {
-      genre.addElement(s);
-    }
+    DefaultListModel<String> genre = new DefaultListModel<>(); 
     JList<String> list1 = new JList<>(genre);
-    list1.setBounds(300, 250, 100, 17*genreTypes.length);
-    start.add(list1);
+    JButton bStart =new JButton("Generate");
 
-    JButton bStart =new JButton("Generate");  
-    bStart.setBounds(500,275,100,50);
-    bStart.setBackground(new Color(30, 30, 30));
-    start.add(bStart);
-
-    final JLabel label = new JLabel("Select Genre:");          
-    label.setBounds(400, 150, 100, 50);
-    label.setForeground(new Color(200, 200, 200));
-    start.add(label);
+    selectionScreen(start, list1, bStart, genre);
 
     bStart.addActionListener(new ActionListener() {
               public void actionPerformed(ActionEvent e) {
@@ -59,15 +46,14 @@ class Albums extends JFrame {
                   String site = getSite();
 
                   try{
-                    URL url = new URL(site);
-                    getAlbums(url);
-
-                    url = new URL(site + "2/#results");
-                    getAlbums(url);
-
-                    url = new URL(site + "3/#results");
-                    getAlbums(url);
-
+                    for (int i = 1; i <= 4; i ++) {
+                      URL url;
+                      if (i == 1)
+                        url = new URL(site);
+                      else
+                        url = new URL(site + i + "/#results");
+                      getAlbums(url);
+                    }
                   } catch (IOException ioe) {
                     System.out.println(ioe);
                   }
@@ -92,6 +78,26 @@ class Albums extends JFrame {
 
   }
 
+  public static void selectionScreen(JFrame start, JList<String> list1, JButton bStart, DefaultListModel<String> genre) {
+    start.setSize(900, 660);
+
+    for (String s : genreTypes) {
+      genre.addElement(s);
+    }
+
+    list1.setBounds(300, 250, 100, 17*genreTypes.length);
+    start.add(list1);
+
+    bStart.setBounds(500,275,100,50);
+    bStart.setBackground(new Color(30, 30, 30));
+    start.add(bStart);
+
+    final JLabel label = new JLabel("Select Genre:");          
+    label.setBounds(400, 150, 100, 50);
+    label.setForeground(new Color(200, 200, 200));
+    start.add(label);
+  }
+
   public static String fixString(String title) {
           title = title.replace("</div>", "");
           title = title.replace("</a>", "");
@@ -107,7 +113,7 @@ class Albums extends JFrame {
   }
 
   public static String getSite() {
-    String site = "https://rateyourmusic.com/charts/top/album/all-time/";
+    String site = "https://rateyourmusic.com/charts/top/album,mixtape/all-time/";
 
     //if (genreNum > 1) {
       // String s = genreTypes[genreNum - 1];
@@ -131,9 +137,8 @@ class Albums extends JFrame {
       String image = sc.nextLine();
       String genres = sc.nextLine();
       String rating = sc.nextLine();
-      if (i != 119) {
-        sc.nextLine();
-      }
+      sc.nextLine();
+
       albums.add(new String[]{title, artist, image, genres, rating});
     }
   }
@@ -144,7 +149,7 @@ class Albums extends JFrame {
     while(sc.hasNext()) {
        String s = sc.next();
        
-       if (s.length() > 20 && s.substring(6, 21).equals("/release/album/")) {
+       if (s.contains("/release/album/") || s.contains("/release/mixtape/")) {
 
         String n = sc.next();
         int i = n.indexOf("\"");
@@ -274,7 +279,7 @@ class Albums extends JFrame {
 
           if (title.equals("Electric Ladyland"))
             picLink = "images-na.ssl-images-amazon.com/images/I/51VWpTObMvL.jpg";
-          
+
           albums.add(new String[]{title, artist, picLink, genres, rating});
         }
 
@@ -311,7 +316,7 @@ class Albums extends JFrame {
   
   public static void showAlbums() {
     Albums test = new Albums();
-    test.setSize(900, 600/9 * randoms.size() + 50);
+    test.setSize(900, 600/9 * randoms.size() + 60);
     test.setResizable(false);
     test.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
@@ -364,7 +369,7 @@ class Albums extends JFrame {
   public void paint(Graphics g) {
 
     g.setColor(new Color(30, 30, 30));
-    g.fillRect(0, 0, 900, 600/9 * randoms.size() + 50);
+    g.fillRect(0, 0, 900, 600/9 * randoms.size() + 60);
 
     g.setColor(Color.WHITE);
 
@@ -398,18 +403,15 @@ class Albums extends JFrame {
       if (green < 0)
         green = 0;
 
-      // System.out.println(r);
-      // System.out.println("RED: " + red + ", GREEN: " + green);
-
       g.setColor(new Color(red, green, 0));
       g.drawString(randoms.get(i)[5], 110 + (int) (randoms.get(i)[4].length() * 13 * ((0.5 + 0.75)/2 + 0.75)/2), 80 + i * 70);
       g.setColor(Color.WHITE);
 
       //images
-      g.fillRect(9, 24+i*70, 52, 52);
+      g.fillRect(9, 34+i*70, 52, 52);
       try {
         BufferedImage img = ImageIO.read(new URL("https://" + randoms.get(i)[3]));
-        g.drawImage(img, 10, 25 + i * 70, 50, 50, null);
+        g.drawImage(img, 10, 35 + i * 70, 50, 50, null);
       } catch (IOException ioe) {
         System.out.println(ioe);
       }
