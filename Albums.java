@@ -280,6 +280,9 @@ class Albums extends JFrame {
           if (title.equals("Electric Ladyland"))
             picLink = "images-na.ssl-images-amazon.com/images/I/51VWpTObMvL.jpg";
 
+          if (title.equals("A Promise"))
+            picLink = "i.scdn.co/image/ab67616d0000b2737c2f4ecdb972f4a9b698d08a";
+          
           albums.add(new String[]{title, artist, picLink, genres, rating});
         }
 

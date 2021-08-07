@@ -17,7 +17,7 @@ public class Printer{
 
 	public static void main(String[] args) throws IOException {
 
-    for (int g = 8; g <= genreTypes.length; g++) {
+    for (int g = 1; g <= genreTypes.length; g++) {
 
 		//int g = 1;
 
@@ -196,6 +196,9 @@ public class Printer{
 
           if (title.equals("The Money Store"))
             picLink = "static.wikia.nocookie.net/4chanmusic/images/2/29/Tms-1200.jpg/revision/latest/scale-to-width-down/500?cb=20160210044217";
+
+          if (title.equals("A Promise"))
+            picLink = "i.scdn.co/image/ab67616d0000b2737c2f4ecdb972f4a9b698d08a";
           
           albums.add(new String[]{title, artist, picLink, genres, rating});
         }
