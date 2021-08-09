@@ -23,7 +23,13 @@ public class Printer{
 
         String site = getSite(g);
 
-        for (int i = 1; i <= 4; i ++) {
+        int numPages;
+        if (g == 1)
+          numPages = 5;
+        else
+          numPages = 4;
+
+        for (int i = 1; i <= numPages; i ++) {
           URL url;
           if (i == 1)
             url = new URL(site);

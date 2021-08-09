@@ -46,7 +46,12 @@ class Albums extends JFrame {
                   String site = getSite();
 
                   try{
-                    for (int i = 1; i <= 4; i ++) {
+                    int numPages;
+                    if (gNum == 1)
+                      numPages = 5;
+                    else
+                      numPages = 3;
+                    for (int i = 1; i <= numPages; i ++) {
                       URL url;
                       if (i == 1)
                         url = new URL(site);
