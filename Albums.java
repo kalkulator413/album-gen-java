@@ -1,5 +1,6 @@
 //FNU Kalkin, 2021
 //fix text panel sizes, make it so more accessible on windows
+//put text files in seperate folder
 
 import java.io.IOException;
 import java.net.URL;
