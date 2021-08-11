@@ -19,7 +19,7 @@ import javax.imageio.*;
 
 class Albums extends JFrame {
 
-  public static boolean LIVE = true;
+  public static boolean LIVE = false;
 
   public static List<String[]> albums = new ArrayList<String[]>();
   public static List<String[]> randoms = new ArrayList<String[]>();
@@ -50,7 +50,7 @@ class Albums extends JFrame {
                     if (gNum == 1)
                       numPages = 5;
                     else
-                      numPages = 3;
+                      numPages = 4;
                     for (int i = 1; i <= numPages; i ++) {
                       URL url;
                       if (i == 1)
@@ -130,7 +130,7 @@ class Albums extends JFrame {
   }
 
   public static void getAlbums() throws FileNotFoundException {
-    String fileName = genreTypes[genreNum - 1];
+    String fileName = genreTypes[genreNum - 1].toLowerCase();
     fileName = fileName.replace(" ", "-") + ".txt";
 
     File file = new File(fileName);
