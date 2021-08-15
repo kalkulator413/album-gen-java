@@ -283,7 +283,7 @@ Jazz-Rock, Pop Rock
 宇宙 日本 世田谷 (Uchū Nippon Setagaya)
 Fishmans
 e.snmc.io/i/300/s/8fef2706a43f8c8451718547df311282/6122404
-Dream Pop, Downtempo, Ambient Pop
+Dream Pop, Downtempo
 9.44
 
 XO
@@ -576,7 +576,7 @@ Singer/Songwriter, Folk Pop
 
 救済の技法 (Kyuusai no gihou)
 平沢進
-e.snmc.io/i/300/s/708ae1ed581e8305b380039b49569659/1626055
+e.snmc.io/i/300/s/00fc83e108d776fe7e2e161313ae36c1/9229820
 Art Pop, Progressive Pop
 9.3
 
@@ -733,7 +733,7 @@ Art Pop
 Dusty in Memphis
 Dusty Springfield
 e.snmc.io/i/300/s/0a9aa5658025cd1dd97fc11f94c0f859/2489416
-Pop Soul, Blue-Eyed Soul, Pop Rock
+Pop Soul, Blue-Eyed Soul
 9.22
 
 Secret World Live

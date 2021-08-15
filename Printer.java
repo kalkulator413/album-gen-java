@@ -38,7 +38,7 @@ public class Printer{
           getAlbums(url);
         }
 
-        FileWriter myWriter = new FileWriter(genreTypes[g - 1].replace(" ", "-").toLowerCase() + ".txt");
+        FileWriter myWriter = new FileWriter("./Genres/" + genreTypes[g - 1].replace(" ", "-").toLowerCase() + ".txt");
         for (String[] s : albums) {
           for (String str: s) {
             myWriter.write(str + "\n");

@@ -1,6 +1,5 @@
 //FNU Kalkin, 2021
 //fix text panel sizes, make it so more accessible on windows
-//put text files in seperate folder
 
 import java.io.IOException;
 import java.net.URL;
@@ -20,7 +19,7 @@ import javax.imageio.*;
 
 class Albums extends JFrame {
 
-  public static boolean LIVE = false;
+  public static boolean LIVE = true;
 
   public static List<String[]> albums = new ArrayList<String[]>();
   public static List<String[]> randoms = new ArrayList<String[]>();
@@ -84,6 +83,30 @@ class Albums extends JFrame {
 
   }
 
+  public static String[] album(String title, String artist, String rating, String pic, String genres) {
+    return new String[]{title, artist, rating, pic, genres};
+  }
+
+  public static String getTitle(String[] album) {
+    return album[0];
+  }
+
+  public static String getArtist(String[] album) {
+    return album[1];
+  }
+
+  public static String getRating(String[] album) {
+    return album[2];
+  }
+
+  public static String getPic(String[] album) {
+    return album[3];
+  }
+
+  public static String getGenres(String[] album) {
+    return album[4];
+  }
+
   public static void selectionScreen(JFrame start, JList<String> list1, JButton bStart, DefaultListModel<String> genre) {
     start.setSize(900, 660);
 
@@ -134,7 +157,7 @@ class Albums extends JFrame {
     String fileName = genreTypes[genreNum - 1].toLowerCase();
     fileName = fileName.replace(" ", "-") + ".txt";
 
-    File file = new File(fileName);
+    File file = new File("./Genres/" + fileName);
 
     Scanner sc = new Scanner(file);
     for (int i = 0; i < 120; i ++) {
@@ -145,7 +168,7 @@ class Albums extends JFrame {
       String rating = sc.nextLine();
       sc.nextLine();
 
-      albums.add(new String[]{title, artist, image, genres, rating});
+      albums.add(album(title, artist, rating, image, genres));
     }
   }
 
@@ -289,7 +312,7 @@ class Albums extends JFrame {
           if (title.equals("A Promise"))
             picLink = "i.scdn.co/image/ab67616d0000b2737c2f4ecdb972f4a9b698d08a";
           
-          albums.add(new String[]{title, artist, picLink, genres, rating});
+          albums.add(album(title, artist, rating, picLink, genres));
         }
 
        }
@@ -313,7 +336,7 @@ class Albums extends JFrame {
 
 
       //System.out.println(num + ". " + albums.get(i)[0] + " - " + albums.get(i)[1]);
-      randoms.add(new String[]{Integer.toString(num), albumsC.get(i)[0], albumsC.get(i)[1], albumsC.get(i)[2], albumsC.get(i)[3], albumsC.get(i)[4]});
+      randoms.add(album(getTitle(albumsC.get(i)), getArtist(albumsC.get(i)), getRating(albumsC.get(i)), getPic(albumsC.get(i)), getGenres(albumsC.get(i))));
       
       albumsC.remove(i);
 
@@ -385,24 +408,24 @@ class Albums extends JFrame {
     for (int i = 0; i < randoms.size(); i ++) {
       //number
       g.setFont(new Font("SANS_SERIF", 0, 20));
-      g.drawString(randoms.get(i)[0] + ". ", 80, 50 + i*70);
+      g.drawString(Integer.toString(i + 1) + ". ", 80, 50 + i*70);
 
       //title
       g.setFont(new Font("SANS_SERIF", 2, 20));
-      g.drawString(randoms.get(i)[1], 103, 50 + i * 70);
+      g.drawString(getTitle(randoms.get(i)), 103, 50 + i * 70);
 
       //artist
       g.setFont(new Font("SANS_SERIF", 0, 17));
-      g.drawString(randoms.get(i)[2], 105, 67 + i * 70);
+      g.drawString(getArtist(randoms.get(i)), 105, 67 + i * 70);
 
       //genres
       g.setFont(new Font("MONOSPACED", 0, 13));
-      g.drawString(randoms.get(i)[4], 106, 80 + i * 70);
+      g.drawString(getGenres(randoms.get(i)), 106, 80 + i * 70);
 
       //rating
       //more red if low rating, more green if high rating
 
-      double r = Double.parseDouble(randoms.get(i)[5]);
+      double r = Double.parseDouble(getRating(randoms.get(i)));
 
       int red = 1000 - (int) (100 * r);
       if (red > 255)
@@ -413,13 +436,13 @@ class Albums extends JFrame {
         green = 0;
 
       g.setColor(new Color(red, green, 0));
-      g.drawString(randoms.get(i)[5], 110 + (int) (randoms.get(i)[4].length() * 13 * ((0.5 + 0.75)/2 + 0.75)/2), 80 + i * 70);
+      g.drawString(getRating(randoms.get(i)), 110 + (int) (getGenres(randoms.get(i)).length() * 13 * ((0.5 + 0.75)/2 + 0.75)/2), 80 + i * 70);
       g.setColor(Color.WHITE);
 
       //images
       g.fillRect(9, 34+i*70, 52, 52);
       try {
-        BufferedImage img = ImageIO.read(new URL("https://" + randoms.get(i)[3]));
+        BufferedImage img = ImageIO.read(new URL("https://" + getPic(randoms.get(i))));
         g.drawImage(img, 10, 35 + i * 70, 50, 50, null);
       } catch (IOException ioe) {
         System.out.println(ioe);
