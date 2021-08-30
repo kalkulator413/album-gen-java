@@ -8,7 +8,7 @@ Souvlaki
 Slowdive
 e.snmc.io/i/300/s/418fd12593ae1595a4626b8c16a3d7aa/8055860
 Dream Pop, Shoegaze
-9.7
+9.68
 
 Deathconsciousness
 Have a Nice Life
@@ -74,7 +74,7 @@ Weighing Souls With Sand
 The Angelic Process
 e.snmc.io/i/300/s/bdd7ad0f5637ee9f35875f3a74001982/5538346
 Drone Metal, Shoegaze, Post-Metal
-8.94
+8.92
 
 To See the Next Part of the Dream
 파란노을
@@ -86,7 +86,7 @@ Shoegaze, Emo
 Walrus
 e.snmc.io/i/300/s/6dbb9077c10ec7d36aa9642a47d0b84e/8343443
 Shoegaze
-9.0
+8.98
 
 Going Blank Again
 Ride
@@ -97,26 +97,26 @@ Shoegaze, Alternative Rock
 Souvenirs d'un autre monde
 Alcest
 e.snmc.io/i/300/s/843870c4a8757afda066671010812575/6557188
-Shoegaze, Post-Metal, Blackgaze
+Shoegaze, Blackgaze, Post-Metal
 8.78
 
-Mikgazer Vol. 1
+mikgazer vol.1
 Various Artists
 e.snmc.io/i/300/s/44f84c58383377a3f55c0cbae7c443ba/4813633
 Shoegaze
-8.9
-
-Slowdive
-Slowdive
-e.snmc.io/i/300/s/4ae127fe803c7c744fa7b5c169c5b9d7/6530580
-Dream Pop, Shoegaze
-8.76
+8.92
 
 Jesu
 Jesu
 e.snmc.io/i/300/s/630b3d72de142061fdb16adcb8ad53a1/1338152
 Drone Metal, Shoegaze, Post-Metal
 8.8
+
+Slowdive
+Slowdive
+e.snmc.io/i/300/s/4ae127fe803c7c744fa7b5c169c5b9d7/6530580
+Dream Pop, Shoegaze
+8.76
 
 Écailles de lune
 Alcest
@@ -134,19 +134,19 @@ Copenhagen
 Galaxie 500
 e.snmc.io/i/300/s/2d97fcd4dfc795fc1b250f9fea9984de/4739780
 Slowcore, Dream Pop, Shoegaze
-8.94
-
-m b v
-My Bloody Valentine
-e.snmc.io/i/300/s/ec051b4e2f639e63aa90bb6824397bfa/7550470
-Shoegaze, Dream Pop
-8.66
+8.92
 
 Eureka
 きのこ帝国
 e.snmc.io/i/300/s/c73fb012afefd024abb289bb7fe1e7b2/4516735
 Indie Rock, Shoegaze
 8.84
+
+m b v
+My Bloody Valentine
+e.snmc.io/i/300/s/ec051b4e2f639e63aa90bb6824397bfa/7550470
+Shoegaze, Dream Pop
+8.66
 
 They Spent Their Wild Youthful Days in the Glittering World of the Salons
 Swirlies
@@ -158,19 +158,13 @@ Moondiver
 Tokyo Shoegazer
 e.snmc.io/i/300/s/cf4f52c2e15230614f0dffac723e7d0d/7897304
 Shoegaze, Dream Pop
-8.92
+8.94
 
 XX лет. Концерт в ДК Горбунова 13.11.2004
 Гражданская оборона
 e.snmc.io/i/300/s/6181ad7ee2c2dd27759780aeac6b85d8/2688206
 Post-Punk, Psychedelic Rock, Shoegaze, Punk Rock
 9.48
-
-In Stereo
-Nemo
-e.snmc.io/i/300/s/aba957b329c0fc4ed7636e878b891aa9/6781452
-Space Rock, Shoegaze, Alternative Rock
-9.02
 
 A Storm in Heaven
 Verve
@@ -184,18 +178,6 @@ e.snmc.io/i/300/s/886d514d620ea2e7f1e05c845b377bc3/7176761
 Post-Metal, Shoegaze
 8.8
 
-20012002
-Walrus
-e.snmc.io/i/300/s/f04cbd5ef4cb691b0417701f46001791/1735364
-Alternative Rock, Shoegaze
-9.08
-
-Солнцеворот
-Гражданская оборона
-e.snmc.io/i/300/s/48e5e6dbd62a2f0ed3242b2159a17e4b/3920660
-Post-Punk, Psychedelic Rock, Shoegaze
-8.74
-
 Waves
 Ride
 e.snmc.io/i/300/s/588ea23b0f99a8b07854f96488a7ffe2/1827253
@@ -208,17 +190,23 @@ e.snmc.io/i/300/s/9ceadde1ce4e7f8e8a7957b286b37467/5370142
 Shoegaze
 8.7
 
-Starflyer 59 [Gold]
-Starflyer 59
-e.snmc.io/i/300/s/b96dd765d5ab637b338df0d76edd9e0c/8144966
-Shoegaze, Indie Rock
-8.74
+Солнцеворот
+Гражданская оборона
+e.snmc.io/i/300/s/48e5e6dbd62a2f0ed3242b2159a17e4b/3920660
+Post-Punk, Psychedelic Rock, Shoegaze
+8.72
 
-Horsedrawn Wishes
-Rollerskate Skinny
-e.snmc.io/i/300/s/b977f5d81cd5c5cfa5b9eb693d06c34d/2262718
-Noise Pop, Shoegaze, Neo-Psychedelia
-8.74
+In Stereo
+Nemo
+e.snmc.io/i/300/s/aba957b329c0fc4ed7636e878b891aa9/6781452
+Space Rock, Shoegaze, Alternative Rock
+8.92
+
+20012002
+Walrus
+e.snmc.io/i/300/s/f04cbd5ef4cb691b0417701f46001791/1735364
+Alternative Rock, Shoegaze
+9.02
 
 Blonder Tongue Audio Baton
 Swirlies
@@ -226,11 +214,29 @@ e.snmc.io/i/300/s/8cbec97a689382c55a7494408d552ad0/1211325
 Noise Pop, Indie Rock, Shoegaze
 8.72
 
+La leyenda del espacio
+Los Planetas
+e.snmc.io/i/300/s/d34cea81ddd71503f5fb6a35ef096308/1898753
+Indie Rock, Shoegaze
+8.74
+
 Chrome
 Catherine Wheel
 e.snmc.io/i/300/s/786fc339110007b8ee90f81886f21b93/2280956
 Shoegaze, Alternative Rock
 8.7
+
+Horsedrawn Wishes
+Rollerskate Skinny
+e.snmc.io/i/300/s/b977f5d81cd5c5cfa5b9eb693d06c34d/2262718
+Noise Pop, Shoegaze, Neo-Psychedelia
+8.74
+
+Starflyer 59 [Gold]
+Starflyer 59
+e.snmc.io/i/300/s/b96dd765d5ab637b338df0d76edd9e0c/8144966
+Shoegaze, Indie Rock
+8.74
 
 Beat
 Bowery Electric
@@ -241,14 +247,20 @@ Trip Hop, Shoegaze
 Grandeur of Hair
 The Goslings
 e.snmc.io/i/300/s/63d676afaf494958c574991313917ab3/6287204
-Noise Rock, Shoegaze
-8.66
+Noise Rock, Shoegaze, Noise
+8.64
 
-La leyenda del espacio
-Los Planetas
-e.snmc.io/i/300/s/d34cea81ddd71503f5fb6a35ef096308/1898753
-Indie Rock, Shoegaze
-8.74
+Upon A Brown ～エルフの死～
+The Sleepwalk
+e.snmc.io/i/300/s/e7e16547129d915cd376e25dcd14c1b0/7510936
+Shoegaze, IDM
+8.86
+
+Below the House (Version)
+Planning for Burial
+e.snmc.io/i/300/s/ccc197ebfad21c981ac3c519ca79ecf2/6798364
+Shoegaze, Post-Metal, Tape Music
+8.84
 
 The Unnatural World
 Have a Nice Life
@@ -262,47 +274,23 @@ e.snmc.io/i/300/s/6d3ae9f35e20e7a4b5e0ede0ae2c9040/1313224
 Shoegaze
 8.7
 
-Upon A Brown ～エルフの死～
-The Sleepwalk
-e.snmc.io/i/300/s/e7e16547129d915cd376e25dcd14c1b0/7510936
-Shoegaze, IDM
-8.84
-
 Kodama
 Alcest
 e.snmc.io/i/300/s/449ba112f5be4eb94b8f9df8f9a26bd7/6263054
 Blackgaze, Shoegaze, Post-Metal
 8.64
 
-The New Tigers
-The New Tigers
-e.snmc.io/i/300/s/faff19730279e78e20020f424e81ed1e/3869878
-Shoegaze
-8.92
-
-Я опять не могу уснуть
-Ищейка
-e.snmc.io/i/300/s/3d37032dcf05c3be24674970696c6f15/7936937
-Shoegaze, Math Rock
-8.84
-
-Below the House (Version)
-Planning for Burial
-e.snmc.io/i/300/s/ccc197ebfad21c981ac3c519ca79ecf2/6798364
-Shoegaze, Post-Metal, Tape Music
-8.82
+Exploding Head
+A Place to Bury Strangers
+e.snmc.io/i/300/s/8e9971da19de56ba707248f1d42cc9ff/2717666
+Post-Punk, Shoegaze, Noise Rock
+8.64
 
 Newave
 Coaltar of the Deepers
 e.snmc.io/i/300/s/867786c08b9fb646d633841a1740f744/2243003
 Shoegaze
 8.74
-
-Exploding Head
-A Place to Bury Strangers
-e.snmc.io/i/300/s/8e9971da19de56ba707248f1d42cc9ff/2717666
-Post-Punk, Shoegaze, Noise Rock
-8.64
 
 Xuvetyn
 Lovesliescrushing
@@ -316,17 +304,29 @@ e.snmc.io/i/300/s/d178a048124f9a13ee8427ef44992bff/5765069
 Alternative Rock, Shoegaze
 8.82
 
+Я опять не могу уснуть
+Ищейка
+e.snmc.io/i/300/s/3d37032dcf05c3be24674970696c6f15/7936937
+Shoegaze, Math Rock
+8.82
+
+No Thank You
+Coaltar of the Deepers
+e.snmc.io/i/300/s/558739c36db9073ee792523d95471c11/2656777
+Shoegaze
+8.68
+
 Split
 Lush
 e.snmc.io/i/300/s/8d909c3f2666f9a0815a6103082e5c4e/2332449
 Shoegaze, Dream Pop
 8.62
 
-No Thank You
-Coaltar of the Deepers
-e.snmc.io/i/300/s/558739c36db9073ee792523d95471c11/2656777
+The New Tigers
+The New Tigers
+e.snmc.io/i/300/s/faff19730279e78e20020f424e81ed1e/3869878
 Shoegaze
-8.66
+8.88
 
 Radio Sessions
 Curve
@@ -350,31 +350,19 @@ Shoegaze, Alternative Rock
 溶けない名前
 e.snmc.io/i/300/s/4c5a36848fb26cf692e63ad8579c82c3/9214064
 Shoegaze, Noise Pop
-9.14
-
-The Death of Cool
-Kitchens of Distinction
-e.snmc.io/i/300/s/2dfd060d95dfceebdbe60c26d0b511b6/1398578
-Shoegaze, Dream Pop
-8.66
-
-Barnard's Star
-Barnard's Star
-e.snmc.io/i/300/s/442ebcb5b151ebf021130e6d09e0ac43/1974166
-Shoegaze
-8.92
-
-Whitenoise Superstar
-Astrobrite
-e.snmc.io/i/300/s/da682ced1f59e5a617dd7f92ec6d1dd6/1975563
-Shoegaze, Noise Pop
-8.62
+8.82
 
 Crystallize
 東京酒吐座
 e.snmc.io/i/300/s/0ab9be1452349b69ddc8c1442d8a5c51/3874272
 Shoegaze
 8.64
+
+The Death of Cool
+Kitchens of Distinction
+e.snmc.io/i/300/s/2dfd060d95dfceebdbe60c26d0b511b6/1398578
+Shoegaze, Dream Pop
+8.66
 
 Constance
 Southpacific
@@ -388,17 +376,29 @@ e.snmc.io/i/300/s/eb1945e328bb243b01abe67c1e260a34/8959483
 Shoegaze, Alternative Rock
 8.64
 
+Americana
+Starflyer 59
+e.snmc.io/i/300/s/1f1bb5b9812e31586871f30dfd7c9f30/1407030
+Shoegaze, Indie Rock
+8.7
+
+편지 (The Letters)
+BrokenTeeth
+e.snmc.io/i/300/s/16d36cfde8b276567960422c57fd4822/9077325
+Shoegaze, Indie Rock, Post-Rock
+9.02
+
+Barnard's Star
+Barnard's Star
+e.snmc.io/i/300/s/442ebcb5b151ebf021130e6d09e0ac43/1974166
+Shoegaze, Space Rock
+8.9
+
 Ferment
 Catherine Wheel
 e.snmc.io/i/300/s/aaa7efc5b9400869e5558cdb7709e8b1/2692323
 Shoegaze
 8.6
-
-Americana
-Starflyer 59
-e.snmc.io/i/300/s/1f1bb5b9812e31586871f30dfd7c9f30/1407030
-Shoegaze, Indie Rock
-8.68
 
 Mezcal Head
 Swervedriver
@@ -412,11 +412,11 @@ e.snmc.io/i/300/s/b2a7ed2e5f0a386d0887487ce64376cb/6486810
 Post-Punk, Shoegaze
 8.58
 
-Love Songs for the Chemical Generation
-Daniel Land & The Modern Painters
-e.snmc.io/i/300/s/9fda3e9fc7c8eb9b6e2e437a31ff15bf/2851581
-Dream Pop, Shoegaze
-8.66
+Whitenoise Superstar
+Astrobrite
+e.snmc.io/i/300/s/da682ced1f59e5a617dd7f92ec6d1dd6/1975563
+Shoegaze, Noise Pop
+8.6
 
 New Hell
 Greet Death
@@ -424,23 +424,29 @@ e.snmc.io/i/300/s/dbffc0ddf136ab65b6bc89475c564c94/7743145
 Shoegaze, Indie Rock
 8.64
 
-Deserve
-Weed
-e.snmc.io/i/300/s/596144fe57d56747408b7cb2f68ef9cb/4949615
-Shoegaze, Noise Rock
-8.66
-
-Dormitorio
-Giradioses
-e.snmc.io/i/300/s/2046600eb422cf5cdbf88c2e7815748a/6264139
-Shoegaze, Dream Pop
-8.9
-
 Outminded
 Dating
 e.snmc.io/i/300/s/cb751cad5c15a7052bb34db12c1c7e59/4752107
 Midwest Emo, Shoegaze, Noise Pop
+8.68
+
+Love Songs for the Chemical Generation
+Daniel Land & The Modern Painters
+e.snmc.io/i/300/s/9fda3e9fc7c8eb9b6e2e437a31ff15bf/2851581
+Dream Pop, Shoegaze
+8.64
+
+Deserve
+Weed
+e.snmc.io/i/300/s/596144fe57d56747408b7cb2f68ef9cb/4949615
+Noise Rock, Shoegaze
 8.66
+
+Elende Leiber
+Elende Leiber
+e.snmc.io/i/300/s/b3fb49a4f106053e5f69c9a54f97e22f/8157277
+Shoegaze, Post-Punk
+9.18
 
 Whirlpool - The Original Recordings
 Chapterhouse
@@ -448,11 +454,11 @@ e.snmc.io/i/300/s/582a656564a536f5622541184e4d6b2e/2720454
 Shoegaze, Noise Pop
 8.86
 
-Let's Walk on the Path of a Blue Cat
-파란노을
-e.snmc.io/i/300/s/92af4830be3d7eceaee31e76723ef451/7949622
-Post-Rock, Shoegaze
-8.62
+Dormitorio
+Giradioses
+e.snmc.io/i/300/s/2046600eb422cf5cdbf88c2e7815748a/6264139
+Shoegaze, Dream Pop
+8.88
 
 Citrus
 Asobi Seksu
@@ -460,41 +466,41 @@ e.snmc.io/i/300/s/9a39b6e3e89c9078e8d2fbdd15025c5b/8981399
 Shoegaze, Dream Pop
 8.52
 
-Elende Leiber
-Elende Leiber
-e.snmc.io/i/300/s/b3fb49a4f106053e5f69c9a54f97e22f/8157277
-Shoegaze, Post-Punk
-9.22
-
-Flying Saucer Attack [Rural Psychedelia]
-Flying Saucer Attack
-e.snmc.io/i/300/s/e24e67138210dd5869cb3d0be17b88e1/2948252
-Shoegaze, Space Rock
-8.54
-
 Shot Forth Self Living
 Medicine
 e.snmc.io/i/300/s/5a9219d5e421cd76099c2b926640ae50/1495163
 Noise Pop, Shoegaze
 8.56
 
+Flying Saucer Attack [Rural Psychedelia]
+Flying Saucer Attack
+e.snmc.io/i/300/s/e24e67138210dd5869cb3d0be17b88e1/2948252
+Shoegaze, Space Rock
+8.52
+
 am
 Ovlov
 e.snmc.io/i/300/s/e45d992e62de34220919f72c09d9a36a/4846606
 Indie Rock, Shoegaze, Noise Pop
-8.58
+8.56
 
-The Buried Life
-Medicine
-e.snmc.io/i/300/s/cf6bef40f68faa83c8678b0ed51a43b8/2175605
-Noise Pop, Shoegaze
-8.58
+Let's Walk on the Path of a Blue Cat
+파란노을
+e.snmc.io/i/300/s/92af4830be3d7eceaee31e76723ef451/7949622
+Post-Rock, Shoegaze
+8.6
 
 Inlet
 Hum
 e.snmc.io/i/300/s/d716c8ad6f2b066463f53cab9c483c67/8278542
 Shoegaze, Alternative Metal
 8.5
+
+The Buried Life
+Medicine
+e.snmc.io/i/300/s/cf6bef40f68faa83c8678b0ed51a43b8/2175605
+Noise Pop, Shoegaze
+8.58
 
 Glitter
 Pasteboard
@@ -508,10 +514,22 @@ e.snmc.io/i/300/s/c6d202446eaf970804c44cf82d69b750/1689850
 Psychedelic Rock, Neo-Psychedelia, Shoegaze
 8.58
 
+Hades (The Nine Stages of Change at the Deceased Remains)
+死んだ僕の彼女
+e.snmc.io/i/300/s/bc5bcd963592ab74229a26a6d373e186/5691549
+Shoegaze, Noise Pop
+8.56
+
 Raise
 Swervedriver
 e.snmc.io/i/300/s/d911ed17810ba775c3e712523eb746a5/2192929
 Shoegaze, Alternative Rock
+8.54
+
+In Ribbons
+Pale Saints
+e.snmc.io/i/300/s/4e96840832fb38ed5f998ded00ec2428/1257189
+Shoegaze, Dream Pop
 8.54
 
 Carnavas
@@ -526,10 +544,10 @@ e.snmc.io/i/300/s/c5130a6aebb7c8a725af95788bd9bab9/2375658
 Shoegaze, Post-Punk
 8.52
 
-In Ribbons
-Pale Saints
-e.snmc.io/i/300/s/4e96840832fb38ed5f998ded00ec2428/1257189
-Shoegaze, Dream Pop
+Everything's Alright Forever
+The Boo Radleys
+e.snmc.io/i/300/s/3da4623b3ab5b7af8973d449339db1ff/2164980
+Shoegaze, Neo-Psychedelia, Noise Pop
 8.54
 
 Below the House
@@ -538,35 +556,17 @@ e.snmc.io/i/300/s/4888aaf43ec84b7d8e8afb4425cff181/6372883
 Shoegaze, Post-Metal
 8.52
 
-Everything's Alright Forever
-The Boo Radleys
-e.snmc.io/i/300/s/3da4623b3ab5b7af8973d449339db1ff/2164980
-Shoegaze, Neo-Psychedelia, Noise Pop
-8.54
-
-깨끗하게, 맑게, (Clean & Clear)
-조월
-e.snmc.io/i/300/s/393b3da79266d2627202f890c108d8f4/4604620
-Noise Pop, Shoegaze
-8.64
-
-Hades (The Nine Stages of Change at the Deceased Remains)
-死んだ僕の彼女
-e.snmc.io/i/300/s/bc5bcd963592ab74229a26a6d373e186/5691549
-Shoegaze, Noise Pop
-8.54
-
-Hypnagogia
-sonhos tomam conta
-e.snmc.io/i/300/s/20a970b226605d5d87f16c1010faf247/9139580
-Shoegaze, Blackgaze, Emo
-8.56
-
 Lapsed
 Bardo Pond
 e.snmc.io/i/300/s/b3b7a9cb63bba3499115e842393e3312/1835626
 Space Rock, Psychedelic Rock, Shoegaze
 8.52
+
+Lack
+Solip
+e.snmc.io/i/300/s/a855ad34611d72fd6f16284809d30ac5/8682389
+Shoegaze, Post-Rock
+8.7
 
 Polysomn
 Kairon; IRSE!
@@ -574,17 +574,35 @@ e.snmc.io/i/300/s/445471eb1bfc112aee12425f9f6b2c0e/8201784
 Shoegaze, Space Rock, Neo-Psychedelia
 8.52
 
+O que existe dentro de mim
+Adorável Clichê
+e.snmc.io/i/300/s/143ebd6d7c9a379f58060cdb3d74aae0/7105752
+Dream Pop, Shoegaze
+8.64
+
 Against Perfection
 Adorable
 e.snmc.io/i/300/s/335db27c62fa565daa7db10222b36b6c/1271916
 Shoegaze
 8.5
 
-Lack
-Solip
-e.snmc.io/i/300/s/a855ad34611d72fd6f16284809d30ac5/8682389
-Shoegaze, Post-Rock
-8.68
+깨끗하게, 맑게, (Clean & Clear)
+조월
+e.snmc.io/i/300/s/393b3da79266d2627202f890c108d8f4/4604620
+Noise Pop, Shoegaze
+8.62
+
+Cosodorokitsune
+Shojoskip
+e.snmc.io/i/300/s/f35f618391f596d0463295e574f6cea1/4650831
+Shoegaze, Dream Pop
+8.5
+
+Desde la montaña más alta del mundo
+Mercromina
+e.snmc.io/i/300/s/2fbadd29f819086321090f8c1a90204f/4721510
+Noise Pop, Indie Rock, Shoegaze, Indie Pop
+8.6
 
 Vice Versa in Such Things
 Avenade
@@ -598,35 +616,11 @@ e.snmc.io/i/300/s/b693b7c9fae513c0bfe9c5d11fab1b32/1344366
 Dream Pop, Shoegaze, Neo-Psychedelia
 8.48
 
-Desde la montaña más alta del mundo
-Mercromina
-e.snmc.io/i/300/s/2fbadd29f819086321090f8c1a90204f/4721510
-Noise Pop, Indie Rock, Shoegaze, Indie Pop
-8.6
-
-O que existe dentro de mim
-Adorável Clichê
-e.snmc.io/i/300/s/143ebd6d7c9a379f58060cdb3d74aae0/7105752
-Dream Pop, Shoegaze
-8.6
-
-Cuckoo
-Curve
-e.snmc.io/i/300/s/7ce4b56819de414f908490d5f7c48a3b/1690410
-Shoegaze, Alternative Rock
-8.52
-
 Avenade's Quarantainment 2020
 Avenade
 e.snmc.io/i/300/s/37ff90339440e4f03dbbd5ab9ba49ced/8111543
 Shoegaze
 8.9
-
-Methodrone
-The Brian Jonestown Massacre
-e.snmc.io/i/300/s/8a0e59e9e336c5284f56131cc2d69e8f/1820657
-Shoegaze, Neo-Psychedelia
-8.48
 
 Jubilee Twist
 The Heart Throbs
@@ -640,17 +634,17 @@ e.snmc.io/i/300/s/767ed2b433f453e418e29158b29ebc10/3112090
 Shoegaze
 8.46
 
-Cosodorokitsune
-Shojoskip
-e.snmc.io/i/300/s/f35f618391f596d0463295e574f6cea1/4650831
-Shoegaze, Dream Pop
-8.5
+Methodrone
+The Brian Jonestown Massacre
+e.snmc.io/i/300/s/8a0e59e9e336c5284f56131cc2d69e8f/1820657
+Shoegaze, Neo-Psychedelia
+8.46
 
-ゴールデンBP.
-BP
-e.snmc.io/i/300/s/5911416deceb1a913d673144e877b543/3987954
-Post-Hardcore, Noise Pop, Shoegaze
-8.6
+Cuckoo
+Curve
+e.snmc.io/i/300/s/7ce4b56819de414f908490d5f7c48a3b/1690410
+Shoegaze, Alternative Rock
+8.52
 
 Stereo Musicale
 Blind Mr. Jones
@@ -662,7 +656,7 @@ Spooky
 Lush
 e.snmc.io/i/300/s/942bfeb1902faa2522b34d0974bef444/5153246
 Dream Pop, Shoegaze
-8.48
+8.46
 
 Conqueror
 Jesu
@@ -670,23 +664,29 @@ e.snmc.io/i/300/s/86daae033a246a716ae39227152b53fb/7462335
 Shoegaze, Drone Metal, Post-Metal
 8.44
 
-편지 (The Letters)
-BrokenTeeth
-e.snmc.io/i/300/s/16d36cfde8b276567960422c57fd4822/9077325
-Shoegaze, Indie Rock
-9.12
-
 Leaving
 Planning for Burial
 e.snmc.io/i/300/s/1fffa6faf68cd526d2b4f8bba98ba6b7/2779918
 Shoegaze, Post-Metal, Atmospheric Sludge Metal
 8.46
 
-Breadmaker
-Difference Engine
-e.snmc.io/i/300/s/faa98309d7b7760dd47573436d449591/2827201
-Shoegaze, Dream Pop
-8.52
+Honeysky
+Guitar
+e.snmc.io/i/300/s/9251b1ee5c0d7c49b2cb868809e39ab0/1305259
+Shoegaze, Downtempo
+8.66
+
+¿Quién puede matar a un niño?
+Penelope Trip
+e.snmc.io/i/300/s/2cdc2da1707baa51022375cc9f0138f7/1523239
+Indie Rock, Shoegaze, Math Rock
+8.72
+
+From Where You Were to How You Got There
+(The Sounds of) Kaleidoscope
+e.snmc.io/i/300/s/8a37925ef87e9885a148f468b67bc987/1680716
+Shoegaze, Indie Rock, Psychedelic Rock, Neo-Psychedelia, Noise Pop
+8.78
 
 Love Is Hell
 Kitchens of Distinction
@@ -694,53 +694,17 @@ e.snmc.io/i/300/s/d79ff0b8cd2452c590442c1eface98e6/1207600
 Dream Pop, Shoegaze
 8.48
 
-Sunkissed
-Guitar
-e.snmc.io/i/300/s/9386a81e54d7b9815aa6dc11a3a6bd4f/1644782
-Shoegaze, Dream Pop, Trip Hop
-8.5
-
 Shady Ways Anticlockwise
 The Naked Souls
 e.snmc.io/i/300/s/e83e130eb3ff479cdfc696b6f86e03d8/1877832
 Shoegaze, Dream Pop
 8.58
 
-Honeysky
-Guitar
-e.snmc.io/i/300/s/9251b1ee5c0d7c49b2cb868809e39ab0/1305259
-Shoegaze, Downtempo
-8.64
-
-¿Quién puede matar a un niño?
-Penelope Trip
-e.snmc.io/i/300/s/2cdc2da1707baa51022375cc9f0138f7/1523239
-Indie Rock, Shoegaze, Math Rock
-8.7
-
-The December Sound [The Silver Album]
-The December Sound
-e.snmc.io/i/300/s/1d11839bf8ad8728d977f2b45eb08eae/2655269
-Shoegaze
-8.46
-
-Melting Sun
-Lantlôs
-e.snmc.io/i/300/s/1e9a1d144104c80cf7f06cb989da843f/5257716
-Shoegaze, Post-Metal, Post-Rock
-8.42
-
-Return
-Blue Smiley
-e.snmc.io/i/300/s/be2b98008c2bc3fbc53d6902fb7ec12a/6180840
-Shoegaze, Indie Rock
+ゴールデンBP.
+BP
+e.snmc.io/i/300/s/5911416deceb1a913d673144e877b543/3987954
+Noise Pop, Post-Hardcore, Shoegaze
 8.56
-
-Septembre et ses dernières pensées
-Les Discrets
-e.snmc.io/i/300/s/1575dc9bf1a0e99a5a7ead68d4be1694/3157482
-Shoegaze, Post-Metal
-8.42
 
 Low Sunday Ghost Machine
 Low Sunday Ghost Machine
@@ -748,23 +712,53 @@ e.snmc.io/i/300/s/ba583824f68ab2f51af6016faaa2ec00/4730844
 Shoegaze, Post-Punk
 8.6
 
+Melting Sun
+Lantlôs
+e.snmc.io/i/300/s/1e9a1d144104c80cf7f06cb989da843f/5257716
+Shoegaze, Post-Metal, Post-Rock
+8.42
+
+Septembre et ses dernières pensées
+Les Discrets
+e.snmc.io/i/300/s/1575dc9bf1a0e99a5a7ead68d4be1694/3157482
+Shoegaze, Post-Metal
+8.42
+
 Ultramarine
 A Primary Industry
 e.snmc.io/i/300/s/28ec5d8b9efc6369a836cfd25851736c/1351672
 Ethereal Wave, Post-Punk, Shoegaze
+8.48
+
+The December Sound [The Silver Album]
+The December Sound
+e.snmc.io/i/300/s/1d11839bf8ad8728d977f2b45eb08eae/2655269
+Shoegaze
 8.46
 
-From Where You Were to How You Got There
-(The Sounds of) Kaleidoscope
-e.snmc.io/i/300/s/8a37925ef87e9885a148f468b67bc987/1680716
-Shoegaze, Psychedelic Rock
-8.78
+Sunkissed
+Guitar
+e.snmc.io/i/300/s/9386a81e54d7b9815aa6dc11a3a6bd4f/1644782
+Shoegaze, Dream Pop, Trip Hop
+8.48
+
+Breadmaker
+Difference Engine
+e.snmc.io/i/300/s/faa98309d7b7760dd47573436d449591/2827201
+Shoegaze, Dream Pop
+8.5
 
 So Long, Scarecrow
 Scarling.
 e.snmc.io/i/300/s/ff0b64510b75a36730413a5a186bd029/1504727
 Shoegaze, Alternative Rock
 8.46
+
+Return
+Blue Smiley
+e.snmc.io/i/300/s/be2b98008c2bc3fbc53d6902fb7ec12a/6180840
+Shoegaze, Indie Rock
+8.54
 
 The Great Dismal
 Nothing
@@ -778,6 +772,12 @@ e.snmc.io/i/300/s/7d51442cdd3786c9dcb88438a98fc8d5/4236407
 Shoegaze, Dream Pop, Neo-Psychedelia
 8.44
 
+Hit to Death in the Future Head
+The Flaming Lips
+e.snmc.io/i/300/s/8a42b78ff8214d805ac6025322e73c7a/1398239
+Noise Pop, Noise Rock, Alternative Rock, Shoegaze
+8.4
+
 Susurrate
 Ecstasy of St. Theresa
 e.snmc.io/i/300/s/44b839abe718ae8d4525cb45fef8ad1b/2221111
@@ -788,18 +788,24 @@ Come Over to the Deepend
 Coaltar of the Deepers
 e.snmc.io/i/300/s/8a3f0412c4be9f44484e6d19d4e1a4b3/1927667
 Shoegaze
-8.48
+8.46
 
-Hit to Death in the Future Head
-The Flaming Lips
-e.snmc.io/i/300/s/8a42b78ff8214d805ac6025322e73c7a/1398239
-Noise Pop, Noise Rock, Alternative Rock, Shoegaze
-8.4
+Hypnagogia
+sonhos tomam conta
+e.snmc.io/i/300/s/20a970b226605d5d87f16c1010faf247/9139580
+Shoegaze, Blackgaze, Emo
+8.46
+
+Robot World
+Bailter Space
+e.snmc.io/i/300/s/1893c192309e64d88706dcf48f03a6d1/2271082
+Shoegaze
+8.44
 
 End Tomorrow
 Kraus
 e.snmc.io/i/300/s/a880d3ad316056e3408a3065c4606fea/6267950
-Noise Pop, Shoegaze, Noise Rock
+Noise Pop, Shoegaze
 8.44
 
 Seven Natural Scenes
@@ -814,35 +820,11 @@ e.snmc.io/i/300/s/fe31a4acf331cdbba3f3a004b836e942/1547213
 Dream Pop, Shoegaze
 8.6
 
-Robot World
-Bailter Space
-e.snmc.io/i/300/s/1893c192309e64d88706dcf48f03a6d1/2271082
-Shoegaze
-8.44
-
-너희가 재앙을 만날 때에 내가 웃을 것이며 너희에게 두려움이 임할 때에 내가 비웃으리라 (잠언 1:26)
-불싸조
-e.snmc.io/i/300/s/ea4cd406581fa8b679d3219b3f86aaf9/2860673
-Indie Rock, Shoegaze
-8.48
-
-Wednesday
-Just Mustard
-e.snmc.io/i/300/s/271bb3dcabc7524433325a6c4df05748/6985135
-Shoegaze, Noise Rock
-8.44
-
 Turning Into Small
 All Natural Lemon & Lime Flavors
 e.snmc.io/i/300/s/7fa813a188e96443c270b5b7e3324062/4885872
 Shoegaze, Neo-Psychedelia
 8.4
-
-Lucid Express
-Lucid Express
-e.snmc.io/i/300/s/40d89facde38e7b02d17921489e47d75/8958913
-Dream Pop, Shoegaze
-8.48
 
 The Visitors From Deepspace
 Coaltar of the Deepers
@@ -850,10 +832,64 @@ e.snmc.io/i/300/s/3d4df805a299713392386e5d9ef6a240/2593037
 Shoegaze, Alternative Metal
 8.44
 
-Satisfaction
-Narrow Head
-e.snmc.io/i/300/s/2eb45b22a5daddf28ce62754841bf2db/6166191
-Shoegaze, Alternative Rock
+Wednesday
+Just Mustard
+e.snmc.io/i/300/s/271bb3dcabc7524433325a6c4df05748/6985135
+Shoegaze, Noise Rock
+8.44
+
+Homenaje a Enrique Morente
+Los Evangelistas
+e.snmc.io/i/300/s/0bf42f10987a285ee5910b1bf963f271/4100282
+Indie Rock, Shoegaze, Post-Rock
+8.44
+
+Even in Silence
+Jessica Bailiff
+e.snmc.io/i/300/s/3bf87cc20db575805ad58b1aff81f7f7/3501764
+Slowcore, Dream Pop, Shoegaze
+8.42
+
+Destiny XL
+They Are Gutting a Body of Water
+e.snmc.io/i/300/s/0a330f4b3e25bbcff7c0fdd0af3d98a7/7888848
+Shoegaze, Noise Pop
+8.5
+
+It Goes Without Saying
+An April March
+e.snmc.io/i/300/s/0fc6c66db135f7ca8fec3022a4846ed2/6546299
+Shoegaze, Dream Pop
+8.6
+
+Continental
+Robin Guthrie
+e.snmc.io/i/300/s/2e99f0300a67c6e4abe5b6af748bd1c4/1580950
+Ambient, Dream Pop, Shoegaze
+8.46
+
+Live at Roadburn
+Les Discrets
+e.snmc.io/i/300/s/19489cca669e9cab814c53cc8eb17c5b/6557019
+Post-Rock, Shoegaze
+8.6
+
+Goodnight Teen Sleep
+Dating
+e.snmc.io/i/300/s/e9ad315f6a9392804d2ec2918da35c78/4752169
+Midwest Emo, Shoegaze
+8.62
+
+Bowery Electric
+Bowery Electric
+e.snmc.io/i/300/s/467d5c59e2a16a143710294ef3545275/2238450
+Shoegaze
+8.4
+
+너희가 재앙을 만날 때에 내가 웃을 것이며 너희에게 두려움이 임할 때에 내가 비웃으리라 (잠언 1:26)
+불싸조
+e.snmc.io/i/300/s/ea4cd406581fa8b679d3219b3f86aaf9/2860673
+Indie Rock, Shoegaze
 8.48
 
 Bloweyelashwish
@@ -862,71 +898,17 @@ e.snmc.io/i/300/s/d1403bd85d6c0d279465e30dd5213593/3080142
 Shoegaze, Ambient
 8.36
 
-Live at Roadburn
-Les Discrets
-e.snmc.io/i/300/s/19489cca669e9cab814c53cc8eb17c5b/6557019
-Post-Rock, Shoegaze
-8.6
-
-It Goes Without Saying
-An April March
-e.snmc.io/i/300/s/0fc6c66db135f7ca8fec3022a4846ed2/6546299
-Shoegaze, Dream Pop
-8.6
-
-Pacifico
-The Lassie Foundation
-e.snmc.io/i/300/s/0c675f265a02f341bce9dfeef2901c4b/1488669
-Noise Pop, Shoegaze, Dream Pop
-8.58
-
-Homenaje a Enrique Morente
-Los Evangelistas
-e.snmc.io/i/300/s/0bf42f10987a285ee5910b1bf963f271/4100282
-Indie Rock, Shoegaze, Post-Rock
-8.44
-
-Bowery Electric
-Bowery Electric
-e.snmc.io/i/300/s/467d5c59e2a16a143710294ef3545275/2238450
-Shoegaze
-8.4
-
-Even in Silence
-Jessica Bailiff
-e.snmc.io/i/300/s/3bf87cc20db575805ad58b1aff81f7f7/3501764
-Slowcore, Dream Pop, Shoegaze
-8.42
+Lucid Express
+Lucid Express
+e.snmc.io/i/300/s/40d89facde38e7b02d17921489e47d75/8958913
+Dream Pop, Shoegaze
+8.46
 
 A Place to Bury Strangers
 A Place to Bury Strangers
 e.snmc.io/i/300/s/738b4f68dc134465b10a39034f27c841/2012604
 Shoegaze, Noise Pop
 8.36
-
-All About Satellites and Spaceships
-7% Solution
-e.snmc.io/i/300/s/2bab453ef75903079cc30e399f0eec16/2110211
-Space Rock, Shoegaze, Dream Pop
-8.38
-
-In the Space of a Few Minutes
-Telstar Ponies
-e.snmc.io/i/300/s/b0e8f32b4af85a70ba76549d1fa96a09/2233564
-Indie Rock, Shoegaze
-8.46
-
-New Lands
-Flying Saucer Attack
-e.snmc.io/i/300/s/94a602bd9b711ad426ff87b67a154ad6/1252778
-Space Rock, Shoegaze, Neo-Psychedelia
-8.42
-
-Continental
-Robin Guthrie
-e.snmc.io/i/300/s/2e99f0300a67c6e4abe5b6af748bd1c4/1580950
-Ambient, Dream Pop, Shoegaze
-8.46
 
 Solar Winds, White Noise, Antigravity
 A Beautiful Machine
@@ -937,24 +919,42 @@ Shoegaze, Post-Rock
 Disaster Tourist
 Spotlight Kid
 e.snmc.io/i/300/s/e7eba77647037adf0dbb2168765c70a6/3966524
-Shoegaze, Dream Pop
+Shoegaze, Alternative Rock
 8.62
+
+All About Satellites and Spaceships
+7% Solution
+e.snmc.io/i/300/s/2bab453ef75903079cc30e399f0eec16/2110211
+Space Rock, Shoegaze, Dream Pop
+8.38
+
+New Lands
+Flying Saucer Attack
+e.snmc.io/i/300/s/94a602bd9b711ad426ff87b67a154ad6/1252778
+Space Rock, Shoegaze, Neo-Psychedelia
+8.42
+
+California Nebula
+缺省
+e.snmc.io/i/300/s/d0649a96cd921112d57fa6675e7d1fdd/6467590
+Shoegaze, Dream Pop
+8.44
+
+Satisfaction
+Narrow Head
+e.snmc.io/i/300/s/2eb45b22a5daddf28ce62754841bf2db/6166191
+Shoegaze, Alternative Rock
+8.44
+
+Rhapsody in Beauty
+The Novembers
+e.snmc.io/i/300/s/74f45964264d63f6ff5a86eff2677a8b/5422768
+Noise Rock, Shoegaze, Post-Hardcore
+8.44
 
 The Voices
 The Voices
 e.snmc.io/i/300/s/6b67108f666ae0b657b6771113a8f4ae/1511767
 Shoegaze, Psychedelic Rock, Neo-Psychedelia
 8.72
-
-Les voyages de l'âme
-Alcest
-e.snmc.io/i/300/s/fdde394fab8c5bc416a3ba243a80dae6/3949961
-Shoegaze, Blackgaze, Post-Metal
-8.3
-
-Between the Dead
-The Goslings
-e.snmc.io/i/300/s/16d9b729333f80048c635740e835a1f0/1542372
-Noise Rock, Shoegaze
-8.44
 
