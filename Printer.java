@@ -13,7 +13,7 @@ public class Printer{
 
 	public static List<String[]> albums = new ArrayList<String[]>();
 
-	public static String[] genreTypes = {"Any", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz"};
+	public static String[] genreTypes = {"Any", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
 
 	public static void main(String[] args) throws IOException {
 

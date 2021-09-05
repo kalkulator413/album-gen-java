@@ -25,7 +25,7 @@ class Albums extends JFrame {
   public static List<String[]> randoms = new ArrayList<String[]>();
 
   public static int genreNum = 1;
-  public static String[] genreTypes = {"Any", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz"};
+  public static String[] genreTypes = {"Any", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
 
   public static void main(String[] args) throws IOException {
 
