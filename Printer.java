@@ -13,19 +13,21 @@ public class Printer{
 
 	public static List<String[]> albums = new ArrayList<String[]>();
 
-	public static String[] genreTypes = {"Any", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
+	public static String[] genreTypes = {"Any", "New", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
 
 	public static void main(String[] args) throws IOException {
 
-    for (int g = 1; g <= genreTypes.length; g++) {
+    // for (int g = 1; g <= genreTypes.length; g++) {
 
-		//int g = 1;
+		int g = 2;
 
         String site = getSite(g);
 
         int numPages;
         if (g == 1)
           numPages = 5;
+        else if (g == 2)
+          numPages = 3;
         else
           numPages = 4;
 
@@ -51,7 +53,7 @@ public class Printer{
           albums.remove(i);
         }
 
-    	}
+    	// }
 
 	}
 
@@ -207,6 +209,7 @@ public class Printer{
             picLink = "i.scdn.co/image/ab67616d0000b2737c2f4ecdb972f4a9b698d08a";
           
           albums.add(new String[]{title, artist, picLink, genres, rating});
+
         }
 
        }
@@ -214,13 +217,18 @@ public class Printer{
 	}
 
 	public static String getSite(int genreNum) {
+      String genre = genreTypes[genreNum - 1];
+
+      if (genre == "New")
+        return "https://rateyourmusic.com/charts/top/album,mixtape/2021/";
+
     	String site = "https://rateyourmusic.com/charts/top/album,mixtape/all-time/";
 
     
       // String s = genreTypes[genreNum - 1];
       // s = s.toLowercase();
 
-      site += "g:" + genreTypes[genreNum - 1].toLowerCase().replace(" ", "-") + "/";
+      site += "g:" + genre.toLowerCase().replace(" ", "-") + "/";
       return site;
     }
 

@@ -25,7 +25,7 @@ class Albums extends JFrame {
   public static List<String[]> randoms = new ArrayList<String[]>();
 
   public static int genreNum = 1;
-  public static String[] genreTypes = {"Any", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
+  public static String[] genreTypes = {"Any", "New", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
 
   public static void main(String[] args) throws IOException {
 
@@ -49,6 +49,8 @@ class Albums extends JFrame {
                     int numPages;
                     if (gNum == 1)
                       numPages = 5;
+                    else if (gNum == 2)
+                      numPages = 3;
                     else
                       numPages = 4;
                     for (int i = 1; i <= numPages; i ++) {
@@ -142,12 +144,17 @@ class Albums extends JFrame {
   }
 
   public static String getSite() {
+    String genre = genreTypes[genreNum - 1];
+
+    if (genre == "New")
+      return "https://rateyourmusic.com/charts/top/album,mixtape/2021/";
+
     String site = "https://rateyourmusic.com/charts/top/album,mixtape/all-time/";
 
     //if (genreNum > 1) {
       // String s = genreTypes[genreNum - 1];
       // s = s.toLowercase();
-      site += "g:" + genreTypes[genreNum - 1].toLowerCase().replace(" ", "-") + "/";
+      site += "g:" + genre.toLowerCase().replace(" ", "-") + "/";
     //}
 
     return site;
