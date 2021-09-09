@@ -130,24 +130,30 @@ class Albums extends JFrame {
   }
 
   public static String fixString(String title) {
-          title = title.replace("</div>", "");
-          title = title.replace("</a>", "");
-          title = title.replace("amp;", "");
-          title = title.replace("&#39;", "'");
-          title = title.replace("&#&quot;;", "\"");
-          title = title.replace("<br", "");
-          title = title.replace("</span>", "");
-          title = title.replace("\">", "");
-          title = title.replace("&quot;", "\"");
+    title = title.replace("</div>", "");
+    title = title.replace("</a>", "");
+    title = title.replace("amp;", "");
+    title = title.replace("&#39;", "'");
+    title = title.replace("&#&quot;;", "\"");
+    title = title.replace("<br", "");
+    title = title.replace("</span>", "");
+    title = title.replace("\">", "");
+    title = title.replace("&quot;", "\"");
 
-          return title;
+    return title;
   }
 
   public static String getSite() {
     String genre = genreTypes[genreNum - 1];
 
-    if (genre == "New")
-      return "https://rateyourmusic.com/charts/top/album,mixtape/2021/";
+    if (genre == "New") {
+      try {
+        String year = getYear();
+        return "https://rateyourmusic.com/charts/top/album,mixtape/" + year + "/";
+      } catch (IOException e) {
+        System.out.println(e);
+      }
+    }
 
     String site = "https://rateyourmusic.com/charts/top/album,mixtape/all-time/";
 
@@ -158,6 +164,25 @@ class Albums extends JFrame {
     //}
 
     return site;
+  }
+
+  public static String getYear() throws IOException {
+    URL url = new URL("https://www.calendardate.com/todays.htm");
+
+    Scanner sc = new Scanner(url.openStream());
+
+    while(sc.hasNext()) {
+      String s = sc.next();
+      
+      if (s.equals("src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>")) {
+        for (int i = 0; i < 7; i ++)
+          s = sc.next();
+        // System.out.println("got date " + s);
+        return s;
+      }
+    }
+
+    return "2021";
   }
 
   public static void getAlbums() throws FileNotFoundException {
