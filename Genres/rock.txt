@@ -164,7 +164,7 @@ Low
 David Bowie
 e.snmc.io/i/300/s/358e21c69f10acd2b7527c9477a55024/4503212
 Art Rock
-9.76
+9.74
 
 Long Season
 Fishmans
@@ -214,17 +214,17 @@ e.snmc.io/i/300/s/6b4cd41ad4e3b198c41916018c7902ab/7790079
 Post-Punk
 9.68
 
-Master of Reality
-Black Sabbath
-e.snmc.io/i/300/s/f345131b0c4370443735d17324535782/2918156
-Heavy Metal
-9.74
-
 Souvlaki
 Slowdive
 e.snmc.io/i/300/s/418fd12593ae1595a4626b8c16a3d7aa/8055860
 Dream Pop, Shoegaze
 9.68
+
+Master of Reality
+Black Sabbath
+e.snmc.io/i/300/s/f345131b0c4370443735d17324535782/2918156
+Heavy Metal
+9.74
 
 The Bootleg Series Vol. 4: Live 1966 - The "Royal Albert Hall" Concert
 Bob Dylan
@@ -232,17 +232,17 @@ e.snmc.io/i/300/s/9b2a99508ac6eb4bb84978660e96a53d/1210791
 Folk Rock, Contemporary Folk, Singer/Songwriter
 10.0
 
-The Great Deceiver: Live 1973-1974
-King Crimson
-e.snmc.io/i/300/s/70a1e4f32382d156845e845d86f35ca3/8145663
-Progressive Rock
-10.0
-
 The Glow Pt. 2
 The Microphones
 e.snmc.io/i/300/s/3c32ed761078404ca86e92ab632e58a5/8964258
 Indie Folk, Psychedelic Folk, Lo-Fi / Slacker Rock
 9.72
+
+The Great Deceiver: Live 1973-1974
+King Crimson
+e.snmc.io/i/300/s/70a1e4f32382d156845e845d86f35ca3/8145663
+Progressive Rock
+10.0
 
 Are You Experienced
 The Jimi Hendrix Experience
@@ -256,12 +256,6 @@ e.snmc.io/i/25/s/676200da5ec965f44a926c5ad7bd7772/3646702
 Blues Rock, Psychedelic Rock, Acid Rock
 9.78
 
-The Jimi Hendrix Experience
-The Jimi Hendrix Experience
-e.snmc.io/i/300/s/56192273148da9a61288c77e91cde489/5662608
-Psychedelic Rock, Blues Rock, Hard Rock, Acid Rock
-10.0
-
 Soundtracks for the Blind
 Swans
 e.snmc.io/i/300/s/0c30865b08322f73319de987a16860cf/1868623
@@ -273,6 +267,12 @@ Talking Heads
 e.snmc.io/i/300/s/8fd7a8d1b39e49ea3ebdd42b260229a5/5157351
 New Wave, Art Punk, Post-Punk
 9.92
+
+The Jimi Hendrix Experience
+The Jimi Hendrix Experience
+e.snmc.io/i/300/s/56192273148da9a61288c77e91cde489/5662608
+Psychedelic Rock, Blues Rock, Hard Rock, Acid Rock
+10.0
 
 Swans Are Dead
 Swans
@@ -292,17 +292,17 @@ e.snmc.io/i/300/s/cbefc8221a1b9af5c86694e33c9a8d40/2666135
 Noise Rock, Alternative Rock
 9.6
 
-Rubber Soul
-The Beatles
-e.snmc.io/i/300/s/71d4c17d08c53084574a0d5ae25056e3/5248558
-Pop Rock
-9.56
-
 The Velvet Underground
 The Velvet Underground
 e.snmc.io/i/300/s/2853cf8bdf1392fdf2eed5811a9a813e/5706942
 Pop Rock
 9.68
+
+Rubber Soul
+The Beatles
+e.snmc.io/i/300/s/71d4c17d08c53084574a0d5ae25056e3/5248558
+Pop Rock
+9.56
 
 Blackstar
 David Bowie
@@ -352,23 +352,23 @@ e.snmc.io/i/300/s/1711830cb48477ffaf8257d47bd5bbc1/7017197
 Acoustic Rock, Alternative Rock
 9.72
 
+Sunshine Daydream: Veneta, Oregon, August 27, 1972
+Grateful Dead
+e.snmc.io/i/300/s/dec8ffaa6d5ac200b1eb45e5c7138c8b/4889679
+Psychedelic Rock, Jam Band
+9.98
+
 After the Gold Rush
 Neil Young
 e.snmc.io/i/300/s/61005d0cd3f695375d043d78243b4831/1527220
 Folk Rock, Singer/Songwriter, Country Rock
 9.68
 
-Fun House
-The Stooges
-e.snmc.io/i/300/s/81a5aa722316c3cb177aaf733c2b2b9b/2522185
-Proto-Punk, Garage Rock, Hard Rock
-9.68
-
 Heaven or Las Vegas
 Cocteau Twins
 e.snmc.io/i/300/s/529f69dc7b54e80461497234685c6b16/8917820
 Dream Pop
-9.64
+9.66
 
 Stop Making Sense
 Talking Heads
@@ -376,11 +376,11 @@ e.snmc.io/i/300/s/0b83fbfb5bd68a9961a929bad2984db7/1473463
 New Wave, Post-Punk, Art Rock
 9.84
 
-Ágætis byrjun
-Sigur Rós
-e.snmc.io/i/300/s/6e7119c95fe85a48fff1bbd03d887e6f/2405956
-Post-Rock
-9.58
+Fun House
+The Stooges
+e.snmc.io/i/300/s/81a5aa722316c3cb177aaf733c2b2b9b/2522185
+Proto-Punk, Garage Rock, Hard Rock
+9.68
 
 Future Days
 Can
@@ -388,11 +388,11 @@ e.snmc.io/i/300/s/172e241462140d3eea2df1d50f648fee/2513970
 Krautrock
 9.72
 
-Sunshine Daydream: Veneta, Oregon, August 27, 1972
-Grateful Dead
-e.snmc.io/i/300/s/dec8ffaa6d5ac200b1eb45e5c7138c8b/4889679
-Psychedelic Rock, Jam Band
-9.98
+Ágætis byrjun
+Sigur Rós
+e.snmc.io/i/300/s/6e7119c95fe85a48fff1bbd03d887e6f/2405956
+Post-Rock
+9.58
 
 Hunky Dory
 David Bowie
@@ -454,17 +454,17 @@ e.snmc.io/i/300/s/17d26dfe034cec584c3116a5a6749cf0/2680625
 Power Pop
 9.9
 
-Purple Rain
-Prince and The Revolution
-e.snmc.io/i/300/s/e83f4651127812ad34f2a2addc656649/8692026
-Pop Rock, Film Soundtrack, Synth Funk
-9.64
-
 Live After Death
 Iron Maiden
 e.snmc.io/i/300/s/a698f8cbe51ddea077158c497f71612a/2821549
 Heavy Metal, NWOBHM
 9.76
+
+Purple Rain
+Prince and The Revolution
+e.snmc.io/i/300/s/e83f4651127812ad34f2a2addc656649/8692026
+Pop Rock, Film Soundtrack, Synth Funk
+9.64
 
 White Light / White Heat
 The Velvet Underground
@@ -476,7 +476,7 @@ Spirit of Eden
 Talk Talk
 e.snmc.io/i/300/s/938423c9f319254495c651502348c7e3/7012308
 Post-Rock
-9.64
+9.62
 
 Hot Rats
 Frank Zappa
@@ -506,13 +506,19 @@ Hatful of Hollow
 The Smiths
 e.snmc.io/i/300/s/2bb3b8f8f79f8e57ae390e41979f1fec/8303380
 Jangle Pop, Indie Pop
-9.64
+9.66
 
 Nevermind
 Nirvana
 e.snmc.io/i/25/s/76a3aeb671f26ddf4777af53844bf674/1628796
 Grunge, Alternative Rock
 9.34
+
+Symbolic
+Death
+e.snmc.io/i/300/s/30de654e085c1f58973d17b3a1a3571a/2656325
+Technical Death Metal
+9.64
 
 Live at Leeds
 The Who
@@ -526,17 +532,17 @@ e.snmc.io/i/300/s/01232a3fd5253b290208ef9f05f0efc2/1231551
 Hard Rock
 9.76
 
-Symbolic
-Death
-e.snmc.io/i/300/s/30de654e085c1f58973d17b3a1a3571a/2656325
-Technical Death Metal
-9.64
-
 In utero
 Nirvana
 e.snmc.io/i/300/s/c5bdc55cb02cd7450955875324d32a3c/3831125
 Grunge, Alternative Rock
 9.44
+
+Cornell 5/8/77
+Grateful Dead
+e.snmc.io/i/300/s/cc056018216bb1ec6a769f1167b15135/6433751
+Jam Band, Roots Rock
+9.86
 
 Deathconsciousness
 Have a Nice Life
@@ -556,23 +562,17 @@ e.snmc.io/i/300/s/cf186d485fb29a15adc4f5398f235252/1941205
 Indie Rock
 9.6
 
-Cornell 5/8/77
-Grateful Dead
-e.snmc.io/i/300/s/cc056018216bb1ec6a769f1167b15135/6433751
-Jam Band, Roots Rock
-9.86
+Live Rust
+Neil Young, Crazy Horse
+e.snmc.io/i/300/s/3becb588549f18723294e290ed97eb31/5715834
+Singer/Songwriter, Country Rock
+9.78
 
 Velocity : Design : Comfort
 Sweet Trip
 e.snmc.io/i/300/s/ff4f32bd5aa5707eb78a18eb5f798e7b/8864200
 Glitch Pop, IDM, Shoegaze
 9.6
-
-Live Rust
-Neil Young, Crazy Horse
-e.snmc.io/i/300/s/3becb588549f18723294e290ed97eb31/5715834
-Singer/Songwriter, Country Rock
-9.78
 
 Everybody Knows This Is Nowhere
 Neil Young, Crazy Horse
@@ -586,11 +586,11 @@ e.snmc.io/i/300/s/3511ac94ad92479cb439c706a01b7d21/3700071
 Heavy Metal
 9.76
 
-The Real Royal Albert Hall 1966 Concert!
-Bob Dylan
-e.snmc.io/i/300/s/7e3a71b349dff068b0d731ef43ef2669/6319602
-Folk Rock, Singer/Songwriter, Contemporary Folk
-9.84
+Pornography
+The Cure
+e.snmc.io/i/300/s/eb4f10393fa703d1d110d893b70f09fe/3014863
+Gothic Rock, Post-Punk
+9.52
 
 Another Green World
 Eno
@@ -598,23 +598,17 @@ e.snmc.io/i/300/s/fd8f5828efb56a9ef0d3d1d0523f2512/2317304
 Art Rock
 9.54
 
-Pornography
-The Cure
-e.snmc.io/i/300/s/eb4f10393fa703d1d110d893b70f09fe/3014863
-Gothic Rock, Post-Punk
-9.52
-
 The Kinks Are the Village Green Preservation Society
 The Kinks
 e.snmc.io/i/300/s/05467ae185799431e4f2fabd0b6604e4/1560902
 Pop Rock
 9.6
 
-Led Zeppelin
-Led Zeppelin
-e.snmc.io/i/300/s/26170ca23cb95eaac18b8d15a13548dd/2504244
-Hard Rock, Blues Rock
-9.42
+The Real Royal Albert Hall 1966 Concert!
+Bob Dylan
+e.snmc.io/i/300/s/7e3a71b349dff068b0d731ef43ef2669/6319602
+Folk Rock, Singer/Songwriter, Contemporary Folk
+9.84
 
 The Bootleg Series Vol. 5: Live 1975 - The Rolling Thunder Revue
 Bob Dylan
@@ -622,23 +616,17 @@ e.snmc.io/i/300/s/4a9e99333d8c3d4aa43f7eb85091ca84/3148817
 Folk Rock, Singer/Songwriter
 9.76
 
+Led Zeppelin
+Led Zeppelin
+e.snmc.io/i/300/s/26170ca23cb95eaac18b8d15a13548dd/2504244
+Hard Rock, Blues Rock
+9.42
+
 Sticky Fingers
 The Rolling Stones
 e.snmc.io/i/300/s/67728402caa121994734bd8b0918e660/2748008
 Blues Rock
 9.54
-
-Archive 1967-75
-Genesis
-e.snmc.io/i/300/s/f1828749c8a9adbc58614e1ec6330db4/1815989
-Progressive Rock
-9.82
-
-Forever Changes
-Love
-e.snmc.io/i/300/s/524baed4edebd2c1f5f32cea4debd07f/2667874
-Psychedelic Pop, Psychedelic Rock, Psychedelic Folk
-9.52
 
 Rumours
 Fleetwood Mac
@@ -646,17 +634,23 @@ e.snmc.io/i/300/s/430dcd4b90ed2795f126d5d11ede1bce/5709996
 Pop Rock, Soft Rock
 9.48
 
+Forever Changes
+Love
+e.snmc.io/i/300/s/524baed4edebd2c1f5f32cea4debd07f/2667874
+Psychedelic Pop, Psychedelic Rock, Psychedelic Folk
+9.52
+
 Ege Bamyası
 Can
 e.snmc.io/i/300/s/9ec5d764031ef37fcb8bca52ae1fb862/2513986
 Krautrock
 9.56
 
-1970: The Complete Fun House Sessions
-The Stooges
-e.snmc.io/i/300/s/bb6588cbf1ecc016d3c2a1532c642ad0/5158023
-Garage Rock, Proto-Punk, Hard Rock
-9.82
+Archive 1967-75
+Genesis
+e.snmc.io/i/300/s/f1828749c8a9adbc58614e1ec6330db4/1815989
+Progressive Rock
+9.8
 
 Rust in Peace
 Megadeth
@@ -664,23 +658,29 @@ e.snmc.io/i/300/s/064b3a4604614af6c66186efbd3141db/5748025
 Thrash Metal
 9.5
 
+1970: The Complete Fun House Sessions
+The Stooges
+e.snmc.io/i/300/s/bb6588cbf1ecc016d3c2a1532c642ad0/5158023
+Garage Rock, Proto-Punk, Hard Rock
+9.82
+
 All Things Must Pass
 George Harrison
 e.snmc.io/i/300/s/ec8bf9d3dc353e766ab8e80797d7970b/5311002
 Pop Rock, Singer/Songwriter, Folk Rock
 9.6
 
-Meddle
-Pink Floyd
-e.snmc.io/i/300/s/ff569f5148544eba68dd77b1b0378651/6210494
-Progressive Rock
-9.42
-
 Raw Power
 Iggy and The Stooges
 e.snmc.io/i/300/s/4cb81b9f45ccc75a3ad9574f372f005f/2220562
 Proto-Punk, Garage Rock, Hard Rock
 9.54
+
+Meddle
+Pink Floyd
+e.snmc.io/i/300/s/ff569f5148544eba68dd77b1b0378651/6210494
+Progressive Rock
+9.42
 
 To Be Kind
 Swans
@@ -691,7 +691,7 @@ Experimental Rock, Post-Rock
 Irish Tour '74
 Rory Gallagher
 e.snmc.io/i/300/s/356ac92101261a33c8628ca37e657ea9/1256795
-Blues Rock
+Blues Rock, Hard Rock
 9.74
 
 Fear of Music
@@ -730,17 +730,17 @@ e.snmc.io/i/25/s/d082e7f8baf5e4e148b9f6dcc924fd61/8050165
 Indie Rock, Garage Rock Revival
 9.34
 
-Live and Dangerous
-Thin Lizzy
-e.snmc.io/i/300/s/b4e3d3a3a11c298ab7ebb2882ac25f60/6198683
-Hard Rock
-9.7
-
 Live / 1975-85
 Bruce Springsteen, E Street Band
 e.snmc.io/i/300/s/bc06247ef6757bb22c903285a2f8ec60/1828705
 Heartland Rock
 9.72
+
+Live and Dangerous
+Thin Lizzy
+e.snmc.io/i/300/s/b4e3d3a3a11c298ab7ebb2882ac25f60/6198683
+Hard Rock
+9.7
 
 Turn On the Bright Lights
 Interpol
@@ -748,16 +748,16 @@ e.snmc.io/i/300/s/aef874913aef708f02a5573012a1b403/6171426
 Post-Punk Revival
 9.4
 
-Thanks, Sorry!
-Jeff Rosenstock
-e.snmc.io/i/300/s/07ebc79856e0d86201590429fa188d8f/8050234
-Pop Punk, Indie Rock, Power Pop
-9.72
-
 Live at the Fillmore East
 Neil Young, Crazy Horse
 e.snmc.io/i/300/s/e34afda5c8f554c12b4781b1ed80da83/1746728
 Folk Rock, Country Rock, Singer/Songwriter
+9.72
+
+Thanks, Sorry!
+Jeff Rosenstock
+e.snmc.io/i/300/s/07ebc79856e0d86201590429fa188d8f/8050234
+Pop Punk, Indie Rock, Power Pop
 9.72
 
 The Early Years 1965-1972
@@ -790,17 +790,17 @@ e.snmc.io/i/300/s/8c0905378500b664ea39411ea6af61cb/8392036
 Country Rock, Folk Rock, Singer/Songwriter
 9.5
 
-The Nightwatch: Live at the Amsterdam Concertgebouw November 23rd 1973
-King Crimson
-e.snmc.io/i/300/s/8a9a21aa569444a34fb2836c1983bc8a/6318470
-Progressive Rock
-9.72
-
 Grace
 Jeff Buckley
 e.snmc.io/i/300/s/cdd814ab275cc8bd7ba807a1524191f9/7027387
 Singer/Songwriter, Alternative Rock
 9.44
+
+The Nightwatch: Live at the Amsterdam Concertgebouw November 23rd 1973
+King Crimson
+e.snmc.io/i/300/s/8a9a21aa569444a34fb2836c1983bc8a/6318470
+Progressive Rock
+9.72
 
 Cosmo's Factory
 Creedence Clearwater Revival
@@ -832,12 +832,6 @@ e.snmc.io/i/300/s/c08a87e3b6dec558272dabf44d443217/6944919
 Indie Rock
 9.52
 
-Colors_Live
-Between the Buried and Me
-e.snmc.io/i/300/s/6c112b67aebc3bb64cc48d92bde9e216/2418380
-Progressive Metal, Metalcore
-9.64
-
 Siamese Dream
 Smashing Pumpkins
 e.snmc.io/i/300/s/a31e1ede9a79bf854126b6a6e454d1a0/8796183
@@ -850,11 +844,11 @@ e.snmc.io/i/300/s/f49dc384877199fd4cd6d593a7335834/1971515
 Rap Metal, Alternative Metal
 9.38
 
-Live at the Atlanta International Pop Festival: July 3 & 5, 1970
-The Allman Brothers Band
-e.snmc.io/i/300/s/1aaa913b5a6deac3ace3c3ed6d52c213/2553931
-Blues Rock, Jam Band, Southern Rock
-9.74
+Colors_Live
+Between the Buried and Me
+e.snmc.io/i/300/s/6c112b67aebc3bb64cc48d92bde9e216/2418380
+Progressive Metal, Metalcore
+9.64
 
 If You're Feeling Sinister
 Belle and Sebastian
@@ -868,17 +862,17 @@ e.snmc.io/i/25/s/8312ada81d560010e0bc0c9401b48e4f/2735834
 Indie Rock, Alternative Rock
 9.4
 
-Lateralus
-Tool
-e.snmc.io/i/300/s/5dbdab0df15f1bd85206f11bafa71acd/8591911
-Alternative Metal, Progressive Metal
-9.34
-
 Powerslave
 Iron Maiden
 e.snmc.io/i/300/s/bcfb47902a8f3a1a15243c6e3ed5367f/3703272
 Heavy Metal
 9.46
+
+Lateralus
+Tool
+e.snmc.io/i/300/s/5dbdab0df15f1bd85206f11bafa71acd/8591911
+Alternative Metal, Progressive Metal
+9.34
 
 Painkiller
 Judas Priest
@@ -886,29 +880,29 @@ e.snmc.io/i/300/s/326764cef1c3e54961ef531bbe1c141a/6723368
 Heavy Metal
 9.5
 
+Live at the Atlanta International Pop Festival: July 3 & 5, 1970
+The Allman Brothers Band
+e.snmc.io/i/300/s/1aaa913b5a6deac3ace3c3ed6d52c213/2553931
+Blues Rock, Jam Band, Southern Rock
+9.72
+
 Rétrospective Vol. 1 & 2
 Magma
 e.snmc.io/i/300/s/c29ec58daf76a0a281f90459af9ae177/1863342
 Zeuhl
-9.7
-
-Live in Munich 1977
-Rainbow
-e.snmc.io/i/300/s/722588b4c9b993e421a97f041a88f8b3/1644805
-Hard Rock
-9.74
-
-Live at the Fillmore East
-Hendrix
-e.snmc.io/i/300/s/6897590818d5f3e6a5ce91d4ab5e8a64/1214444
-Psychedelic Rock, Acid Rock, Hard Rock
-9.72
+9.68
 
 Reign in Blood
 Slayer
 e.snmc.io/i/300/s/c0bbe141e8dd976d586d6d57996a2441/2742603
 Thrash Metal
 9.4
+
+Live at the Fillmore East
+Hendrix
+e.snmc.io/i/300/s/6897590818d5f3e6a5ce91d4ab5e8a64/1214444
+Psychedelic Rock, Acid Rock, Hard Rock
+9.72
 
 Exile on Main St.
 The Rolling Stones
@@ -928,23 +922,29 @@ e.snmc.io/i/300/s/e6af2c59cf6e5d3dbeade4c214ac299e/1431357
 Baggy / Madchester
 9.46
 
-No Sleep 'Til Hammersmith
-Motörhead
-e.snmc.io/i/300/s/b2a2ea7bc5c665a8e96e772bfbbb6f00/2092441
-Heavy Metal, Hard Rock
-9.62
-
 Dick's Picks Volume Eight: Harpur College, Binghamton, NY - May 2, 1970
 Grateful Dead
 e.snmc.io/i/300/s/0b0960d643d03cfba1c887f09237131b/3293992
 Folk Rock, Psychedelic Rock, Jam Band
 9.74
 
+No Sleep 'Til Hammersmith
+Motörhead
+e.snmc.io/i/300/s/b2a2ea7bc5c665a8e96e772bfbbb6f00/2092441
+Heavy Metal, Hard Rock
+9.62
+
 You Can't Do That on Stage Anymore, Vol. 2
 Zappa
 e.snmc.io/i/300/s/fcfb28bf7e7cdec2d204f35080b5f325/8308019
 Jazz-Rock, Experimental Rock, Comedy Rock
 9.66
+
+Live in Munich 1977
+Rainbow
+e.snmc.io/i/300/s/722588b4c9b993e421a97f041a88f8b3/1644805
+Hard Rock
+9.72
 
 Crooked Rain, Crooked Rain
 Pavement

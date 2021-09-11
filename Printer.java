@@ -17,9 +17,9 @@ public class Printer{
 
 	public static void main(String[] args) throws IOException {
 
-    // for (int g = 1; g <= genreTypes.length; g++) {
+    for (int g = 1; g <= genreTypes.length; g++) {
 
-		int g = 2;
+		// int g = 2;
 
         String site = getSite(g);
 
@@ -53,7 +53,7 @@ public class Printer{
           albums.remove(i);
         }
 
-    	// }
+    	}
 
 	}
 

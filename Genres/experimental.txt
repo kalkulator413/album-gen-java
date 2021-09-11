@@ -20,13 +20,13 @@ The Noise ザ・ノイズ
 Hijokaidan
 e.snmc.io/i/300/s/676f8d270713b0324cf5c19199ead9c8/2690877
 Harsh Noise
-9.74
+9.7
 
 Boris at Last -Feedbacker-
 Boris
 e.snmc.io/i/300/s/d9f4ffc98d00b7dd8cbe61caacd1198e/7727830
 Drone Metal, Post-Metal, Drone, Noise Rock
-9.4
+9.38
 
 The Ape of Naples
 Coil
@@ -154,6 +154,12 @@ e.snmc.io/i/300/s/41d0cb0ebca8336b2eb8cce2e5c6bf89/2316680
 Ambient, Drone
 9.16
 
+At the Factory, Manchester
+Throbbing Gristle
+e.snmc.io/i/300/s/e18ebcf8049a93e583ed18acb83937ec/3513128
+Industrial
+9.26
+
 Replica
 Oneohtrix Point Never
 e.snmc.io/i/300/s/c0d464e4993fd5c6ab2509702085faf1/7747841
@@ -170,13 +176,7 @@ Confield
 Autechre
 e.snmc.io/i/300/s/b37d14e00804584669deab62b3c68260/8053155
 IDM, Experimental
-9.1
-
-At the Factory, Manchester
-Throbbing Gristle
-e.snmc.io/i/300/s/e18ebcf8049a93e583ed18acb83937ec/3513128
-Industrial
-9.26
+9.08
 
 Black Antlers
 Coil
@@ -190,11 +190,17 @@ e.snmc.io/i/300/s/bf8567776b540c948391234e633b75b0/6521056
 Drone, Electroacoustic, Ambient
 9.16
 
-大勘定 (Daikanjyo)
-明田川荘之
-e.snmc.io/i/300/s/529ce0950ee4383d3c4b212570905cce/4770402
-Avant-Folk, Free Improvisation
-9.18
+Poppy Nogood and the Phantom Band: All Night Flight Vol.1
+Terry Riley
+e.snmc.io/i/300/s/4fe38452ea4cb6b97535121d08c8d909/1309798
+Drone, Minimalism
+9.22
+
+Adnos I-III
+Eliane Radigue
+e.snmc.io/i/300/s/ead369b39379b0f7c5e3edef77b05084/2902695
+Drone
+9.14
 
 Red Burns
 Standing on the Corner
@@ -202,23 +208,17 @@ e.snmc.io/i/300/s/db9c235a9a56553ddee9ce99390a38c2/7256712
 Sound Collage, Neo-Soul
 9.12
 
-Poppy Nogood and the Phantom Band: All Night Flight Vol.1
-Terry Riley
-e.snmc.io/i/300/s/4fe38452ea4cb6b97535121d08c8d909/1309798
-Drone, Minimalism
-9.22
-
 Silent Hill
 Akira Yamaoka
 e.snmc.io/i/300/s/e6f4fdbd8b2da4a1d96b9bc8d82079c9/2831194
 Dark Ambient, Video Game Music, Industrial
 9.16
 
-Adnos I-III
-Eliane Radigue
-e.snmc.io/i/300/s/ead369b39379b0f7c5e3edef77b05084/2902695
-Drone
-9.14
+大勘定 (Daikanjyo)
+明田川荘之
+e.snmc.io/i/300/s/529ce0950ee4383d3c4b212570905cce/4770402
+Avant-Folk, Free Improvisation
+9.16
 
 Musick to Play in the Dark²
 Coil
@@ -248,13 +248,7 @@ Persepolis
 Groupe de Recherches Musicales de la RTF
 e.snmc.io/i/300/s/506c00d9716bdd641c2867b2acea8858/8912611
 Electroacoustic, Tape Music, Stochastic Music
-9.1
-
-Aus den sieben Tagen
-Aloys Kontarsky, Harald Bojé /
-e.snmc.io/i/300/s/bc1f8ced5c69b961480eece9f28de346/1389787
-Indeterminacy
-9.1
+9.08
 
 The Drift
 Scott Walker
@@ -262,17 +256,41 @@ e.snmc.io/i/300/s/dd6600a5d8d34a5a7341096397eee22f/3154317
 Experimental, Singer/Songwriter, Post-Industrial
 8.98
 
-Plague Mass
-Diamanda Galás
-e.snmc.io/i/300/s/e10ce5b292bd930461450ceca5ec9c8c/1560987
-Experimental, Spoken Word
-9.02
-
 Trilogie de la mort
 Eliane Radigue
 e.snmc.io/i/300/s/ea7c736a9a1e0a456e14be2bcbcb1c28/6463606
 Drone
-9.04
+9.06
+
+Plague Mass
+Diamanda Galás
+e.snmc.io/i/300/s/e10ce5b292bd930461450ceca5ec9c8c/1560987
+Experimental, Spoken Word
+9.0
+
+All Bitches Die
+Lingua Ignota
+e.snmc.io/i/300/s/74df47bbc1825839720fd7c654a4ef40/6555577
+Death Industrial, Neoclassical Darkwave
+9.02
+
+Aus den sieben Tagen
+Aloys Kontarsky, Harald Bojé /
+e.snmc.io/i/300/s/bc1f8ced5c69b961480eece9f28de346/1389787
+Indeterminacy
+9.06
+
+½ Mensch
+Einstürzende Neubauten
+e.snmc.io/i/300/s/7971be79c3aaf2515df27994f9e82f6f/7649450
+Industrial
+9.02
+
+Saxophone Improvisations Series F
+Anthony Braxton
+e.snmc.io/i/300/s/4449acc1a374de81d271c7bbaa0d94c0/3843469
+Free Jazz, Free Improvisation
+9.06
 
 Paysages planétaires
 Henri Pousseur &
@@ -286,23 +304,11 @@ e.snmc.io/i/300/s/6ac22d63e6bf71d003f8abee9ea36681/7428466
 Dark Ambient, Drone, Turntable Music, Sound Collage
 8.94
 
-½ Mensch
-Einstürzende Neubauten
-e.snmc.io/i/300/s/7971be79c3aaf2515df27994f9e82f6f/7649450
-Industrial
-9.02
-
-All Bitches Die
-Lingua Ignota
-e.snmc.io/i/300/s/74df47bbc1825839720fd7c654a4ef40/6555577
-Death Industrial, Neoclassical Darkwave
-9.02
-
-Saxophone Improvisations Series F
-Anthony Braxton
-e.snmc.io/i/300/s/4449acc1a374de81d271c7bbaa0d94c0/3843469
-Free Jazz, Free Improvisation
-9.06
+Somnium
+Robert Rich
+e.snmc.io/i/300/s/7ad053f369bc8f5f2c4e42649614969b/1247255
+Ambient, Drone
+9.04
 
 Tetsuo
 石川忠
@@ -310,23 +316,11 @@ e.snmc.io/i/300/s/8ce03f1c75ac845bca28ba1d1506079e/9118718
 Film Score, Industrial, Electro-Industrial
 9.08
 
-Somnium
-Robert Rich
-e.snmc.io/i/300/s/7ad053f369bc8f5f2c4e42649614969b/1247255
-Ambient, Drone
+Sleep Has His House
+Current Ninety Three
+e.snmc.io/i/300/s/d3950652e17c0d1fa78fb00f76245033/4920690
+Neofolk, Avant-Folk, Drone
 9.04
-
-The Great Learning
-Nima Gousheh
-e.snmc.io/i/300/s/55a41fbb862459fc0ca197dcff26e92a/3764219
-Indeterminacy
-9.04
-
-Live in Japan
-Fennesz
-e.snmc.io/i/300/s/6b4d6d75644104ba060d50b889b8b804/2794361
-Glitch, Ambient, Electroacoustic
-9.14
 
 L'île re-sonante
 Eliane Radigue
@@ -346,17 +340,35 @@ e.snmc.io/i/300/s/67a42c3168153ff44cb2b8b69856eec4/2810272
 Death Industrial
 9.02
 
+The Great Learning
+Nima Gousheh
+e.snmc.io/i/300/s/55a41fbb862459fc0ca197dcff26e92a/3764219
+Indeterminacy
+9.02
+
+Live in Japan
+Fennesz
+e.snmc.io/i/300/s/6b4d6d75644104ba060d50b889b8b804/2794361
+Glitch, Ambient, Electroacoustic
+9.12
+
 Shadow Kingdom
 Natural Snow Buildings
 e.snmc.io/i/300/s/9fb3fd9b7299ca772a071d52bd934e4b/3706415
 Drone, Psychedelic Folk
 9.02
 
-Before Driving to the Chapel We Took Coffee With Rick and Jennifer Reed
-AMM
-e.snmc.io/i/300/s/813e8db936c21b0a535737be62f6c38a/2771790
-Free Improvisation
-9.04
+ErstLive 005
+Keith Rowe, Sachiko M /><a href="/artist/toshimaru_nakamura" class="artistToshimaru Nakamura /><a href="/artist/大友良英" class="artist大友良英
+e.snmc.io/i/300/s/5d4bc438d644a9132a4d37397cf5e511/8947108
+Onkyo, EAI
+9.08
+
+For Bunita Marcus
+Hildegard Kleeb
+e.snmc.io/i/300/s/86a18dc6e1c2547da8634a6b4fbf2767/5758519
+Modern Classical, Indeterminacy
+9.06
 
 Kyema, Intermediate States
 Eliane Radigue
@@ -364,11 +376,17 @@ e.snmc.io/i/300/s/93f2e2c5df5edc74814bb1f697c8bcdc/3186541
 Drone
 9.1
 
-For Bunita Marcus
-Hildegard Kleeb
-e.snmc.io/i/300/s/86a18dc6e1c2547da8634a6b4fbf2767/5758519
-Modern Classical, Indeterminacy
+Hanging Gardens
+The Necks
+e.snmc.io/i/300/s/72a929f2e423051894134bc6039feaaa/1410925
+Avant-Garde Jazz, Free Improvisation
 9.04
+
+Before Driving to the Chapel We Took Coffee With Rick and Jennifer Reed
+AMM
+e.snmc.io/i/300/s/813e8db936c21b0a535737be62f6c38a/2771790
+Free Improvisation
+9.02
 
 You Are My Everlovin / Celestial Power
 Henry Flynt
@@ -376,17 +394,11 @@ e.snmc.io/i/300/s/ec9105cff30da8b6648c97f4e7be79f6/5030064
 Drone, Avant-Folk, Free Folk
 8.98
 
-ErstLive 005
-Keith Rowe, Sachiko M /><a href="/artist/toshimaru_nakamura" class="artistToshimaru Nakamura /><a href="/artist/大友良英" class="artist大友良英
-e.snmc.io/i/300/s/5d4bc438d644a9132a4d37397cf5e511/8947108
-Onkyo, EAI
-9.04
-
 The Crypt: 12th June 1968
 AMM
 e.snmc.io/i/300/s/97d45ea1f632c1968b52c09f03e9fd82/8278441
 Free Improvisation
-9.0
+9.02
 
 Caligula
 Lingua Ignota
@@ -394,23 +406,11 @@ e.snmc.io/i/300/s/50197dc399ede15400445a294ddd7781/7535242
 Neoclassical Darkwave, Death Industrial
 8.88
 
-Haus der Luege
-Einstuerzende Neubauten
-e.snmc.io/i/25/s/a1764239a0f64043ae843c336175cb28/2712946
-Industrial, Post-Industrial
-8.98
-
 Aviary
 Julia Holter
 e.snmc.io/i/300/s/7fcd7e77b09b7bc68a5a2152057d64fa/7211654
 Progressive Pop, Art Pop, Ambient Pop, Experimental
 8.92
-
-An Empty Bliss Beyond This World
-The Caretaker
-e.snmc.io/i/300/s/5895ca6d4e507fac2eeb5c07654c09fa/4486747
-Ambient, Turntable Music
-8.88
 
 Going Places
 Yellow Swans
@@ -418,17 +418,23 @@ e.snmc.io/i/300/s/b46d0ff57748957d8df0bac5227ff232/2941764
 Noise, Drone
 8.94
 
+Haus der Luege
+Einstuerzende Neubauten
+e.snmc.io/i/25/s/a1764239a0f64043ae843c336175cb28/2712946
+Industrial, Post-Industrial
+8.98
+
+An Empty Bliss Beyond This World
+The Caretaker
+e.snmc.io/i/300/s/5895ca6d4e507fac2eeb5c07654c09fa/4486747
+Ambient, Turntable Music
+8.88
+
 Superflat
 C'est la Key
 e.snmc.io/i/300/s/5947fe37e46819209d6789a521572e36/6500664
 Radio Drama, Experimental
 8.86
-
-The Disintegration Loops III
-William Basinski
-e.snmc.io/i/300/s/d936c6dca400a96dfbd10001a40fbf83/2710645
-Tape Music, Ambient, Minimalism
-8.94
 
 Original Soundtrack From Mosfilm "Solaris"
 Эдуард Артемьев
@@ -436,17 +442,17 @@ e.snmc.io/i/300/s/7e323865dc4596c00dcebf99495c7955/8549334
 Film Score, Electroacoustic, Ambient
 9.0
 
-Nothing Changes No One Can Change Anything, I Am Ever-Changing Only You Can Change Yourself
-Fushitsusha
-e.snmc.io/i/300/s/77bdc8e85df1fdbf63571784c0786028/5176454
-Experimental Rock, Psychedelic Rock, Free Improvisation
-9.0
-
-I'll Try Living Like This
-death's dynamic shroud.wmv
-e.snmc.io/i/300/s/29b99bbfcbbcb10cd7d6102a997d6061/6183894
-Vaporwave, Plunderphonics
+The Disintegration Loops III
+William Basinski
+e.snmc.io/i/300/s/d936c6dca400a96dfbd10001a40fbf83/2710645
+Tape Music, Ambient, Minimalism
 8.92
+
+Leichenschrei
+SPK
+e.snmc.io/i/300/s/bfb8b8f9f094a925ca4d898b7f7f8a6d/4443804
+Industrial
+8.98
 
 Big Science
 Laurie Anderson
@@ -454,17 +460,17 @@ e.snmc.io/i/300/s/93cfcf1b2bba44094f9810627cee152a/2003185
 Art Pop, Experimental, Electronic
 8.92
 
-Leichenschrei
-SPK
-e.snmc.io/i/300/s/bfb8b8f9f094a925ca4d898b7f7f8a6d/4443804
-Industrial
-8.96
+I'll Try Living Like This
+death's dynamic shroud.wmv
+e.snmc.io/i/300/s/29b99bbfcbbcb10cd7d6102a997d6061/6183894
+Vaporwave, Plunderphonics
+8.9
 
-The Room Extended
-Keith Rowe
-e.snmc.io/i/300/s/da75d693f8b041c7a5c6ea6fcb1f393d/6279989
-EAI
-9.0
+Nothing Changes No One Can Change Anything, I Am Ever-Changing Only You Can Change Yourself
+Fushitsusha
+e.snmc.io/i/300/s/77bdc8e85df1fdbf63571784c0786028/5176454
+Experimental Rock, Psychedelic Rock, Free Improvisation
+8.98
 
 New History Warfare Vol. 2: Judges
 Colin Stetson
@@ -472,11 +478,11 @@ e.snmc.io/i/300/s/2d3915cd974555de5f604f0924835fe0/3480256
 Post-Minimalism, Experimental
 8.94
 
-Africa Express Presents... Terry Riley's In C Mali
-Africa Express
-e.snmc.io/i/300/s/3cb5d3a228450381ac38432ab9aa7069/5531255
-Minimalism, Indeterminacy
-9.02
+The Anatomy of Addiction
+God
+e.snmc.io/i/300/s/4b6b3e6425ba590445a22ef8311f9e3f/1617957
+Industrial Metal, Experimental Rock, Industrial
+8.98
 
 Disco Volante
 Mr. Bungle
@@ -490,10 +496,16 @@ e.snmc.io/i/300/s/e5a7634d7248efe382f03b72580c8ba1/1973485
 Free Improvisation, Free Jazz
 8.92
 
-The Anatomy of Addiction
-God
-e.snmc.io/i/300/s/4b6b3e6425ba590445a22ef8311f9e3f/1617957
-Industrial Metal, Experimental Rock, Industrial
+Africa Express Presents... Terry Riley's In C Mali
+Africa Express
+e.snmc.io/i/300/s/3cb5d3a228450381ac38432ab9aa7069/5531255
+Minimalism, Indeterminacy
+9.02
+
+The Room Extended
+Keith Rowe
+e.snmc.io/i/300/s/da75d693f8b041c7a5c6ea6fcb1f393d/6279989
+EAI
 8.98
 
 In C
@@ -508,23 +520,17 @@ e.snmc.io/i/300/s/a2c89959bbf5e26aada6e17ddf4afa06/1719342
 Tape Music, Ambient, Minimalism
 8.88
 
-Drowner Yellow Swans
-Yellow Swans
-e.snmc.io/i/300/s/3728e69f2fdc0e48d3f6ae21fe217d39/2077618
-Noise, Drone
-8.98
-
 Nail
 Scraping Foetus Off the Wheel
 e.snmc.io/i/300/s/a341d1376238ba13b01d0360c9138fc8/7649424
 Industrial Rock, Experimental Rock, Industrial
 8.86
 
-The Salmon of Doubt
-Coin locker kid
-e.snmc.io/i/300/s/2ec8175cf1da2d26d5159f5895b75add/8587913
-Neo-Psychedelia, Experimental Hip Hop, Experimental
-8.92
+Drowner Yellow Swans
+Yellow Swans
+e.snmc.io/i/300/s/3728e69f2fdc0e48d3f6ae21fe217d39/2077618
+Noise, Drone
+8.96
 
 Silence Is Sexy
 Einstürzende Neubauten
@@ -542,7 +548,13 @@ Duos for Doris
 Keith Rowe &
 e.snmc.io/i/300/s/625165edaac6924b94a577fd69dad0d9/5550081
 EAI, Reductionism
-8.92
+8.94
+
+The Salmon of Doubt
+Coin locker kid
+e.snmc.io/i/300/s/2ec8175cf1da2d26d5159f5895b75add/8587913
+Neo-Psychedelia, Experimental Hip Hop, Experimental
+8.9
 
 Utopia
 Cristobal Tapia de Veer
@@ -556,23 +568,17 @@ e.snmc.io/i/300/s/33c6d3639eb0c7e2b976c57c8eec700a/1288082
 Industrial
 8.94
 
-Island: Eine Sinfonie in 10 Sätzen
-Hermann Nitsch
-e.snmc.io/i/300/s/4c3cee7979456fa59031e0b161f1b380/3433188
-Modern Classical, Drone, Symphony
-8.92
-
 Under the Skin
 Mica Levi
 e.snmc.io/i/300/s/b5521c52b4930dbfd1c9c1d5f9230450/7933573
 Film Score, Drone, Electroacoustic
-8.92
+8.94
 
-The Disintegration Loops
-William Basinski
-e.snmc.io/i/300/s/0250d374bb0c1b2fa2834c2900223a28/3547831
-Tape Music, Ambient, Minimalism
-8.78
+Hole
+Scraping Foetus Off the Wheel
+e.snmc.io/i/300/s/58d555b0b09646f47471b07aec01fe2e/1411285
+Industrial Rock, Industrial
+8.9
 
 Time Machines
 Time Machines
@@ -580,10 +586,16 @@ e.snmc.io/i/300/s/21e78624d3684c5f1f9458bfcf4799f0/1792347
 Drone
 8.9
 
-Hole
-Scraping Foetus Off the Wheel
-e.snmc.io/i/300/s/58d555b0b09646f47471b07aec01fe2e/1411285
-Industrial Rock, Industrial
+The Disintegration Loops
+William Basinski
+e.snmc.io/i/300/s/0250d374bb0c1b2fa2834c2900223a28/3547831
+Tape Music, Ambient, Minimalism
+8.78
+
+Island: Eine Sinfonie in 10 Sätzen
+Hermann Nitsch
+e.snmc.io/i/300/s/4c3cee7979456fa59031e0b161f1b380/3433188
+Modern Classical, Drone, Symphony
 8.9
 
 Zeichnungen des Patienten O.T.
@@ -596,7 +608,7 @@ Continuum Unbound
 Michael Pisaro, Greg Stuart /
 e.snmc.io/i/300/s/c62ddb972b65a96b1cde44348568fbef/5429071
 Field Recordings, Musique concrète, Nature Recordings
-8.88
+8.9
 
 Plays Standards
 Ground-Zero
@@ -604,23 +616,17 @@ e.snmc.io/i/300/s/0402286b38de7cf8593a2548d403e929/5695806
 Avant-Prog, Experimental Rock, Turntable Music
 8.9
 
-Endless Summer
-Fennesz
-e.snmc.io/i/300/s/b3f60fbb48656024c2a76434d77fa703/8973658
-Glitch
-8.84
-
-Plux Quba
-Nuno Canavarro
-e.snmc.io/i/300/s/9fb94fca896e2c83ecfaf616cbbf934b/6043458
-Tape Music, Electroacoustic
-8.86
-
 Eraserhead
 David Lynch, Alan Splet
 e.snmc.io/i/300/s/15d8ad74d37c5e82c9ce5ad84b67d8f8/4668117
 Dark Ambient, Film Soundtrack, Drone, Sound Collage
 8.88
+
+Endless Summer
+Fennesz
+e.snmc.io/i/300/s/b3f60fbb48656024c2a76434d77fa703/8973658
+Glitch
+8.84
 
 The Pilgrim
 Jason Lescalleet
@@ -628,23 +634,11 @@ e.snmc.io/i/300/s/35f0f8a0455ea38d4ee608ad30d8b223/1934843
 Drone, Dark Ambient
 8.9
 
-Improvised Music From Japan
-Various Artists
-e.snmc.io/i/300/s/e0c57f610c01bacb86b2dbf0bf9aa2a2/1356599
-EAI, Free Improvisation, Onkyo
-8.84
-
-Meet the Residents
-Residents
-e.snmc.io/i/300/s/e06fdbf37daa87b65ffc6788a4fdb3b7/6230857
-Experimental
-8.8
-
-Drawing of Sound
-Windy & Carl
-e.snmc.io/i/300/s/f7cf8153860a769661ee673558c3c7d9/1805218
-Drone, Ambient
-8.9
+Four Violins
+Tony Conrad
+e.snmc.io/i/300/s/abc9e2bc76fff524198115aab5c4e781/2244764
+Drone, Minimalism, Microtonal Classical
+8.88
 
 Instruments Disorder (170 Songs CD)
 The Gerogerigegege
@@ -652,17 +646,41 @@ e.snmc.io/i/300/s/bef117011cb89fffba6bb96f6d73f2e8/1565697
 Noisecore, Harsh Noise
 8.82
 
-Four Violins
-Tony Conrad
-e.snmc.io/i/300/s/abc9e2bc76fff524198115aab5c4e781/2244764
-Drone, Minimalism, Microtonal Classical
+Plux Quba
+Nuno Canavarro
+e.snmc.io/i/300/s/9fb94fca896e2c83ecfaf616cbbf934b/6043458
+Tape Music, Electroacoustic
+8.86
+
+Meet the Residents
+Residents
+e.snmc.io/i/300/s/e06fdbf37daa87b65ffc6788a4fdb3b7/6230857
+Experimental
+8.8
+
+Improvised Music From Japan
+Various Artists
+e.snmc.io/i/300/s/e0c57f610c01bacb86b2dbf0bf9aa2a2/1356599
+EAI, Free Improvisation, Onkyo
+8.84
+
+Drawing of Sound
+Windy & Carl
+e.snmc.io/i/300/s/f7cf8153860a769661ee673558c3c7d9/1805218
+Drone, Ambient
 8.88
+
+Loop-finding-jazz-records
+Jan Jelinek
+e.snmc.io/i/300/s/6860ed5afd3673d87f65dcebc8606e2f/2814171
+Glitch, Ambient Techno, Microhouse
+8.84
 
 The Ballasted Orchestra
 Stars of the Lid
 e.snmc.io/i/300/s/eb590845be853582a00abb19847843b8/3372472
 Ambient, Drone
-8.88
+8.86
 
 Lifting Concrete Lightly
 MIMEO
@@ -676,12 +694,6 @@ e.snmc.io/i/300/s/e08e8e995b2ea96e62a8875e9a6cbcc9/2420985
 Electroacoustic, Stochastic Music, Tape Music
 8.88
 
-Loop-finding-jazz-records
-Jan Jelinek
-e.snmc.io/i/300/s/6860ed5afd3673d87f65dcebc8606e2f/2814171
-Glitch, Ambient Techno, Microhouse
-8.84
-
 Gesang der Jünglinge · Kontakte
 Karlheinz Stockhausen, Studio für elektronische Musik des Westdeutschen Rundfunks, Köln
 e.snmc.io/i/300/s/1fcadb1a0da803f3c4bcd6c6dd8d8baf/2282836
@@ -694,11 +706,11 @@ e.snmc.io/i/300/s/708c8e0838cf894f1e1685e31ca1de66/2621879
 Sound Collage
 8.86
 
-Kesto (234.48:4)
-Pan Sonic
-e.snmc.io/i/300/s/8389db95a2e9fa393afd8274d0bf1ebd/1332595
-Post-Industrial, Power Noise, Drone, Electronic
-8.84
+悲愴 (Pathétique)
+不失者
+e.snmc.io/i/300/s/7a33d3e7921f527df1018be110935842/6102252
+Noise Rock, Psychedelic Rock, Noise, Free Improvisation
+8.8
 
 Monoliths & Dimensions
 Sunn O)))
@@ -706,17 +718,17 @@ e.snmc.io/i/300/s/c78245dc5190db078d260574b9a54783/2907211
 Drone Metal, Drone
 8.76
 
-悲愴 (Pathétique)
-不失者
-e.snmc.io/i/300/s/7a33d3e7921f527df1018be110935842/6102252
-Noise Rock, Psychedelic Rock, Noise, Free Improvisation
-8.8
+Kesto (234.48:4)
+Pan Sonic
+e.snmc.io/i/300/s/8389db95a2e9fa393afd8274d0bf1ebd/1332595
+Post-Industrial, Power Noise, Drone, Electronic
+8.84
 
 Deep Listening
 Pauline Oliveros,
 e.snmc.io/i/300/s/6e57c15c228d5265c5f2f1f97ff48f6f/3923622
 Drone, Ambient
-8.84
+8.86
 
 The Snowbringer Cult
 Isengrind, TwinSisterMoon /
@@ -742,22 +754,22 @@ e.snmc.io/i/300/s/03e4ef03dc180927cd9a04281707102b/1965224
 Ambient, Drone, Tape Music
 8.82
 
-None of This Is Real
-DJ Rozwell
-e.snmc.io/i/300/s/86ae8ee114847c92d8c7b7b3891c88c9/5834064
-Instrumental Hip Hop, Plunderphonics, Experimental Hip Hop
-8.82
-
 Hymnen für elektronische und konkrete Klänge
 Studio für elektronische Musik des Westdeutschen Rundfunks, Köln &
 e.snmc.io/i/300/s/7415d91620243bc9cdf654888ed55c7a/2502229
 Musique concrète, Modern Classical, Electronic
 8.82
 
-Concentration
-Susan Alcorn
-e.snmc.io/i/300/s/b2e0d250760b03dbc1008e6e8852c13b/4530409
-Free Improvisation
+None of This Is Real
+DJ Rozwell
+e.snmc.io/i/300/s/86ae8ee114847c92d8c7b7b3891c88c9/5834064
+Instrumental Hip Hop, Plunderphonics, Experimental Hip Hop
+8.82
+
+Early Works
+Steve Reich
+e.snmc.io/i/300/s/968c70bc14c9c230aa0994df92c591a3/8823358
+Minimalism, Tape Music
 8.84
 
 革命京劇 (Revolutionary Pekinese Opera)
@@ -766,11 +778,11 @@ e.snmc.io/i/300/s/4b503d3feed4424dc50c0d87683d74aa/4311245
 Sound Collage, Turntable Music, Musique concrète
 8.88
 
-Primordial Lift
-Pauline Oliveros
-e.snmc.io/i/300/s/a6870d3a5aebbadf8abbfcd54370acbc/1359967
-Drone, Electroacoustic
-8.92
+Last Rights
+Skinny Puppy
+e.snmc.io/i/300/s/0e25ec99721e98cb4faf4f0493218dd0/1374242
+Electro-Industrial, Industrial
+8.78
 
 The Remote Viewer
 Coil
@@ -778,35 +790,35 @@ e.snmc.io/i/300/s/5d451bb8d66e4bcbffa346e2ebbfd253/1308194
 Tribal Ambient, Experimental, Electronic
 8.82
 
+Everywhere at the End of Time: Stage 3
+The Caretaker
+e.snmc.io/i/300/s/559ac95e4b41c1c153d4b56e48fb58c7/6685182
+Turntable Music, Ambient
+8.78
+
+The Lemon of Pink
+The Books
+e.snmc.io/i/300/s/13946c9ed084772b5b7996173a1edc7f/5553345
+Folktronica, Sound Collage
+8.76
+
 August 1974
 Taj Mahal Travellers
 e.snmc.io/i/300/s/cb747e534e951346b673e933f94e88b0/2584827
 Free Improvisation
 8.8
 
-The Lemon of Pink
-The Books
-e.snmc.io/i/300/s/13946c9ed084772b5b7996173a1edc7f/5553345
-Folktronica, Sound Collage
-8.78
+Adelie Land
+Handsomeboy Technique
+e.snmc.io/i/300/s/ebd47949176a5b03392bec087585dcf9/8615602
+Plunderphonics
+8.88
 
-Everywhere at the End of Time: Stage 3
-The Caretaker
-e.snmc.io/i/300/s/559ac95e4b41c1c153d4b56e48fb58c7/6685182
-Turntable Music, Ambient
-8.76
-
-Last Rights
-Skinny Puppy
-e.snmc.io/i/300/s/0e25ec99721e98cb4faf4f0493218dd0/1374242
-Electro-Industrial, Industrial
-8.78
-
-Early Works
-Steve Reich
-e.snmc.io/i/300/s/968c70bc14c9c230aa0994df92c591a3/8823358
-Minimalism, Tape Music
-8.84
+Primordial Lift
+Pauline Oliveros
+e.snmc.io/i/300/s/a6870d3a5aebbadf8abbfcd54370acbc/1359967
+Drone, Electroacoustic
+8.9
 
 (No Pussyfooting)
 Fripp & Eno
@@ -826,35 +838,47 @@ e.snmc.io/i/300/s/a8da190400ad7f9fe045a1d2b8464f5e/8773226
 Free Improvisation
 8.8
 
-Adelie Land
-Handsomeboy Technique
-e.snmc.io/i/300/s/ebd47949176a5b03392bec087585dcf9/8615602
-Plunderphonics
+Amateur Doubles
+Graham Lambkin
+e.snmc.io/i/300/s/17cdfb0687d4ed83215681312a6884f4/6237330
+Tape Music, Sound Collage, Musique concrète
+8.82
+
+Fremde Zeit Addendum
+Pellegrini Quartett, Jürg Henneberger /
+e.snmc.io/i/300/s/88a8f8ad8f972985ffb85249d952feed/4130617
+Modern Classical, Reductionism, Lowercase
+8.82
+
+Concentration
+Susan Alcorn
+e.snmc.io/i/300/s/b2e0d250760b03dbc1008e6e8852c13b/4530409
+Free Improvisation
+8.82
+
+Soliloquy for Lilith
+Nurse With Wound
+e.snmc.io/i/300/s/67afa1a917de2c56db424dce6dad1dcd/1975044
+Drone, Dark Ambient
+8.78
+
+Early Minimalism, Volume One
+Tony Conrad
+e.snmc.io/i/300/s/6f092df4abc60e8c09df1523c3a54385/2302511
+Minimalism, Drone
+8.84
+
+Dreamcast Summer Songs
+The Rockwood Escape Plan
+e.snmc.io/i/300/s/c2b8730a3cc9a3880bde30ef82f96c96/8140504
+Instrumental Hip Hop, Plunderphonics
 8.88
 
 Music for Living Sound
 ヤン富田
 e.snmc.io/i/300/s/8bb7ed64a992f5f1ba5cc665ce703f20/1931175
 Experimental, Sound Collage, Electronic
-8.86
-
-Invisible Pyramid: Elegy Box
-Various Artists
-e.snmc.io/i/300/s/267c4a1addc9709977ebd562ca13aadc/1480460
-Ambient, Drone, Free Folk, Avant-Folk
-8.86
-
-Everywhere at the End of Time: Stage 4
-The Caretaker
-e.snmc.io/i/300/s/f405a38aa921991b72ef1399491bf734/6940445
-Sound Collage, Turntable Music, Dark Ambient, Noise
-8.72
-
-Fremde Zeit Addendum
-Pellegrini Quartett, Jürg Henneberger /
-e.snmc.io/i/300/s/88a8f8ad8f972985ffb85249d952feed/4130617
-Modern Classical, Reductionism
-8.82
+8.84
 
 The Inexhaustible Document
 AMM
@@ -862,53 +886,17 @@ e.snmc.io/i/300/s/b97be839c0212895c8037fda6d15e20d/5106827
 Free Improvisation
 8.86
 
-Soliloquy for Lilith
-Nurse With Wound
-e.snmc.io/i/300/s/67afa1a917de2c56db424dce6dad1dcd/1975044
-Drone, Dark Ambient
-8.76
-
-Amateur Doubles
-Graham Lambkin
-e.snmc.io/i/300/s/17cdfb0687d4ed83215681312a6884f4/6237330
-Tape Music, Sound Collage, Musique concrète
-8.8
-
-Early Minimalism, Volume One
-Tony Conrad
-e.snmc.io/i/300/s/6f092df4abc60e8c09df1523c3a54385/2302511
-Minimalism, Drone
-8.82
-
 Venice
 Fennesz
 e.snmc.io/i/300/s/9814f68b11e1b0808d8f4c1b096bca42/5224505
 Ambient, Glitch
 8.78
 
-Alles wieder offen
-Einstürzende Neubauten
-e.snmc.io/i/300/s/b6f864fcaa601ad391a6cdb120126706/8973747
-Industrial, Art Pop
-8.82
-
-Shipwreck Radio Volume One: Seven Sonic Structures From Utvær
-Nurse With Wound
-e.snmc.io/i/300/s/f6f538b5bbf1f67fe5614f4416f345c3/1403396
-Dark Ambient, Field Recordings, Experimental
-8.8
-
-Earth 2: Special Low Frequency Version
-Earth
-e.snmc.io/i/300/s/54b497e42598811f5ed16ea5e9c1fc08/8844825
-Drone Metal, Drone
-8.7
-
-Dømkirke
-Sunn O)))
-e.snmc.io/i/300/s/0304b070a0c528525e1c15fe678ec293/2475503
-Drone, Drone Metal
-8.74
+Everywhere at the End of Time: Stage 4
+The Caretaker
+e.snmc.io/i/300/s/f405a38aa921991b72ef1399491bf734/6940445
+Sound Collage, Turntable Music, Dark Ambient, Noise
+8.72
 
 94 Diskont
 Oval
@@ -916,23 +904,41 @@ e.snmc.io/i/300/s/a50ca9abbfc4f2d86ea692fb611878da/5871094
 Glitch
 8.76
 
+Alles wieder offen
+Einstürzende Neubauten
+e.snmc.io/i/300/s/b6f864fcaa601ad391a6cdb120126706/8973747
+Industrial, Art Pop
+8.82
+
+Mass Hysterism in Another Situation
+New Direction Unit
+e.snmc.io/i/300/s/d210822f5c9c52271ac319435aa4e089/2356886
+Free Jazz, Free Improvisation
+8.82
+
 Eskimo
 The Residents
 e.snmc.io/i/300/s/580af64d19ee34fd87aec133750bf30a/1990894
 Experimental, Ambient
 8.74
 
-The Breadwinner
-Graham Lambkin, New Direction Unit
-e.snmc.io/i/300/s/3f36f825fc02dfb6105c6880e13f5575/2225475
-Free Jazz, Free Improvisation
-8.82
+Dømkirke
+Sunn O)))
+e.snmc.io/i/300/s/0304b070a0c528525e1c15fe678ec293/2475503
+Drone, Drone Metal
+8.74
 
-The Divine Punishment
-Diamanda Galás
-e.snmc.io/i/300/s/c8e6ecb51146c8f655e872e530918d4a/1560926
-Experimental
-8.76
+The Breadwinner
+Graham Lambkin, Various Artists
+e.snmc.io/i/300/s/3f36f825fc02dfb6105c6880e13f5575/2225475
+Ambient, Drone, Free Folk, Avant-Folk
+8.84
+
+Earth 2: Special Low Frequency Version
+Earth
+e.snmc.io/i/300/s/54b497e42598811f5ed16ea5e9c1fc08/8844825
+Drone Metal, Drone
+8.68
 
 The Hands of Caravaggio
 MIMEO &
@@ -945,10 +951,4 @@ C.C.C.C.
 e.snmc.io/i/300/s/c00b8147ff09cc03391e74e8628f4dcc/2274325
 Harsh Noise
 8.78
-
-Shutûn
-Troum &
-e.snmc.io/i/300/s/4758b1c638424ddf6496bfa75c7ff7bd/6846236
-Dark Ambient, Drone
-8.8
 

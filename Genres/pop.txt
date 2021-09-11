@@ -76,17 +76,17 @@ e.snmc.io/i/300/s/9d31a9bb6c0e0765d18f19fe3ddd5174/8697079
 Art Pop, Electronic
 9.64
 
-Rubber Soul
-The Beatles
-e.snmc.io/i/300/s/71d4c17d08c53084574a0d5ae25056e3/5248558
-Pop Rock
-9.56
-
 The Velvet Underground
 The Velvet Underground
 e.snmc.io/i/300/s/2853cf8bdf1392fdf2eed5811a9a813e/5706942
 Pop Rock
 9.68
+
+Rubber Soul
+The Beatles
+e.snmc.io/i/300/s/71d4c17d08c53084574a0d5ae25056e3/5248558
+Pop Rock
+9.56
 
 Blonde
 Frank Ocean
@@ -140,7 +140,7 @@ Hatful of Hollow
 The Smiths
 e.snmc.io/i/300/s/2bb3b8f8f79f8e57ae390e41979f1fec/8303380
 Jangle Pop, Indie Pop
-9.64
+9.66
 
 Velocity : Design : Comfort
 Sweet Trip
@@ -154,17 +154,17 @@ e.snmc.io/i/300/s/05467ae185799431e4f2fabd0b6604e4/1560902
 Pop Rock
 9.6
 
-Forever Changes
-Love
-e.snmc.io/i/300/s/524baed4edebd2c1f5f32cea4debd07f/2667874
-Psychedelic Pop, Psychedelic Rock, Psychedelic Folk
-9.52
-
 Rumours
 Fleetwood Mac
 e.snmc.io/i/300/s/430dcd4b90ed2795f126d5d11ede1bce/5709996
 Pop Rock, Soft Rock
 9.48
+
+Forever Changes
+Love
+e.snmc.io/i/300/s/524baed4edebd2c1f5f32cea4debd07f/2667874
+Psychedelic Pop, Psychedelic Rock, Psychedelic Folk
+9.52
 
 All Things Must Pass
 George Harrison
@@ -188,7 +188,7 @@ The Dreaming
 Kate Bush
 e.snmc.io/i/300/s/3760244ad6eaf1bfb6e8d1391c42b182/2340663
 Art Pop, Progressive Pop
-9.54
+9.56
 
 Sign "☮︎" the Times
 Prince
@@ -244,6 +244,12 @@ e.snmc.io/i/300/s/963ab76cb01daed1a9499d3773fc604d/8979020
 Art Pop, Electronic
 9.32
 
+Cowboy Bebop CD-Box
+菅野よう子
+e.snmc.io/i/300/s/e612d6844aa14d02288c7d221008efcc/2424318
+Television Music, Jazz, Pop
+9.56
+
 Transformer
 Lou Reed
 e.snmc.io/i/300/s/787854b595dd2bc18ae17deec7d850f2/1975840
@@ -255,12 +261,6 @@ Simon and Garfunkel
 e.snmc.io/i/300/s/c95d6822af46159c69090f52b29dc426/1285049
 Folk Pop, Singer/Songwriter
 9.42
-
-Cowboy Bebop CD-Box
-菅野よう子
-e.snmc.io/i/300/s/e612d6844aa14d02288c7d221008efcc/2424318
-Television Music, Jazz, Pop
-9.54
 
 The Piper at the Gates of Dawn
 Pink Floyd
@@ -283,7 +283,7 @@ Jazz-Rock, Pop Rock
 宇宙 日本 世田谷 (Uchū Nippon Setagaya)
 Fishmans
 e.snmc.io/i/300/s/8fef2706a43f8c8451718547df311282/6122404
-Dream Pop, Downtempo, Ambient Pop
+Dream Pop, Downtempo
 9.44
 
 XO
@@ -350,13 +350,7 @@ Silent Shout: An Audio Visual Experience
 The Knife
 e.snmc.io/i/300/s/c324d49473bf233ea0066294eb2818be/2086052
 Electropop, Synthpop
-9.48
-
-Pinkerton
-Weezer
-e.snmc.io/i/300/s/55094a85303c78248c315fe1e277db80/2170037
-Alternative Rock, Power Pop
-9.14
+9.5
 
 Minimum-Maximum
 Kraftwerk
@@ -370,17 +364,17 @@ e.snmc.io/i/300/s/078f5a88011d47015cb01c5f7067f9d9/4480355
 Glam Rock, Pop Rock
 9.5
 
+Pinkerton
+Weezer
+e.snmc.io/i/300/s/55094a85303c78248c315fe1e277db80/2170037
+Alternative Rock, Power Pop
+9.14
+
 Before the Dawn
 The KT Fellowship
 e.snmc.io/i/300/s/e790db864e094530a22c12c6bbda6075/6261729
 Art Pop, Progressive Pop
 9.5
-
-Different Class
-Pulp
-e.snmc.io/i/300/s/1e903e481c5f07aa6c16e83f98897375/2109326
-Britpop
-9.32
 
 Dots and Loops
 Stereolab
@@ -388,10 +382,10 @@ e.snmc.io/i/300/s/7d08f9bf0cd53702ca08b6275af5e16c/8820744
 Art Pop, Indietronica
 9.36
 
-Rock Bottom
-Robert Wyatt
-e.snmc.io/i/300/s/9c32b816ccf9dc1312d9dd63800d6a8e/2000476
-Canterbury Scene, Art Rock
+Different Class
+Pulp
+e.snmc.io/i/300/s/1e903e481c5f07aa6c16e83f98897375/2109326
+Britpop
 9.32
 
 London 1986
@@ -399,12 +393,6 @@ Talk Talk
 e.snmc.io/i/300/s/0dc1ea0372caae83acaeff7dff691467/2132275
 Art Pop
 9.5
-
-Concert for George
-Various Artists
-e.snmc.io/i/300/s/eb2af473f2a504f88a16bbe73c465b79/1265324
-Pop Rock
-9.48
 
 Computerwelt
 Kraftwerk
@@ -417,6 +405,12 @@ Fiona Apple
 e.snmc.io/i/300/s/8ef6d651a06b28b8bcbeadee7def0577/6595402
 Singer/Songwriter, Piano Rock
 9.34
+
+Concert for George
+Various Artists
+e.snmc.io/i/300/s/eb2af473f2a504f88a16bbe73c465b79/1265324
+Pop Rock
+9.48
 
 101
 Depeche Mode
@@ -452,13 +446,13 @@ Live at Wembley '86
 Queen
 e.snmc.io/i/300/s/5f15f2724e99e676d1a8949ba861043a/2325516
 Hard Rock, Pop Rock
-9.4
+9.38
 
 Where the Light Is: John Mayer Live in Los Angeles
 John Mayer
 e.snmc.io/i/300/s/25846dc510dfbeca7023ed2027017b84/2308109
 Blues Rock, Pop Rock, Singer/Songwriter
-9.42
+9.4
 
 Love Deluxe
 Sade
@@ -520,17 +514,17 @@ e.snmc.io/i/300/s/1390fe6d4bedaa25f23a00525ef20ecf/1576316
 Art Rock, Art Pop
 9.24
 
-Cracked Actor (Live Los Angeles '74)
-David Bowie
-e.snmc.io/i/300/s/178db9c7dd8dd3335571ece001b99e09/6468466
-Glam Rock, Pop Rock
-9.42
-
 Power, Corruption & Lies
 New Order
 e.snmc.io/i/300/s/2223279dfc6dc04f568fc5388f2f08a3/3423742
 Synthpop, New Wave, Post-Punk
 9.14
+
+Cracked Actor (Live Los Angeles '74)
+David Bowie
+e.snmc.io/i/300/s/178db9c7dd8dd3335571ece001b99e09/6468466
+Glam Rock, Pop Rock
+9.42
 
 Skylarking
 XTC
@@ -544,23 +538,35 @@ e.snmc.io/i/300/s/b92df3fafebb17c559d87fc21f1f2cd5/8917617
 Neo-Psychedelia, Art Pop
 9.08
 
-The Good Son
-Nick Cave & The Bad Seeds
-e.snmc.io/i/300/s/094850e033d87ea625ec13dd265757d2/3390799
-Singer/Songwriter, Piano Rock
-9.24
-
 Anthology 2
 The Beatles
 e.snmc.io/i/300/s/70183d6174ef09833e2b3c87c6e560ba/1974373
 Pop Rock
 9.34
 
+The Good Son
+Nick Cave & The Bad Seeds
+e.snmc.io/i/300/s/094850e033d87ea625ec13dd265757d2/3390799
+Singer/Songwriter, Piano Rock
+9.24
+
 救済の技法 (Kyuusai no gihou)
 平沢進
 e.snmc.io/i/300/s/00fc83e108d776fe7e2e161313ae36c1/9229820
 Art Pop, Progressive Pop, Electronic
 9.32
+
+ABC Music: The Radio 1 Sessions
+Stereolab
+e.snmc.io/i/300/s/a14bff3e6e92b45d8cec6dec94334cca/5425028
+Noise Pop, Art Pop, Indie Rock
+9.36
+
+Bocanada
+Gustavo Cerati
+e.snmc.io/i/300/s/9b6c8a79a1da3b6de4127ce5f76661c0/7390035
+Art Pop, Downtempo, Art Rock, Neo-Psychedelia
+9.3
 
 Anthology
 John Lennon
@@ -574,18 +580,6 @@ e.snmc.io/i/300/s/961b328d297b804f9fbf964dbbaf6d0e/2758916
 Synthpop, New Wave
 9.22
 
-Bocanada
-Gustavo Cerati
-e.snmc.io/i/300/s/9b6c8a79a1da3b6de4127ce5f76661c0/7390035
-Art Pop, Downtempo, Art Rock, Neo-Psychedelia
-9.3
-
-ABC Music: The Radio 1 Sessions
-Stereolab
-e.snmc.io/i/300/s/a14bff3e6e92b45d8cec6dec94334cca/5425028
-Noise Pop, Art Pop, Indie Rock
-9.34
-
 Court and Spark
 Joni Mitchell
 e.snmc.io/i/300/s/aaf782caa5121363aab7f638fa78e81c/1213109
@@ -598,11 +592,11 @@ e.snmc.io/i/300/s/a1bfe11d5facb397ce29a9a1001dcb85/6171596
 Singer/Songwriter, Art Pop
 9.18
 
-69 Love Songs
-The Magnetic Fields
-e.snmc.io/i/300/s/8a79d5fb4c308e058234e113921b8afa/2339068
-Indie Pop
-9.18
+Glastonbury 2000
+Bowie
+e.snmc.io/i/300/s/b7ef9000116392bc163a83519b170858/7177518
+Art Rock, Pop Rock
+9.36
 
 Endless
 Frank Ocean
@@ -610,17 +604,11 @@ e.snmc.io/i/300/s/42ffd19a55c66f47c6706ebf73db9c3c/6946788
 Ambient Pop, Alternative R&B, Art Pop
 9.2
 
-Glastonbury 2000
-Bowie
-e.snmc.io/i/300/s/b7ef9000116392bc163a83519b170858/7177518
-Art Rock, Pop Rock
-9.36
-
-Band on the Run
-Paul McCartney & Wings
-e.snmc.io/i/300/s/f4da5715ea8ddaca0461ce49e9f762a3/2401915
-Pop Rock
-9.22
+69 Love Songs
+The Magnetic Fields
+e.snmc.io/i/300/s/8a79d5fb4c308e058234e113921b8afa/2339068
+Indie Pop
+9.18
 
 If You're Feeling Sinister: Live at The Barbican
 Belle & Sebastian
@@ -628,17 +616,11 @@ e.snmc.io/i/300/s/b3e58190ba9586acc4f6df2baef8c1c8/1628223
 Chamber Pop, Indie Pop, Twee Pop
 9.34
 
-Let It Be... Naked
-The Beatles
-e.snmc.io/i/300/s/5e753f7989dcb2ebf130227d62dea1ac/1219269
+Band on the Run
+Paul McCartney & Wings
+e.snmc.io/i/300/s/f4da5715ea8ddaca0461ce49e9f762a3/2401915
 Pop Rock
-9.28
-
-The Colour of Spring
-Talk Talk
-e.snmc.io/i/300/s/37ee7214beece89dc2c433bf189dc845/8913673
-Art Pop
-9.2
+9.22
 
 Remote Utopias: 2nd May 2020
 Bladee, Ecco2K
@@ -646,11 +628,23 @@ e.snmc.io/i/300/s/e33d3d66f959e713cf2d3e4a3333770b/8173809
 Cloud Rap, Art Pop, Alternative R&B
 9.24
 
+The Colour of Spring
+Talk Talk
+e.snmc.io/i/300/s/37ee7214beece89dc2c433bf189dc845/8913673
+Art Pop
+9.2
+
 The Royal Scam
 Steely Dan
 e.snmc.io/i/300/s/1d90c1552642725cdea00cb3c6e1bbc6/1617480
 Pop Rock
 9.24
+
+Let It Be... Naked
+The Beatles
+e.snmc.io/i/300/s/5e753f7989dcb2ebf130227d62dea1ac/1219269
+Pop Rock
+9.28
 
 Merriweather Post Pavilion
 Animal Collective
@@ -676,35 +670,23 @@ e.snmc.io/i/300/s/b65749dbba29cbe5b1ded59ec06d8f2c/2300552
 Power Pop, Television Music, Alternative Rock, J-Rock
 9.28
 
-The Age of Adz
-Sufjan Stevens
-e.snmc.io/i/300/s/bd52805db8377a747ca8806c7881f40b/3629698
-Art Pop, Progressive Pop, Indietronica
-9.1
-
 勝訴ストリップ (Shōso strip)
 椎名林檎
 e.snmc.io/i/300/s/1d9958c55feec76c3ac8a3770c43e44e/8158418
 Art Pop, J-Rock
 9.24
 
-Max & Match
-이달의 소녀 오드아이써클
-e.snmc.io/i/300/s/c86aa9153ae6511e21cf22b4fd813bd6/6726828
-K-Pop, Dance-Pop, Future Bass
-9.2
+The Age of Adz
+Sufjan Stevens
+e.snmc.io/i/300/s/bd52805db8377a747ca8806c7881f40b/3629698
+Art Pop, Progressive Pop, Indietronica
+9.1
 
 Anthology 3
 The Beatles
 e.snmc.io/i/300/s/799076bf16a93cee44a08923aa306f38/1974376
 Pop Rock
 9.28
-
-Live at Raji's
-The Dream Syndicate
-e.snmc.io/i/300/s/78a7489ce30ac833cfb61cb82075e9d9/1326718
-Paisley Underground, Jangle Pop, Alternative Rock
-9.32
 
 Off the Wall
 Michael Jackson
@@ -718,17 +700,17 @@ e.snmc.io/i/300/s/771ec93e06c23146c847f9c0712fa596/2307571
 French Pop, Art Pop
 9.16
 
-무너지기 (Crumbling)
-공중도둑
-e.snmc.io/i/300/s/f6b2c7e0fec8690fd789c0eecaf09edd/7573998
-Neo-Psychedelia, Folktronica, Psychedelic Pop
-9.16
+Live at Raji's
+The Dream Syndicate
+e.snmc.io/i/300/s/78a7489ce30ac833cfb61cb82075e9d9/1326718
+Paisley Underground, Jangle Pop, Alternative Rock
+9.32
 
-Emperor Tomato Ketchup
-Stereolab
-e.snmc.io/i/300/s/43476c51515a6977c13d465e3cd0a77e/1706984
-Art Pop
-9.18
+Max & Match
+이달의 소녀 오드아이써클
+e.snmc.io/i/300/s/c86aa9153ae6511e21cf22b4fd813bd6/6726828
+K-Pop, Dance-Pop, Future Bass
+9.2
 
 Can't Buy a Thrill
 Steely Dan
@@ -742,11 +724,23 @@ e.snmc.io/i/300/s/b0a7505d096f25f93b28bdb43068b84e/8924232
 Sophisti-Pop, Pop Rock
 9.2
 
+무너지기 (Crumbling)
+공중도둑
+e.snmc.io/i/300/s/f6b2c7e0fec8690fd789c0eecaf09edd/7573998
+Neo-Psychedelia, Folktronica, Psychedelic Pop
+9.16
+
 A Reality Tour
 Bowie
 e.snmc.io/i/300/s/4878f3af8ffadc0fcabdfd3e23236ed0/2913676
 Art Rock, Pop Rock
 9.28
+
+Emperor Tomato Ketchup
+Stereolab
+e.snmc.io/i/300/s/43476c51515a6977c13d465e3cd0a77e/1706984
+Art Pop
+9.18
 
 So
 Peter Gabriel
@@ -786,9 +780,15 @@ Piano Rock, Pop Rock
 
 Magdalene
 FKA twigs
-e.snmc.io/i/300/s/0783090850790a7cd176f88bd375f61a/7815989
+e.snmc.io/i/300/s/094a2677c0e0e8f5f6a5d4dfd00fef29/9295377
 Art Pop, Glitch Pop
 9.1
+
+The Kick Inside
+Kate Bush
+e.snmc.io/i/300/s/f11df1595ec08966a5b310c92e95086c/8014001
+Art Pop
+9.16
 
 Lola Versus Powerman and the Moneygoround (Part One)
 The Kinks
@@ -801,12 +801,6 @@ Dusty Springfield
 e.snmc.io/i/300/s/0a9aa5658025cd1dd97fc11f94c0f859/2489416
 Pop Soul, Blue-Eyed Soul
 9.22
-
-The Kick Inside
-Kate Bush
-e.snmc.io/i/300/s/f11df1595ec08966a5b310c92e95086c/8014001
-Art Pop
-9.16
 
 No More Shall We Part
 Nick Cave and The Bad Seeds
@@ -838,11 +832,23 @@ e.snmc.io/i/300/s/1b6454996c10035a21113421093254df/5725428
 Psychedelic Pop, Neo-Psychedelia
 9.06
 
+Calling Out of Context
+Arthur Russell
+e.snmc.io/i/300/s/1b42945952e65ba314a6f378bc6ef325/2381955
+Art Pop
+9.24
+
 R.E.M. Live at the Olympia
 R.E.M.
 e.snmc.io/i/300/s/3a4d3f2f4ce369bd4cd1f21d6b98539c/2741633
 Jangle Pop, Alternative Rock
 9.26
+
+Pop 2
+Charli XCX
+e.snmc.io/i/300/s/b5244b170932e1f56485bbac55ac219e/7218712
+Bubblegum Bass, Electropop, Hyperpop
+9.1
 
 3rd
 Big Star
@@ -850,23 +856,11 @@ e.snmc.io/i/300/s/2168db95108d6ff2e91e9e22955fed26/1740707
 Pop Rock
 9.16
 
-Calling Out of Context
-Arthur Russell
-e.snmc.io/i/300/s/1b42945952e65ba314a6f378bc6ef325/2381955
-Art Pop
-9.24
-
 Gal Costa
 Gal Costa
 e.snmc.io/i/300/s/726086196bca579a6a4e51f5e2f10955/3089291
 Tropicália, Psychedelic Pop
 9.22
-
-Pop 2
-Charli XCX
-e.snmc.io/i/300/s/b5244b170932e1f56485bbac55ac219e/7218712
-Bubblegum Bass, Electropop, Hyperpop
-9.1
 
 Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them
 Bruno Pernadas
@@ -922,29 +916,11 @@ e.snmc.io/i/300/s/64022c136f91d7b1a0de9f2ab42b6734/1255462
 Art Rock, Alternative Rock, Pop Rock
 9.28
 
-Stand in the Fire
-Warren Zevon
-e.snmc.io/i/300/s/fbae0b5e7be84038082951b5d796c803/1626345
-Singer/Songwriter, Pop Rock
-9.28
-
 Meat Is Murder
 The Smiths
 e.snmc.io/i/300/s/c23e9aa5ea4d6a72e0e483f583cac049/7762623
 Jangle Pop, Indie Pop
 9.0
-
-Dog Man Star
-Suede
-e.snmc.io/i/300/s/d81273f47df5d71b4fc1ed7b4aba8141/1213012
-Britpop, Glam Rock, Art Rock
-9.14
-
-Parallel Lines
-Blondie
-e.snmc.io/i/300/s/22ca5311dab9009e79e15c3e4f036f49/1650366
-New Wave, Pop Rock
-9.1
 
 The Hissing of Summer Lawns
 Joni Mitchell
@@ -952,9 +928,33 @@ e.snmc.io/i/300/s/09c2f0faa26e2e4903819410fd3985bd/2359681
 Singer/Songwriter, Jazz Pop
 9.18
 
+Parallel Lines
+Blondie
+e.snmc.io/i/300/s/22ca5311dab9009e79e15c3e4f036f49/1650366
+New Wave, Pop Rock
+9.1
+
+Low-Life
+New Order
+e.snmc.io/i/300/s/48c8254b1fec59dd9b75e58c637561ac/1922689
+Synthpop, New Wave, Alternative Dance
+9.12
+
 Ella Fitzgerald Sings the Cole Porter Song Book
 Ella Fitzgerald
 e.snmc.io/i/300/s/60201c8e1b5358f300830416fd638524/7607583
 Vocal Jazz, Standards
 9.2
+
+Stand in the Fire
+Warren Zevon
+e.snmc.io/i/300/s/fbae0b5e7be84038082951b5d796c803/1626345
+Singer/Songwriter, Pop Rock
+9.26
+
+Dog Man Star
+Suede
+e.snmc.io/i/300/s/d81273f47df5d71b4fc1ed7b4aba8141/1213012
+Britpop, Glam Rock, Art Rock
+9.14
 
