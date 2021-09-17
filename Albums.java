@@ -1,5 +1,6 @@
 //FNU Kalkin, 2021
-//fix text panel sizes, make it so more accessible on windows
+//fix text panel sizes, make it so more accessible on windows\
+//make it so files update when gui used
 
 import java.io.IOException;
 import java.net.URL;
