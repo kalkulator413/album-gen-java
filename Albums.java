@@ -1,14 +1,17 @@
 //FNU Kalkin, 2021
 //fix text panel sizes, make it so more accessible on windows\
 //make it so files update when gui used
+//make it so images aren't blocked
 
 import java.io.IOException;
 import java.net.URL;
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
+
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -45,15 +48,9 @@ class Albums extends JFrame {
 
                 if (LIVE) {
                   String site = getSite();
-
                   try{
-                    int numPages;
-                    if (gNum == 1)
-                      numPages = 5;
-                    else if (gNum == 2)
-                      numPages = 3;
-                    else
-                      numPages = 4;
+                    int numPages = getNumPages(gNum);
+
                     for (int i = 1; i <= numPages; i ++) {
                       URL url;
                       if (i == 1)
@@ -62,9 +59,11 @@ class Albums extends JFrame {
                         url = new URL(site + i + "/#results");
                       getAlbums(url);
                     }
+
                   } catch (IOException ioe) {
                     System.out.println(ioe);
                   }
+
                 } else {
 
                   try {
@@ -74,7 +73,8 @@ class Albums extends JFrame {
                   }
                 }
 
-                printAlbums();
+                writeFiles();
+                randomizeAlbums();
 
                 showAlbums();
               }  
@@ -84,6 +84,15 @@ class Albums extends JFrame {
     start.setLayout(null);
     start.setVisible(true);
 
+  }
+
+  public static int getNumPages(int gNum) {
+    if (gNum == 1)
+      return 5;
+    else if (gNum == 2)
+      return 3;
+    else
+      return 4;
   }
 
   public static String[] album(String title, String artist, String rating, String pic, String genres) {
@@ -158,11 +167,7 @@ class Albums extends JFrame {
 
     String site = "https://rateyourmusic.com/charts/top/album,mixtape/all-time/";
 
-    //if (genreNum > 1) {
-      // String s = genreTypes[genreNum - 1];
-      // s = s.toLowercase();
-      site += "g:" + genre.toLowerCase().replace(" ", "-") + "/";
-    //}
+    site += "g:" + genre.toLowerCase().replace(" ", "-") + "/";
 
     return site;
   }
@@ -328,24 +333,26 @@ class Albums extends JFrame {
 
           //hardcoded fixes
           if (artist.equals("The Velvet Underground &"))
-            artist = "The Velvet Underground & Nico";
-          
+            artist = "The Velvet Underground & Nico";   
           if (s.contains("★"))
             title = "Blackstar";
-
           if (title.equals("In Rainbows"))
             picLink = "upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png";
-
           if (title.equals("The Money Store"))
             picLink = "static.wikia.nocookie.net/4chanmusic/images/2/29/Tms-1200.jpg/revision/latest/scale-to-width-down/500?cb=20160210044217";
-
           if (title.equals("Electric Ladyland"))
             picLink = "images-na.ssl-images-amazon.com/images/I/51VWpTObMvL.jpg";
-
           if (title.equals("A Promise"))
             picLink = "i.scdn.co/image/ab67616d0000b2737c2f4ecdb972f4a9b698d08a";
+          if (title.equals("Is This It"))
+            picLink = "upload.wikimedia.org/wikipedia/en/e/e7/The_Strokes_-_Ist_Tis_It_US_cover.png";
+          if (title.equals("Nevermind"))
+            picLink = "upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg";
+          if (title.equals("The Long Goodbye: LCD Soundsystem Live at Madison Square Garden"))
+            picLink = "upload.wikimedia.org/wikipedia/en/d/d6/LCD_Soundsystem_-_The_Long_Goodbye_cover_art.jpg";
           
           albums.add(album(title, artist, rating, picLink, genres));
+
         }
 
        }
@@ -353,7 +360,7 @@ class Albums extends JFrame {
 
   }
 
-  public static void printAlbums() {
+  public static void randomizeAlbums() {
     //System.out.println("How many albums would you like to generate? (MAX 120)");
 
     int numAlbums = 9;//console.nextInt();
@@ -375,6 +382,21 @@ class Albums extends JFrame {
 
       numAlbums--;
       num++;
+    }
+  }
+
+  public static void writeFiles() {
+    try {
+      FileWriter myWriter = new FileWriter("./Genres/" + genreTypes[genreNum - 1].replace(" ", "-").toLowerCase() + ".txt");
+      for (String[] s : albums) {
+        for (String str : s) {
+          myWriter.write(str + "\n");
+        }
+        myWriter.write("\n");
+      }
+      myWriter.close();
+    } catch(IOException e) {
+      System.out.println(e);
     }
   }
 
@@ -411,7 +433,7 @@ class Albums extends JFrame {
             for (int i = 0; i < randoms.size(); i=i) {
               randoms.remove(i);
             } 
-            printAlbums();
+            randomizeAlbums();
             Graphics g = test.getGraphics();
             test.paint(g);
 

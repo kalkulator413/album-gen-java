@@ -11,6 +11,8 @@ import java.io.FileWriter;
 
 public class Printer{
 
+  public static final String CURRENT_YEAR = "2021";
+
 	public static List<String[]> albums = new ArrayList<String[]>();
 
 	public static String[] genreTypes = {"Any", "New", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
@@ -194,19 +196,24 @@ public class Printer{
 
           //hardcoded fixes
           if (artist.equals("The Velvet Underground &"))
-            artist = "The Velvet Underground & Nico";
-          
+            artist = "The Velvet Underground & Nico";   
           if (s.contains("★"))
             title = "Blackstar";
-
           if (title.equals("In Rainbows"))
             picLink = "upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png";
-
           if (title.equals("The Money Store"))
             picLink = "static.wikia.nocookie.net/4chanmusic/images/2/29/Tms-1200.jpg/revision/latest/scale-to-width-down/500?cb=20160210044217";
-
+          if (title.equals("Electric Ladyland"))
+            picLink = "images-na.ssl-images-amazon.com/images/I/51VWpTObMvL.jpg";
           if (title.equals("A Promise"))
             picLink = "i.scdn.co/image/ab67616d0000b2737c2f4ecdb972f4a9b698d08a";
+          if (title.equals("Is This It"))
+            picLink = "upload.wikimedia.org/wikipedia/en/e/e7/The_Strokes_-_Ist_Tis_It_US_cover.png";
+          if (title.equals("Nevermind"))
+            picLink = "upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg";
+          if (title.equals("The Long Goodbye: LCD Soundsystem Live at Madison Square Garden"))
+            picLink = "upload.wikimedia.org/wikipedia/en/d/d6/LCD_Soundsystem_-_The_Long_Goodbye_cover_art.jpg";
+          
           
           albums.add(new String[]{title, artist, picLink, genres, rating});
 
@@ -220,13 +227,9 @@ public class Printer{
       String genre = genreTypes[genreNum - 1];
 
       if (genre == "New")
-        return "https://rateyourmusic.com/charts/top/album,mixtape/2021/";
+        return "https://rateyourmusic.com/charts/top/album,mixtape/" + CURRENT_YEAR + "/";
 
     	String site = "https://rateyourmusic.com/charts/top/album,mixtape/all-time/";
-
-    
-      // String s = genreTypes[genreNum - 1];
-      // s = s.toLowercase();
 
       site += "g:" + genre.toLowerCase().replace(" ", "-") + "/";
       return site;
