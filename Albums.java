@@ -389,11 +389,11 @@ class Albums extends JFrame {
     try {
       FileWriter myWriter = new FileWriter("./Genres/" + genreTypes[genreNum - 1].replace(" ", "-").toLowerCase() + ".txt");
       for (String[] s : albums) {
-        myWriter.write(getTitle(s));
-        myWriter.write(getArtist(s));
-        myWriter.write(getPic(s));
-        myWriter.write(getGenres(s));
-        myWriter.write(getRating(s));
+        myWriter.write(getTitle(s) + "\n");
+        myWriter.write(getArtist(s)+ "\n");
+        myWriter.write(getPic(s)+ "\n");
+        myWriter.write(getGenres(s)+ "\n");
+        myWriter.write(getRating(s)+ "\n");
         myWriter.write("\n");
       }
       myWriter.close();
