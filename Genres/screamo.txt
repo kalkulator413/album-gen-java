@@ -14,7 +14,13 @@ Chaos Is Me
 Orchid
 e.snmc.io/i/300/s/098f8bd7a19755a506ebeab46a86df05/5402085
 Emoviolence
-9.04
+9.02
+
+10 Years / 1000 Shows: Live at the Regent Theater
+Touché Amoré
+e.snmc.io/i/300/s/19688148315241e6f33bc1f95ab02173/7320562
+Screamo, Post-Hardcore
+9.3
 
 Los peores 7 km de mi vida
 Corea
@@ -28,23 +34,17 @@ e.snmc.io/i/300/s/2382c36fa0b59e8734121a3ea6878e89/7202272
 Screamo
 9.0
 
-10 Years / 1000 Shows: Live at the Regent Theater
-Touché Amoré
-e.snmc.io/i/300/s/19688148315241e6f33bc1f95ab02173/7320562
-Post-Hardcore, Screamo
-9.26
-
 City of Caterpillar
 City of Caterpillar
 e.snmc.io/i/300/s/79c53238d953f253b81ac3a3089cba3c/2698661
 Screamo, Post-Hardcore
-8.92
+8.9
 
 Document #8
 pageninetynine
 e.snmc.io/i/300/s/b4e86e488b956919f20579ba33aa8105/3872172
 Screamo, Emoviolence
-8.92
+8.9
 
 All the Footprints You've Ever Left and the Fear Expecting Ahead
 Envy
@@ -62,7 +62,7 @@ The Underdark
 Funeral Diner
 e.snmc.io/i/300/s/969d1cde151c8c8bf489bee2345459f9/1417519
 Screamo
-8.9
+8.88
 
 Saetia
 Saetia
@@ -79,7 +79,7 @@ Screamo
 Seeing Means More Than Safety
 Jeromes Dream
 e.snmc.io/i/300/s/5db022c54b4ba5c2faf47f4df610b07e/1487349
-Emoviolence, Screamo
+Emoviolence
 8.78
 
 Solitude
@@ -88,23 +88,17 @@ e.snmc.io/i/300/s/cc2b59e2a62b2264fb6c1edd56d7c70e/4932264
 Emoviolence, Screamo
 8.8
 
-Prima che tutto bruci
-Øjne
-e.snmc.io/i/300/s/76a89875adc6c06491eef888e4e7ac42/6759589
-Screamo
-8.82
-
 Orchid
 Orchid
 e.snmc.io/i/300/s/e84d5cabe673e2bf3f4f7f4f7615576b/7652061
 Screamo
 8.78
 
-Difference of Potential
-Funeral Diner
-e.snmc.io/i/300/s/75d61daa73da44a8026cc3c277b4f6fa/1448868
+Prima che tutto bruci
+Øjne
+e.snmc.io/i/300/s/76a89875adc6c06491eef888e4e7ac42/6759589
 Screamo
-8.84
+8.8
 
 A Dead Sinking Story
 Envy
@@ -112,17 +106,23 @@ e.snmc.io/i/300/s/e33dd932adf0eeb0c4ed259c0bb72202/1243910
 Screamo, Post-Hardcore
 8.76
 
+Document #7
+pageninetynine
+e.snmc.io/2.5/img/images/blockedf.png
+Screamo
+8.78
+
+Difference of Potential
+Funeral Diner
+e.snmc.io/i/300/s/75d61daa73da44a8026cc3c277b4f6fa/1448868
+Screamo
+8.82
+
 La fine non è la fine
 La Quiete
 e.snmc.io/i/300/s/9b0c5da0ea57a9644bc8d90dd601399b/5182247
 Screamo, Emoviolence
-8.76
-
-Document #7
-pageninetynine
-e.snmc.io/i/25/s/755651dfa29f18d41dc0f13167dfb853/2219423
-Screamo
-8.78
+8.74
 
 Love Lost but Not Forgotten
 Love Lost but Not Forgotten
@@ -130,11 +130,11 @@ e.snmc.io/i/300/s/569998934f4d21e6e24687cc9aeef09c/3553876
 Emoviolence, Screamo
 8.76
 
-Laisser vivre les squelettes
-Daïtro
-e.snmc.io/i/300/s/c84b6bbdab175c98cfa2951ad958bc6b/1569403
-Screamo
-8.76
+Mouse Ear [Forget-Me-Not]
+Shotmaker
+e.snmc.io/i/300/s/c2fdea988b3fccf1d02beba900372aad/4968130
+Post-Hardcore, Screamo
+8.84
 
 Daïtro / Sed Non Satiata
 Daïtro, Sed Non Satiata
@@ -142,17 +142,17 @@ e.snmc.io/i/300/s/1a402cadb1ac46619bdff73dd6d1856b/2242967
 Screamo
 8.8
 
-Mouse Ear [Forget-Me-Not]
-Shotmaker
-e.snmc.io/i/300/s/c2fdea988b3fccf1d02beba900372aad/4968130
-Post-Hardcore, Screamo
-8.82
+Laisser vivre les squelettes
+Daïtro
+e.snmc.io/i/300/s/c84b6bbdab175c98cfa2951ad958bc6b/1569403
+Screamo
+8.74
 
-Blow Up
-Blow Up
-e.snmc.io/i/300/s/29abf4ab3703db542c9887208fa504d3/7461120
-Screamo, Synth Punk, Sasscore
-8.84
+Manos que estrechan planes de muerte y sometimiento
+Ekkaia
+e.snmc.io/i/300/s/2ad0b32e86630d5ba26e12830294e4ab/4972164
+Crust Punk, Screamo
+8.8
 
 Interviews With David Frost
 Majority Rule
@@ -160,10 +160,10 @@ e.snmc.io/i/300/s/ca6eab50545a6654b728f022b609e332/5491361
 Screamo, Hardcore Punk
 8.76
 
-Manos que estrechan planes de muerte y sometimiento
-Ekkaia
-e.snmc.io/i/300/s/2ad0b32e86630d5ba26e12830294e4ab/4972164
-Crust Punk, Screamo
+Blow Up
+Blow Up
+e.snmc.io/i/300/s/29abf4ab3703db542c9887208fa504d3/7461120
+Screamo, Synth Punk, Sasscore
 8.8
 
 Death of Spring
@@ -172,16 +172,22 @@ e.snmc.io/i/300/s/461c3071f586b6551cd0eacca4489b05/7534976
 Screamo
 8.74
 
+Jokes
+Kidcrash
+e.snmc.io/i/300/s/8d526111f7d6bca12cf6ba25381e43d5/2029389
+Screamo, Post-Hardcore
+8.7
+
 As the Roots Undo
 Circle Takes the Square
 e.snmc.io/i/300/s/b9d66609a6a3cd29e61763738ecc2273/2381574
 Screamo, Post-Hardcore
 8.58
 
-Jokes
-Kidcrash
-e.snmc.io/i/300/s/8d526111f7d6bca12cf6ba25381e43d5/2029389
-Screamo, Post-Hardcore
+Residue
+Blind Girls
+e.snmc.io/i/300/s/7dd207a17146dbc739fcb8e39e4f8f2f/7234925
+Emoviolence
 8.7
 
 Omorina nad Evropom
@@ -190,34 +196,22 @@ e.snmc.io/i/300/s/11542b16457a0b1ea53beaac10494ba5/2059459
 Screamo
 8.7
 
-Iwrotehaikusaboutcannibalisminyouryearbook LP
-Iwrotehaikusaboutcannibalisminyouryearbook
-e.snmc.io/i/300/s/c6658101002a7b641f7f1ee6c477f54d/7343124
-Screamo
-8.62
-
 Moments
 Sans Visage
 e.snmc.io/i/300/s/0b8677a53e21cd44ac60407deda9ab2d/6760613
 Screamo
-8.8
+8.82
 
-Romance in Reverb
-The Count
-e.snmc.io/i/300/s/baf8df26e573652c979b49812d128d4a/7754210
-Emoviolence, Thrashcore
-8.9
+Iwrotehaikusaboutcannibalisminyouryearbook LP
+Iwrotehaikusaboutcannibalisminyouryearbook
+e.snmc.io/i/300/s/c6658101002a7b641f7f1ee6c477f54d/7343124
+Screamo
+8.6
 
 Nati da altri padri
 Raein
 e.snmc.io/i/300/s/69590a5714259c57d0e90608266d88dc/2374168
 Screamo
-8.66
-
-Residue
-Blind Girls
-e.snmc.io/i/300/s/7dd207a17146dbc739fcb8e39e4f8f2f/7234925
-Emoviolence
 8.66
 
 One Eyed God Prophecy
@@ -232,11 +226,11 @@ e.snmc.io/i/300/s/499a4129dacc40ab778f2ef9f36744bf/3915776
 Screamo, Emoviolence
 8.6
 
-The Morning Sun and the End of the World
-Unable to Fully Embrace This Happiness
-e.snmc.io/i/300/s/d331f2b4609900ee5678d062303cf3ed/6617513
-Emoviolence
-8.64
+Resonate / Desperate
+State Faults
+e.snmc.io/i/300/s/8d274d3892de31d33e3ad43f164a732b/4914254
+Screamo, Post-Hardcore
+8.68
 
 Insomniac Doze
 Envy
@@ -244,17 +238,29 @@ e.snmc.io/i/300/s/2118170986aaaa18ccd2e2aae16393a0/2436093
 Screamo, Post-Rock, Post-Hardcore
 8.6
 
-Det onda. Det goda. Det vackra. Det fula.
-Vi som älskade varandra så mycket
-e.snmc.io/i/300/s/878a4e007cd2fc0869490fb793e6bdac/7781498
+Romance in Reverb
+The Count
+e.snmc.io/i/300/s/baf8df26e573652c979b49812d128d4a/7754210
+Emoviolence, Thrashcore
+8.84
+
+The Morning Sun and the End of the World
+Unable to Fully Embrace This Happiness
+e.snmc.io/i/300/s/d331f2b4609900ee5678d062303cf3ed/6617513
+Emoviolence
+8.62
+
+Innominate
+Off Minor
+e.snmc.io/i/300/s/4216521c7c6fa71d2d0d30f466cd953c/7652086
 Screamo
 8.66
 
-Resonate / Desperate
-State Faults
-e.snmc.io/i/300/s/8d274d3892de31d33e3ad43f164a732b/4914254
-Screamo, Post-Hardcore
-8.68
+The Little Explorer
+The Little Explorer
+e.snmc.io/i/300/s/a6488f407772e87e4e68015c952178f4/3693220
+Screamo, Midwest Emo
+8.74
 
 I Know a Girl Who Develops Crime Scene Photos
 Combatwoundedveteran
@@ -262,17 +268,11 @@ e.snmc.io/i/300/s/be58f4677995d856aefd3164f6f1c025/2801934
 Grindcore, Emoviolence, Noisecore
 8.6
 
-Innominate
-Off Minor
-e.snmc.io/i/300/s/4216521c7c6fa71d2d0d30f466cd953c/7652086
+Det onda. Det goda. Det vackra. Det fula.
+Vi som älskade varandra så mycket
+e.snmc.io/i/300/s/878a4e007cd2fc0869490fb793e6bdac/7781498
 Screamo
 8.64
-
-Emergency Numbers
-Majority Rule
-e.snmc.io/i/300/s/2656c14cd244e8e0cf3caad291f60be2/3455842
-Screamo, Hardcore Punk
-8.7
 
 All Our Tomorrows End Today
 Ampere
@@ -284,25 +284,13 @@ Is Survived By
 Touché Amoré
 e.snmc.io/i/300/s/57d8ce03292323681a2cf7535ef340dc/4859912
 Post-Hardcore, Screamo
-8.56
+8.58
 
-Down Forever
-Fuckmorgue
-e.snmc.io/i/300/s/793f7f3ee29544b983cddf6afefaf8ac/2690876
-Post-Hardcore, Deathrock, Screamo
-8.68
-
-Upon the Right. I Saw a New Misery
-Love Lost but Not Forgotten
-e.snmc.io/i/300/s/585e0d6cc1f24130a95ed0e805a19de2/1352569
+Marschak
+Маршак
+e.snmc.io/i/300/s/d3504281e402aa418beb64ac0e4b624e/1929154
 Screamo
-8.64
-
-The Little Explorer
-The Little Explorer
-e.snmc.io/i/300/s/a6488f407772e87e4e68015c952178f4/3693220
-Screamo, Midwest Emo
-8.74
+8.7
 
 Principia
 Joliette
@@ -310,17 +298,23 @@ e.snmc.io/i/300/s/c8015e03a86be22d6fbfc4231049c722/6974287
 Post-Hardcore, Screamo
 8.84
 
+Down Forever
+Fuckmorgue
+e.snmc.io/i/300/s/793f7f3ee29544b983cddf6afefaf8ac/2690876
+Post-Hardcore, Deathrock, Screamo
+8.66
+
+Upon the Right. I Saw a New Misery
+Love Lost but Not Forgotten
+e.snmc.io/i/300/s/585e0d6cc1f24130a95ed0e805a19de2/1352569
+Screamo
+8.64
+
 2020
 Shin Guard
 e.snmc.io/i/300/s/314524a25957cd50cd4d45ffe97eda85/7382234
 Screamo
 8.6
-
-Marschak
-Маршак
-e.snmc.io/i/300/s/d3504281e402aa418beb64ac0e4b624e/1929154
-Screamo
-8.68
 
 We Already Lost the World
 Birds in Row
@@ -328,29 +322,35 @@ e.snmc.io/i/300/s/23f9a9c1f727ec6c5e19c31d0beb5c14/6992964
 Post-Hardcore, Hardcore Punk, Screamo
 8.6
 
-L'autre hémisphère
-Errata
-e.snmc.io/i/300/s/332160c5c6d3776c44a47d29023c0c0d/4877921
-Screamo, Post-Rock
-8.82
-
 The Killer Was in the Government Blankets
 Yaphet Kotto
 e.snmc.io/i/300/s/dd3dc23a4d9fee8acd950d5d5984fd1a/7206846
 Screamo, Post-Hardcore
-8.6
+8.62
+
+Emergency Numbers
+Majority Rule
+e.snmc.io/i/300/s/2656c14cd244e8e0cf3caad291f60be2/3455842
+Screamo, Hardcore Punk
+8.68
 
 Syncopated Synthetic Laments for Love
 Yaphet Kotto
 e.snmc.io/i/300/s/7f629e4916a192a9291933c06131e910/7206890
 Screamo
-8.64
+8.66
 
-Mechanical Friends
-Sugar Wounds
-e.snmc.io/i/300/s/2bf6624313d0d01305c47d01f0569132/7876502
-Blackgaze, Screamo
-8.62
+L'autre hémisphère
+Errata
+e.snmc.io/i/300/s/332160c5c6d3776c44a47d29023c0c0d/4877921
+Screamo, Post-Rock
+8.8
+
+меж каменных плит
+Materic
+e.snmc.io/i/300/s/cdf8740f4e9a5919b70a77a2698e03a5/5519545
+Screamo
+8.7
 
 Frail Hands
 Frail Hands
@@ -358,11 +358,23 @@ e.snmc.io/i/300/s/e3f3eaa86ad6cfe0474a8b9e928351e1/6672911
 Emoviolence, Screamo
 8.58
 
+The Devil Shining Out Your Eyes
+Eyelet
+e.snmc.io/i/300/s/1b69a228a52da7f13c99a70459316e2d/8679490
+Screamo
+8.7
+
 Calling in Dead
 JR Ewing
 e.snmc.io/i/300/s/81ac4ad0c63c616bfae7b7dc113573e8/1925301
 Screamo
 8.78
+
+LP
+Terry Green
+e.snmc.io/i/300/s/68e4c8e8c55301fa89d4abc9c36d0ce4/6644651
+Screamo
+8.82
 
 Sed Non Satiata
 Sed Non Satiata
@@ -370,23 +382,11 @@ e.snmc.io/i/300/s/64ceea5b8d543a23beb3ce640b811a31/3310513
 Screamo, Post-Rock
 8.6
 
-меж каменных плит
-Materic
-e.snmc.io/i/300/s/cdf8740f4e9a5919b70a77a2698e03a5/5519545
+Territorios
+Tenue
+e.snmc.io/i/300/s/1ca86cf38152b552b023ba2253bc3ef7/9178854
 Screamo
-8.66
-
-Last
-Ostraca
-e.snmc.io/i/300/s/3cc6e1628436bd7d8a3100d58feaf0aa/6540128
-Emoviolence, Screamo
-8.52
-
-Flores, carne
-Viva Belgrado
-e.snmc.io/i/300/s/0747cf43322e6e66f652e36c4d07fa1d/5475142
-Screamo
-8.52
+8.58
 
 Untitled
 Soul Glo
@@ -394,29 +394,11 @@ e.snmc.io/i/300/s/29fe7d60f8fde20456333f28c0dde99a/6374243
 Screamo, Hardcore Punk, Post-Hardcore
 8.62
 
-The Devil Shining Out Your Eyes
-Eyelet
-e.snmc.io/i/300/s/1b69a228a52da7f13c99a70459316e2d/8679490
-Screamo
-8.66
-
-Territorios
-Tenue
-e.snmc.io/i/300/s/1ca86cf38152b552b023ba2253bc3ef7/9178854
-Screamo
-8.54
-
-LP
-Terry Green
-e.snmc.io/i/300/s/68e4c8e8c55301fa89d4abc9c36d0ce4/6644651
-Screamo
-8.8
-
-Industry
-Honeywell
-e.snmc.io/i/300/s/2c15b97818ddc2ae1cd25230fc01df83/2069245
-Screamo
-8.56
+Last
+Ostraca
+e.snmc.io/i/300/s/3cc6e1628436bd7d8a3100d58feaf0aa/6540128
+Emoviolence, Screamo
+8.52
 
 The Spirit of Versailles
 The Spirit of Versailles
@@ -424,11 +406,23 @@ e.snmc.io/i/300/s/b90b29400bb10886296bcc93b4c6176b/6680679
 Screamo, Emoviolence
 8.62
 
-Loss
-Me and Him Call It Us
-e.snmc.io/i/300/s/dd6d0ba4851fdf55f131ba907286bc07/3474288
-Mathcore, Sasscore, Emoviolence
-8.5
+Flores, carne
+Viva Belgrado
+e.snmc.io/i/300/s/0747cf43322e6e66f652e36c4d07fa1d/5475142
+Screamo
+8.52
+
+Industry
+Honeywell
+e.snmc.io/i/300/s/2c15b97818ddc2ae1cd25230fc01df83/2069245
+Screamo
+8.56
+
+If This Is the Future Then I'm in the Dark
+No Note
+e.snmc.io/i/300/s/81ebb8c34a8c67315ef4a2b0673168ad/8053269
+Screamo
+8.6
 
 Parting the Sea Between Brightness and Me
 Touché Amoré
@@ -442,17 +436,11 @@ e.snmc.io/i/300/s/6cd0219cd7c2724f20f9f7e25bffeeea/5927680
 Screamo, Post-Hardcore
 8.52
 
-If This Is the Future Then I'm in the Dark
-No Note
-e.snmc.io/i/300/s/81ebb8c34a8c67315ef4a2b0673168ad/8053269
-Screamo
-8.58
-
-L'un sans l'autre
-Mihai Edrisch
-e.snmc.io/i/300/s/583f3f31d219744a6055c79a0c8d5b02/2101532
-Screamo
-8.54
+Mechanical Friends
+Sugar Wounds
+e.snmc.io/i/300/s/69ef12a5629efb56aa6dd72c7b2e59ef/9335616
+Blackgaze, Screamo
+8.56
 
 " "
 Soul Glo
@@ -466,29 +454,23 @@ e.snmc.io/i/300/s/363f24cb94cece0bf2c8c07a606b3622/1441425
 Screamo
 8.5
 
+Loss
+Me and Him Call It Us
+e.snmc.io/i/300/s/dd6d0ba4851fdf55f131ba907286bc07/3474288
+Mathcore, Sasscore, Emoviolence
+8.46
+
+L'un sans l'autre
+Mihai Edrisch
+e.snmc.io/i/300/s/583f3f31d219744a6055c79a0c8d5b02/2101532
+Screamo
+8.52
+
 Last City
 Loma Prieta
 e.snmc.io/i/300/s/a951ef1e9e0671c8ca95454c5a9cfda7/2252971
 Screamo
 8.5
-
-Heavenward
-Youth Funeral
-e.snmc.io/i/300/s/b2b4b8f0231321fa371c72517aabc32b/6276225
-Emoviolence, Screamo
-8.52
-
-When I Die, Will I Get Better?
-Svalbard
-e.snmc.io/i/300/s/232d3d5a7c04af1e3b304cae989982c9/8397825
-Blackgaze, Post-Hardcore, Screamo
-8.48
-
-III
-Foxtails
-e.snmc.io/i/300/s/0fe397de7238646d71f0017f1b7d5360/7037256
-Screamo, Midwest Emo
-8.46
 
 An Age Among Them
 Rinoa
@@ -496,10 +478,28 @@ e.snmc.io/i/300/s/6cc16f0c39cb724e051dce0f0901d5c3/3581569
 Screamo, Post-Hardcore, Post-Metal
 8.5
 
-…To the Beat of a Dead Horse
-Touché Amoré
-e.snmc.io/i/300/s/b634449080410ff46e992b0e876d92aa/2714614
-Screamo
+When I Die, Will I Get Better?
+Svalbard
+e.snmc.io/i/300/s/232d3d5a7c04af1e3b304cae989982c9/8397825
+Blackgaze, Post-Hardcore, Screamo
+8.48
+
+Lvmen
+Lvmen
+e.snmc.io/i/300/s/67c4c73861ae7676fd144a6dcea6572e/2005885
+Post-Metal, Atmospheric Sludge Metal, Screamo
+8.56
+
+Heavenward
+Youth Funeral
+e.snmc.io/i/300/s/b2b4b8f0231321fa371c72517aabc32b/6276225
+Emoviolence, Screamo
+8.52
+
+III
+Foxtails
+e.snmc.io/i/300/s/0fe397de7238646d71f0017f1b7d5360/7037256
+Screamo, Midwest Emo
 8.46
 
 Document #12
@@ -508,41 +508,29 @@ e.snmc.io/i/300/s/c9fcd36132ae51c91a445a84156644ca/4874261
 Screamo, Emoviolence
 8.54
 
+Dead Horse X
+Touché Amoré
+e.snmc.io/i/300/s/9666f0bea62f0238dcf2cea5e350f475/7622595
+Screamo
+8.5
+
+Lament
+Touché Amoré
+e.snmc.io/i/300/s/57234e124c1f64185cc2f54c2a6e76b5/9291510
+Post-Hardcore, Screamo
+8.46
+
 Y
 Daïtro
 e.snmc.io/i/300/s/7928424347b01c1924be7d973535db5b/2819258
 Screamo, Post-Hardcore
 8.5
 
-Lvmen
-Lvmen
-e.snmc.io/i/300/s/67c4c73861ae7676fd144a6dcea6572e/2005885
-Post-Metal, Atmospheric Sludge Metal, Screamo
-8.56
-
-Dead Horse X
+…To the Beat of a Dead Horse
 Touché Amoré
-e.snmc.io/i/300/s/9666f0bea62f0238dcf2cea5e350f475/7622595
+e.snmc.io/i/300/s/b634449080410ff46e992b0e876d92aa/2714614
 Screamo
-8.48
-
-Lament
-Touché Amoré
-e.snmc.io/i/300/s/c9cad5db47267fe8b8b4d7fdeb0b5dc6/8354605
-Post-Hardcore, Screamo
 8.44
-
-Blues moderne: Danois explosifs
-Lack
-e.snmc.io/i/300/s/88ebf7e669d540abf3dc74c3f3760a47/1527706
-Screamo, Hardcore Punk
-8.72
-
-For Nobody, Nowhere
-Raccoon City
-e.snmc.io/i/300/s/5afe7ecfedf51be208e7c7096cad858a/9100808
-Post-Hardcore, Screamo
-8.96
 
 Like Shadows
 Ampere
@@ -550,11 +538,23 @@ e.snmc.io/i/300/s/b63a6a0fe071643c413e765f767bfd42/3725602
 Screamo, Emoviolence
 8.46
 
+Snag
+Snag
+e.snmc.io/i/300/s/0a85e9accfcc19b8beea880b6b68ac0a/7746204
+Screamo
+8.78
+
+Blues moderne: Danois explosifs
+Lack
+e.snmc.io/i/300/s/88ebf7e669d540abf3dc74c3f3760a47/1527706
+Screamo, Hardcore Punk
+8.72
+
 Decompositions: Volume Number One
 Circle Takes the Square
 e.snmc.io/i/300/s/410a74e53b93ed117a9bac1fe167f6b3/4510124
 Screamo, Post-Hardcore
-8.42
+8.4
 
 The Lack Long After
 Pianos Become the Teeth
@@ -562,16 +562,40 @@ e.snmc.io/i/300/s/3a60733110b6c52cef1fe32f4b064e90/3898933
 Screamo
 8.44
 
-Nihiliste(s)
-Celeste
-e.snmc.io/i/25/s/9c054506030bff63bcbf22e18157ce98/2091521
-Sludge Metal, Screamo
+Sulla linea d'orizzonte tra questa mia vita e quella di tutti
+Raein
+e.snmc.io/i/300/s/9c408e7ab07598134696cf4dceffc8fb/3752285
+Screamo
 8.46
 
 Колхида (Kolhida)
 Bagdadski Vor
 e.snmc.io/i/300/s/2104ec1f239937664f8fd807b20a1cc1/8331486
 Math Rock, Screamo
+8.46
+
+Luz devora
+Joliette
+e.snmc.io/i/300/s/987341c9dda163db9940af7a5b78c313/7605729
+Screamo, Post-Hardcore
+8.52
+
+For Nobody, Nowhere
+Raccoon City
+e.snmc.io/i/300/s/5afe7ecfedf51be208e7c7096cad858a/9100808
+Screamo, Post-Hardcore
+8.68
+
+Atáxico
+Joliette
+e.snmc.io/i/300/s/23677894b9b8a597ffb1a7c3eae34f84/6302863
+Mathcore, Screamo
+8.62
+
+Ride Paranoia
+JR Ewing
+e.snmc.io/i/300/s/82399507c8650841594835c9bef2285a/1280955
+Screamo, Post-Hardcore
 8.44
 
 Yaphet Kotto / This Machine Kills / Envy
@@ -580,23 +604,23 @@ e.snmc.io/i/300/s/c2543809c977aa205ace79b4e7d0dc6a/1271196
 Screamo, Post-Hardcore
 8.6
 
-Snag
-Snag
-e.snmc.io/i/300/s/0a85e9accfcc19b8beea880b6b68ac0a/7746204
-Screamo
-8.76
+Nihiliste(s)
+Celeste
+e.snmc.io/2.5/img/images/blockedf.png
+Sludge Metal, Screamo
+8.44
 
-As Years Pass and Feel Like Seconds
-In Loving Memory
-e.snmc.io/i/300/s/56bcbf41157dfc7a39c6944cc88721c4/4415951
-Screamo
-8.52
-
-Sulla linea d'orizzonte tra questa mia vita e quella di tutti
-Raein
-e.snmc.io/i/300/s/9c408e7ab07598134696cf4dceffc8fb/3752285
+Modern Grotesque
+Dreamwell
+e.snmc.io/i/300/s/2c24e27ac1cf17f306756f0dead4f4a0/8801103
 Screamo
 8.44
+
+Un jour sans lendemain
+Mihai Edrisch
+e.snmc.io/i/300/s/c5bd295608f95f3f4fe33ba05e7a9e8b/2102390
+Screamo
+8.48
 
 Clairvoyant
 State Faults
@@ -604,11 +628,11 @@ e.snmc.io/i/300/s/ade8fbd1dfe1e8dc8652998e7dac8c33/7606857
 Screamo
 8.44
 
-Luz devora
-Joliette
-e.snmc.io/i/300/s/987341c9dda163db9940af7a5b78c313/7605729
-Screamo, Post-Hardcore
-8.5
+A Brief Memoriam
+Frail Body
+e.snmc.io/i/300/s/b8f1b290a3b3f8c241465e82c347f2db/7732300
+Screamo
+8.48
 
 Blazing Fires and Helicopters on the Front Page of the Newspaper. There's a War Going On and I'm Marching in Heavy Boots.
 Suffocate for Fuck Sake
@@ -616,46 +640,22 @@ e.snmc.io/i/300/s/e42873959fcdc5148d4b1d611c805eb8/2248411
 Post-Rock, Screamo
 8.38
 
-A Brief Memoriam
-Frail Body
-e.snmc.io/i/300/s/b8f1b290a3b3f8c241465e82c347f2db/7732300
-Screamo
-8.48
-
-Un jour sans lendemain
-Mihai Edrisch
-e.snmc.io/i/300/s/c5bd295608f95f3f4fe33ba05e7a9e8b/2102390
-Screamo
-8.46
-
-Ride Paranoia
-JR Ewing
-e.snmc.io/i/300/s/82399507c8650841594835c9bef2285a/1280955
-Screamo, Post-Hardcore
-8.42
-
-2017-2018
-Empatía
-e.snmc.io/i/300/s/09e13f8a915d5db39d4a65d308941bab/7767869
-Screamo, Emoviolence
-8.72
-
 Black Line
 Respire
 e.snmc.io/i/300/s/83b2604c0b05eafbec56964acc37cdff/8429948
 Screamo, Blackgaze
 8.42
 
+Quien encuentra a la madre conoce a los hijos
+Corea
+e.snmc.io/i/300/s/944e47d548e167e4c3cc05cde132c3af/6600655
+Screamo, Post-Rock
+8.46
+
 Youth Novel
 Youth Novel
 e.snmc.io/i/300/s/2035870b5fcf36c32add4957b7b7d1b4/8787647
 Emoviolence
-8.44
-
-Modern Grotesque
-Dreamwell
-e.snmc.io/i/300/s/2c24e27ac1cf17f306756f0dead4f4a0/8801103
-Screamo
 8.42
 
 Against Again
@@ -663,12 +663,6 @@ Swarrrm
 e.snmc.io/i/300/s/d81922427254018bf0b0820c8aa2726a/2104857
 Grindcore, Screamo
 8.48
-
-Malady
-Malady
-e.snmc.io/i/300/s/60d2db756bf310f3294539d7183f4f84/1857060
-Post-Hardcore, Screamo
-8.46
 
 Oktjabr' / Novembre
 Endless Inertia
@@ -682,12 +676,6 @@ e.snmc.io/i/300/s/1988c52b17bee04ef72fcd8680e27e9c/8572029
 Screamo
 8.48
 
-This Is Medicine
-Reversal of Man
-e.snmc.io/i/300/s/df767a4117c919b623c13dc884ce1e10/4254171
-Emoviolence, Screamo
-8.44
-
 A Light in the Attic / Takaru
 A Light in the Attic, Takaru
 e.snmc.io/i/300/s/beb7aa85bc52f0b8d01cee1e26b3e08b/1756678
@@ -700,23 +688,11 @@ e.snmc.io/i/300/s/55330ba42bea5ada836a0c29f042b260/3566323
 Screamo
 8.48
 
-The Old Road
-Mesa Verde
-e.snmc.io/i/300/s/bb8625d52ced5efd1a982cafe394eac9/2428260
-Screamo
-8.42
-
 Cryonics
 Hot Cross
 e.snmc.io/i/300/s/90bc7276b278ea6f076a0638aca2731c/3441874
 Screamo, Post-Hardcore
 8.4
-
-Quien encuentra a la madre conoce a los hijos
-Corea
-e.snmc.io/i/300/s/944e47d548e167e4c3cc05cde132c3af/6600655
-Screamo, Post-Rock
-8.44
 
 The Next Four Years
 United Nations
@@ -724,11 +700,11 @@ e.snmc.io/i/300/s/4ef23220f49f26bbc9559da86d55d79b/5244932
 Hardcore Punk, Screamo
 8.42
 
-Plague Waters
-Snöras
-e.snmc.io/i/300/s/7be2de6c7958cc674aa09954831c0794/2407480
+Malady
+Malady
+e.snmc.io/i/300/s/60d2db756bf310f3294539d7183f4f84/1857060
 Post-Hardcore, Screamo
-8.72
+8.44
 
 The Fallen Crimson
 Envy
@@ -736,53 +712,59 @@ e.snmc.io/i/300/s/ef8276000484692a39622f149906087e/7804276
 Screamo, Post-Rock
 8.38
 
+Plague Waters
+Snöras
+e.snmc.io/i/300/s/7be2de6c7958cc674aa09954831c0794/2407480
+Post-Hardcore, Screamo
+8.72
+
+The Old Road
+Mesa Verde
+e.snmc.io/i/300/s/bb8625d52ced5efd1a982cafe394eac9/2428260
+Screamo
+8.42
+
+As Years Pass and Feel Like Seconds
+In Loving Memory
+e.snmc.io/i/300/s/56bcbf41157dfc7a39c6944cc88721c4/4415951
+Screamo
+8.48
+
+This Is Medicine
+Reversal of Man
+e.snmc.io/i/300/s/df767a4117c919b623c13dc884ce1e10/4254171
+Emoviolence, Screamo
+8.44
+
+Anomie
+Anomie
+e.snmc.io/i/300/s/f2148c3f55e2e79afb26c218b4c0ffdc/7094686
+Screamo
+8.56
+
+Quiet, Pull the Strings!
+Suis la Lune
+e.snmc.io/i/300/s/41400c04eadb9b15ae63dd98fe52410b/1880148
+Screamo
+8.4
+
 Even a Worm Will Turn
 Senza
 e.snmc.io/i/300/s/2add8d8176b182bc8ab291da4127d288/7457364
 Emoviolence
 8.4
 
-La décadence de la décadence
-Amanda Woodward
-e.snmc.io/i/300/s/e0467c6ff35ab412f5f0c505ed89fa98/6710837
-Screamo
-8.36
-
-The Ionic Spell
-Standstill
-e.snmc.io/i/300/s/f0d1d07a1e3f5a63884690287c5dec14/4752311
-Screamo, Post-Hardcore
-8.46
-
 Education
 Ruined Families
 e.snmc.io/i/300/s/162a052f1d989f82ee966f96c7113247/6283950
-Hardcore Punk, Screamo
+Screamo
 8.74
 
 As We Suffer From Memory and Imagination
 Nuvolascura
-e.snmc.io/i/300/s/b7dc41191df230d9e0653f964ab22248/8199468
+e.snmc.io/i/300/s/74e60bef124cd9e7a960dde99d6afd31/9307476
 Emoviolence, Screamo
-8.4
-
-L'amour au temps de la peste
-Potence
-e.snmc.io/i/300/s/bda0318218c83fba3574cb65d99cbacc/6482281
-Screamo, Crust Punk
-8.52
-
-Riala
-Suis la Lune
-e.snmc.io/i/300/s/a160e90c2081ca2cb54f7597908b51cf/4187189
-Screamo
-8.36
-
-Anomie
-Anomie
-e.snmc.io/i/300/s/f2148c3f55e2e79afb26c218b4c0ffdc/7094686
-Screamo
-8.54
+8.38
 
 IV
 Bucket Full of Teeth
@@ -790,11 +772,11 @@ e.snmc.io/i/300/s/58adea49dbe82774cfc60d66df47ab24/2128108
 Emoviolence, Grindcore, Powerviolence
 8.34
 
-Quiet, Pull the Strings!
+Riala
 Suis la Lune
-e.snmc.io/i/300/s/41400c04eadb9b15ae63dd98fe52410b/1880148
+e.snmc.io/i/300/s/a160e90c2081ca2cb54f7597908b51cf/4187189
 Screamo
-8.38
+8.36
 
 The History Behind the Mystery: Music to Kill Yourself By
 In/Humanity
@@ -802,17 +784,17 @@ e.snmc.io/i/300/s/1f0c5bda81a2874e6366ec9d22af42a7/1672816
 Emoviolence
 8.44
 
-Le culte des bourreaux
+L'amour au temps de la peste
 Potence
-e.snmc.io/i/300/s/f99fde689b548d4c12f3d08c6a821918/7486757
+e.snmc.io/i/300/s/bda0318218c83fba3574cb65d99cbacc/6482281
 Screamo, Crust Punk
-8.5
+8.52
 
-Dénouement
-Respire
-e.snmc.io/i/300/s/18e9ec297600585272153ed6ea0aaa46/6848535
-Blackgaze, Screamo
-8.38
+The Horrible and The Miserable
+Death Goals
+e.snmc.io/i/300/s/2106a596a5d4877177f021e96704dc6a/9209812
+Screamo, Mathcore
+8.44
 
 Summer Tour Songs
 Boy Problems
@@ -820,17 +802,17 @@ e.snmc.io/i/300/s/189a494f312607fa46a5da368f592fe0/2825493
 Screamo, Midwest Emo
 8.38
 
-Atáxico
-Joliette
-e.snmc.io/i/300/s/23677894b9b8a597ffb1a7c3eae34f84/6302863
-Mathcore, Screamo
-8.54
+Mission Priorities on Launch
+Hundreds of AU
+e.snmc.io/i/300/s/073d546b3831e4bff14121ac82c2970b/7627712
+Screamo, Emoviolence
+8.56
 
-Ogni Nuovo Inizio
-Raein
-e.snmc.io/i/300/s/a5e3465d626f9dabad0b328b0aef4642/8360001
+La décadence de la décadence
+Amanda Woodward
+e.snmc.io/i/300/s/e0467c6ff35ab412f5f0c505ed89fa98/6710837
 Screamo
-8.7
+8.34
 
 ...This Earth Shaped Tomb
 Gillian Carter
@@ -838,11 +820,41 @@ e.snmc.io/i/300/s/5932d4da2e12bf39a4b02aa424d4cfa9/7094146
 Screamo, Emoviolence
 8.44
 
+You'll Never Want to Do Anything Else Ever Again
+The Sons of Saturn
+e.snmc.io/i/300/s/596f7eb0b22ff8d051e238ab9e8f7059/1803599
+Screamo
+8.44
+
+Ogni Nuovo Inizio
+Raein
+e.snmc.io/i/300/s/a5e3465d626f9dabad0b328b0aef4642/8360001
+Screamo
+8.7
+
+Nước
+Hawak
+e.snmc.io/i/300/s/4b51def37d002aacf10c45fd8e5ec038/9208504
+Screamo
+8.7
+
 The Comprehensive List of Everyone Who Has Ever Done Anything Wrong to Us
 The Vidablue
 e.snmc.io/i/300/s/8b49df560c75442d39b4bdde03498300/2173863
 Screamo, Post-Hardcore
 8.54
+
+2017-2018
+Empatía
+e.snmc.io/i/300/s/09e13f8a915d5db39d4a65d308941bab/7767869
+Screamo, Emoviolence
+8.62
+
+Dénouement
+Respire
+e.snmc.io/i/300/s/18e9ec297600585272153ed6ea0aaa46/6848535
+Blackgaze, Screamo
+8.36
 
 Off Minor / Killie
 Off Minor, Killie
@@ -850,11 +862,23 @@ e.snmc.io/i/300/s/c307f1740015531500ce0a862d5acb7d/2724246
 Screamo
 8.5
 
-You'll Never Want To Do Anything Else Ever Again
-The Sons of Saturn
-e.snmc.io/i/300/s/596f7eb0b22ff8d051e238ab9e8f7059/1803599
+Anábasis
+Tenue
+e.snmc.io/i/300/s/41374561499914d389daad5ed06dfa8c/6926519
 Screamo
-8.44
+8.54
+
+The Ionic Spell
+Standstill
+e.snmc.io/i/300/s/f0d1d07a1e3f5a63884690287c5dec14/4752311
+Screamo, Post-Hardcore
+8.42
+
+Closure
+Closure
+e.snmc.io/i/300/s/5129096bc19d4d33a7e85062a75b1cff/2536251
+Screamo, Emo
+8.42
 
 To Bring Our Own End
 Joshua Fit for Battle
@@ -862,29 +886,41 @@ e.snmc.io/i/300/s/0380fdb8a87f77e16fa53e81a06a35dc/6663090
 Screamo
 8.36
 
-The Horrible and The Miserable
-Death Goals
-e.snmc.io/i/300/s/2106a596a5d4877177f021e96704dc6a/9209812
-Screamo, Mathcore
-8.42
-
 Clothes I Wear for the Space I'm In
 Shirokuma
 e.snmc.io/i/300/s/377606fcf1870c0ea2c36d32e58df729/7588622
 Screamo
 8.46
 
-Nuvolascura
-Nuvolascura
-e.snmc.io/i/300/s/3a0f5223d4cb8ff5ba6acca8d5068b23/7328573
+Le culte des bourreaux
+Potence
+e.snmc.io/i/300/s/f99fde689b548d4c12f3d08c6a821918/7486757
+Screamo, Crust Punk
+8.48
+
+Le pré où je suis mort
+Le pré où je suis mort
+e.snmc.io/i/300/s/32d4e439a35fbd2c1d5ca272c48f237c/2192669
 Screamo
-8.34
+8.4
 
 Calico Dreams
 Sugar Wounds
 e.snmc.io/i/300/s/20da036079a12ed0abe584f36de83419/8890065
 Screamo, Blackgaze
+8.32
+
+Nuvolascura
+Nuvolascura
+e.snmc.io/i/300/s/7ed1619af7e2c503bd694f93e69ce429/9307469
+Screamo
 8.34
+
+Off Minor / I Am the Resurrection
+Off Minor, I Am the Resurrection
+e.snmc.io/i/300/s/aaf856951653fa9b04958f136767c3cf/2188898
+Screamo, Post-Hardcore
+8.44
 
 Kaospilot
 Kaospilot
@@ -892,11 +928,11 @@ e.snmc.io/i/300/s/183a90c55bdc5ac82a81208bb59ad8fe/1271195
 Screamo
 8.4
 
-Le pré où je suis mort
-Le pré où je suis mort
-e.snmc.io/i/300/s/32d4e439a35fbd2c1d5ca272c48f237c/2192669
-Screamo
-8.4
+The Map Says We're Fucked
+The Map Says We're Fucked
+e.snmc.io/i/300/s/13cd9145de322ec036179a9ea086fcb2/8176912
+Emoviolence
+8.48
 
 The Curtain Falls
 You and I
@@ -908,53 +944,17 @@ In My Blood
 Suffocate for Fuck Sake
 e.snmc.io/i/300/s/162c599eccef9486d1ec8b66ea027cb5/6293831
 Post-Rock, Screamo
-8.34
+8.32
 
-Closure
-Closure
-e.snmc.io/i/300/s/5129096bc19d4d33a7e85062a75b1cff/2536251
-Screamo, Emo
-8.38
-
-The Map Says We're Fucked
-The Map Says We're Fucked
-e.snmc.io/i/300/s/13cd9145de322ec036179a9ea086fcb2/8176912
-Emoviolence
-8.48
-
-Being Without
-Barrow
-e.snmc.io/i/300/s/b0df0d650fd494c01fbf3162351cdc18/4197373
-Screamo
+...Who Calls So Loud
+...Who Calls So Loud
+e.snmc.io/i/300/s/99e02d18ea0b787c00ba0d9281bba232/3474290
+Screamo, Post-Hardcore
 8.36
-
-Vorstellungskraft
-The Tidal Sleep
-e.snmc.io/i/300/s/8dcdecc2bede7f8ea48c5a91c4b94e20/5347949
-Screamo
-8.42
-
-Anábasis
-Tenue
-e.snmc.io/i/300/s/41374561499914d389daad5ed06dfa8c/6926519
-Screamo
-8.5
 
 We Are Always Alone
 Portrayal of Guilt
-e.snmc.io/i/300/s/c9146010b55761cf5049c115313ef78d/8535236
+e.snmc.io/i/300/s/0fd002e980ece9dafbcbd6f11147122b/9345372
 Screamo
-8.3
-
-Shirokuma / Suis la Lune
-Shirokuma, Suis la Lune
-e.snmc.io/i/300/s/d69b3a98c72f6417141f8fc32cc429a5/6142060
-Screamo
-8.44
-
-Mission Priorities on Launch
-Hundreds of AU
-e.snmc.io/i/300/s/073d546b3831e4bff14121ac82c2970b/7627712
-Screamo, Emoviolence
-8.5
+8.32
 
