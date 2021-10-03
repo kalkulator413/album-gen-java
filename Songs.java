@@ -206,6 +206,8 @@ public class Songs {
 
 	public static void main(String[] args) throws IOException {
 
+		// System.setProperty("file.encoding","UTF-8");
+
 		String site = "https://rateyourmusic.com/charts/top/single/all-time/";
 
 		for (int i = 1; i <= numPages; i ++) {

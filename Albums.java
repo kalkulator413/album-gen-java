@@ -35,6 +35,8 @@ class Albums extends JFrame {
 
   public static void main(String[] args) throws IOException {
 
+    // System.setProperty("file.encoding","UTF-8");
+
     JFrame start = new JFrame();
     DefaultListModel<String> genre = new DefaultListModel<>(); 
     JList<String> list1 = new JList<>(genre);

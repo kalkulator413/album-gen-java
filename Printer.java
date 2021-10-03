@@ -19,6 +19,8 @@ public class Printer{
 
 	public static void main(String[] args) throws IOException {
 
+    // System.setProperty("file.encoding","UTF-8");
+
     for (int g = 1; g <= genreTypes.length; g++) {
 
 		// int g = 2;
