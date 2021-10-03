@@ -100,7 +100,7 @@ e.snmc.io/i/300/s/240be345430c3c44f0a0d81a92860785/4367819
 West Coast Hip Hop, Conscious Hip Hop
 9.9
 
-98.12.28 男�?��?�別れ (98.12.28 Otokotachi no Wakare)
+98.12.28 男達の別れ (98.12.28 Otokotachi no Wakare)
 Fishmans
 e.snmc.io/i/300/s/7191e6382f33177c16754842719588ed/6123720
 Dream Pop, Neo-Psychedelia
@@ -235,7 +235,7 @@ Jazz Fusion, Modal Jazz
 Low
 David Bowie
 e.snmc.io/i/300/s/358e21c69f10acd2b7527c9477a55024/4503212
-Art Rock
+Art Rock, Ambient
 9.74
 
 Long Season
@@ -496,7 +496,7 @@ e.snmc.io/i/300/s/8d3c2c8105b6a6f3f57e38f3fa020543/2148639
 Baroque Pop
 9.96
 
-★ [Blackstar]
+Blackstar
 David Bowie
 e.snmc.io/i/300/s/d513efef26f8ce7ef5342d7d4284807d/5978111
 Art Rock
@@ -580,7 +580,7 @@ e.snmc.io/i/300/s/88d79aa0878e2c7efdbb23f46382cdd9/8595826
 Southern Hip Hop, Conscious Hip Hop
 9.7
 
-�?gætis byrjun
+Ágætis byrjun
 Sigur Rós
 e.snmc.io/i/300/s/6e7119c95fe85a48fff1bbd03d887e6f/2405956
 Post-Rock

@@ -10,6 +10,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 
+import java.io.PrintStream;
+import java.io.UnsupportedEncodingException;
+
 public class Songs {
 
 	public static List<String[]> songs = new ArrayList<String[]>();
@@ -202,6 +205,7 @@ public class Songs {
 	}
 
 	public static void main(String[] args) throws IOException {
+
 		String site = "https://rateyourmusic.com/charts/top/single/all-time/";
 
 		for (int i = 1; i <= numPages; i ++) {

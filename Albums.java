@@ -23,6 +23,8 @@ import javax.imageio.*;
 
 class Albums extends JFrame {
 
+  static int listItemWidth = 18;
+
   public static boolean LIVE = true;
 
   public static List<String[]> albums = new ArrayList<String[]>();
@@ -42,7 +44,7 @@ class Albums extends JFrame {
 
     bStart.addActionListener(new ActionListener() {
               public void actionPerformed(ActionEvent e) {
-                int gNum = (int) (list1.getSelectedIndex() + 1);
+                int gNum = list1.getSelectedIndex() + 1;
                 genreNum = gNum;
                 start.setVisible(false);
 
@@ -126,7 +128,7 @@ class Albums extends JFrame {
       genre.addElement(s);
     }
 
-    list1.setBounds(300, 250, 100, 17*genreTypes.length);
+    list1.setBounds(300, 250, 100, listItemWidth*genreTypes.length);
     start.add(list1);
 
     bStart.setBounds(500,275,100,50);
@@ -410,7 +412,7 @@ class Albums extends JFrame {
     test.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     JButton rStart = new JButton("New Genre");
-    rStart.setBounds(795, 65, 100, 50);
+    rStart.setBounds(775, 65, 110, 50);
     rStart.addActionListener(new ActionListener(){  
       public void actionPerformed(ActionEvent e){ 
             test.setVisible(false);
@@ -429,7 +431,7 @@ class Albums extends JFrame {
     });
 
     JButton b = new JButton("New Albums");
-    b.setBounds(795, 5, 100, 50);
+    b.setBounds(775, 5, 110, 50);
     b.addActionListener(new ActionListener(){  
       public void actionPerformed(ActionEvent e){ 
             for (int i = 0; i < randoms.size(); i=i) {
