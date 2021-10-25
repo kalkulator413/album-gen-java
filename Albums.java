@@ -354,8 +354,13 @@ class Albums extends JFrame {
             picLink = "upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg";
           if (title.equals("The Long Goodbye: LCD Soundsystem Live at Madison Square Garden"))
             picLink = "upload.wikimedia.org/wikipedia/en/d/d6/LCD_Soundsystem_-_The_Long_Goodbye_cover_art.jpg";
-          
-          albums.add(album(title, artist, rating, picLink, genres));
+
+          if (title.equals("E·MO·TION")) {
+            rating = "11.0";
+            albums.add(0, album(title, artist, rating, picLink, genres));
+          } else {
+            albums.add(album(title, artist, rating, picLink, genres));
+          }
 
         }
 
@@ -496,7 +501,11 @@ class Albums extends JFrame {
       if (green < 0)
         green = 0;
 
-      g.setColor(new Color(red, green, 0));
+      if (getTitle(randoms.get(i)).equals("E·MO·TION"))
+        g.setColor(new Color(255, 215, 0));
+      else
+        g.setColor(new Color(red, green, 0));
+
       g.drawString(getRating(randoms.get(i)), 110 + (int) (getGenres(randoms.get(i)).length() * 13 * ((0.5 + 0.75)/2 + 0.75)/2), 80 + i * 70);
       g.setColor(Color.WHITE);
 
