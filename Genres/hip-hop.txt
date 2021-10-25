@@ -124,12 +124,6 @@ e.snmc.io/i/300/s/695506519c4952687813afc72b64d9d5/6700517
 East Coast Hip Hop, Gangsta Rap, Boom Bap
 9.54
 
-Sometimes I Might Be Introvert
-Little Simz
-e.snmc.io/i/300/s/2651d89e12b16b44feb62c4a1c1ccb19/8956701
-UK Hip Hop, Conscious Hip Hop
-9.66
-
 Piñata
 Freddie Gibbs & Madlib
 e.snmc.io/i/300/s/2fa7f2c5bf1219ec6a0b6e273eeda485/5249029
@@ -141,6 +135,12 @@ Tyler, the Creator
 e.snmc.io/i/300/s/3e42d518aff6482d9a8560476b54f051/7125159
 West Coast Hip Hop
 9.3
+
+Sometimes I Might Be Introvert
+Little Simz
+e.snmc.io/i/300/s/2651d89e12b16b44feb62c4a1c1ccb19/8956701
+UK Hip Hop, Conscious Hip Hop
+9.52
 
 We got it from Here… Thank You 4 Your service
 A Tribe Called Quest
@@ -164,7 +164,7 @@ Moment of Truth
 Gang Starr
 e.snmc.io/i/300/s/d9a5b9f680adc779e34289c0b2b369f4/3439792
 East Coast Hip Hop, Boom Bap
-9.48
+9.46
 
 It Takes a Nation of Millions to Hold Us Back
 Public Enemy
@@ -190,6 +190,12 @@ e.snmc.io/i/300/s/8a7f471a92ea98827a05c7cc86d8e18b/2610988
 East Coast Hip Hop, Boom Bap, Conscious Hip Hop, Jazz Rap
 9.42
 
+By the Time I Get to Phoenix
+Injury Reserve
+e.snmc.io/i/300/s/9392b29ee5a0b82d339e8f171b0ad129/9233236
+Experimental Hip Hop, Glitch Hop, Experimental
+9.38
+
 Only Built 4 Cuban Linx...
 Raekwon
 e.snmc.io/i/300/s/b5ea3d82dd720c5680f8f622e9c6a840/2773843
@@ -199,7 +205,7 @@ East Coast Hip Hop, Gangsta Rap, Boom Bap
 Jenny Death: The Powers That B Disc 2
 Death Grips
 e.snmc.io/i/300/s/c4bfd14222157fd5f9a1743d39144174/8523924
-Experimental Hip Hop, Industrial Hip Hop, Noise Rock, Abstract Hip Hop
+Experimental Hip Hop, Noise Rock, Industrial Hip Hop, Abstract Hip Hop
 9.3
 
 Things Fall Apart
@@ -226,6 +232,12 @@ e.snmc.io/i/300/s/b72396a3ed0fc6cc9748b40c2c8abea3/1604531
 East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
 9.32
 
+The Miseducation of Lauryn Hill
+Lauryn Hill
+e.snmc.io/i/300/s/65b79ac80fdcde63a3699dca3bf6df42/1795954
+Neo-Soul, Contemporary R&B, East Coast Hip Hop
+9.26
+
 Mos Def & Talib Kweli Are Black Star
 Black Star
 e.snmc.io/i/300/s/706173bd4026d1c14621eab770effac0/3075687
@@ -238,23 +250,23 @@ e.snmc.io/i/300/s/519ef768cf5df3e6df47a29019c467fa/7574206
 Industrial Hip Hop, Abstract Hip Hop, Experimental Hip Hop
 9.14
 
-The Miseducation of Lauryn Hill
-Lauryn Hill
-e.snmc.io/i/300/s/65b79ac80fdcde63a3699dca3bf6df42/1795954
-Neo-Soul, Contemporary R&B, East Coast Hip Hop
-9.26
+Faces
+Mac Miller
+e.snmc.io/i/300/s/679867a3b5d9b0e06c53ee253631add0/5232254
+Jazz Rap, Abstract Hip Hop
+9.38
+
+Sobrevivendo no inferno
+Racionais MC's
+e.snmc.io/i/300/s/10ffcfc055bb29396aa80251709b28ff/4449807
+Conscious Hip Hop, Boom Bap, Hardcore Hip Hop
+9.38
 
 Reasonable Doubt
 Jay-Z
 e.snmc.io/i/300/s/820d1a9a9087e31aab5833885c5e8c27/2728710
 East Coast Hip Hop, Boom Bap, Gangsta Rap
 9.26
-
-Bir Pesimistin Gözyaşları
-Sagopa Kajmer
-e.snmc.io/i/300/s/1d5a7e325eef629515dcc0b13959fd7c/1943701
-Abstract Hip Hop, Boom Bap
-9.32
 
 Mystic Stylez
 Three-6 Mafia
@@ -268,23 +280,17 @@ e.snmc.io/i/300/s/491436ee89cdfe39c019089a770d1951/4817800
 Experimental Hip Hop
 8.98
 
-Mista Thug Isolation
-Lil Ugly Mane
-e.snmc.io/i/300/s/f379a51c46ca473b995842bb12d0e25c/5879215
-Memphis Rap, Southern Hip Hop
-9.24
-
 Stankonia
 OutKast
 e.snmc.io/i/300/s/1c0ec981d4658cffd799243d3f27075e/2573835
 Southern Hip Hop
 9.22
 
-Sobrevivendo no inferno
-Racionais MC's
-e.snmc.io/i/300/s/10ffcfc055bb29396aa80251709b28ff/4449807
-Conscious Hip Hop, Boom Bap, Hardcore Hip Hop
-9.36
+Mista Thug Isolation
+Lil Ugly Mane
+e.snmc.io/i/300/s/f379a51c46ca473b995842bb12d0e25c/5879215
+Memphis Rap, Southern Hip Hop
+9.24
 
 Ridin' Dirty
 UGK
@@ -298,23 +304,11 @@ e.snmc.io/i/300/s/bc7a77f3f6f7ccfc061b50cf00540a2f/1951587
 West Coast Hip Hop, Boom Bap, Jazz Rap
 9.28
 
-Faces
-Mac Miller
-e.snmc.io/i/300/s/679867a3b5d9b0e06c53ee253631add0/5232254
-Jazz Rap
-9.36
-
 Hell Hath No Fury
 Clipse
 e.snmc.io/i/300/s/1501edb2a85afb82be6a48eea6056e1a/1733335
 Southern Hip Hop, Gangsta Rap
 9.26
-
-The G.A.T...
-Mach-Hommy
-e.snmc.io/i/300/s/79d2dd817834726e63d7e7f976db8bd3/6684825
-Jazz Rap, East Coast Hip Hop, Conscious Hip Hop
-9.32
 
 Modal Soul
 Nujabes
@@ -322,11 +316,17 @@ e.snmc.io/i/300/s/6acf9254d3e97a646e1a7991bdf6e602/2375296
 Jazz Rap, Instrumental Hip Hop
 9.26
 
-Hayalet Islığı
-Farazi v Kayra
-e.snmc.io/i/300/s/be55eb7f478ed6d97022f90fc11738c1/7650471
-Boom Bap, Abstract Hip Hop
-9.32
+The G.A.T...
+Mach-Hommy
+e.snmc.io/i/300/s/79d2dd817834726e63d7e7f976db8bd3/6684825
+Jazz Rap, East Coast Hip Hop, Conscious Hip Hop
+9.3
+
+Bir Pesimistin Gözyaşları
+Sagopa Kajmer
+e.snmc.io/i/300/s/1d5a7e325eef629515dcc0b13959fd7c/1943701
+Abstract Hip Hop, Boom Bap
+9.28
 
 Supreme Clientele
 Ghostface Killah
@@ -340,10 +340,10 @@ e.snmc.io/i/300/s/8e03a69f97fd09714303e4e5c2adf643/1259326
 Abstract Hip Hop, East Coast Hip Hop
 9.2
 
-Ironman
-Ghostface Killah
-e.snmc.io/i/300/s/a88de7a84839a421e4bd5790d0d77ea9/8847268
-East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
+Be
+Common
+e.snmc.io/i/300/s/58a732094240ea6974e1405c65ee624a/5365434
+Conscious Hip Hop
 9.26
 
 Blowout Comb
@@ -352,17 +352,29 @@ e.snmc.io/i/300/s/9cbe5dbebe030c328abea8127be66b46/1211136
 Jazz Rap, East Coast Hip Hop, Conscious Hip Hop
 9.26
 
-Be
-Common
-e.snmc.io/i/300/s/58a732094240ea6974e1405c65ee624a/5365434
-Conscious Hip Hop
+Ironman
+Ghostface Killah
+e.snmc.io/i/300/s/a88de7a84839a421e4bd5790d0d77ea9/8847268
+East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
 9.26
+
+Crack Cloud$ Over Arts Kitchen
+Black Kray
+e.snmc.io/i/300/s/4f980044aa8d41fda17f945da25afa6d/9244081
+Cloud Rap, Southern Hip Hop, Experimental Hip Hop
+9.28
+
+Hayalet Islığı
+Farazi v Kayra
+e.snmc.io/i/300/s/be55eb7f478ed6d97022f90fc11738c1/7650471
+Boom Bap, Abstract Hip Hop
+9.3
 
 The Cold Vein
 Cannibal Ox
 e.snmc.io/i/300/s/24b37abc012c2d40460457b793b2a504/1835315
 Abstract Hip Hop, East Coast Hip Hop, Experimental Hip Hop, Conscious Hip Hop
-9.2
+9.22
 
 XXX
 Danny Brown
@@ -370,17 +382,17 @@ e.snmc.io/i/300/s/a56da841db9780bb6b7c2dcab0c4bc2c/8660828
 Hardcore Hip Hop
 9.14
 
-Crack Cloud$ Over Arts Kitchen
-Black Kray
-e.snmc.io/i/300/s/4f980044aa8d41fda17f945da25afa6d/9244081
-Cloud Rap, Experimental Hip Hop, Southern Hip Hop
-9.28
-
 Doggystyle
 Snoop Doggy Dogg
 e.snmc.io/i/300/s/4dc3cbf3279c41929aa9bb8d7cdcf55e/2658252
 G-Funk, West Coast Hip Hop, Gangsta Rap
 9.18
+
+Nada como um dia após o outro dia
+Racionais MC's
+e.snmc.io/i/300/s/c59ab56c950010d71b9df52cbdd953aa/1885411
+Hardcore Hip Hop, Conscious Hip Hop
+9.34
 
 The Main Ingredient
 Pete Rock & C.L. Smooth
@@ -400,29 +412,17 @@ e.snmc.io/i/300/s/dea63b35b8b442d622253feb6831c757/1383124
 Horrorcore, East Coast Hip Hop
 9.24
 
-Nada como um dia após o outro dia
-Racionais MC's
-e.snmc.io/i/300/s/c59ab56c950010d71b9df52cbdd953aa/1885411
-Hardcore Hip Hop, Conscious Hip Hop
-9.32
+The Blueprint
+Jay-Z
+e.snmc.io/i/300/s/3e183011dffe9db79948ca76eb3c2596/5901838
+East Coast Hip Hop, Chipmunk Soul
+9.18
 
 Remote Utopias: 2nd May 2020
 Bladee, Ecco2K
 e.snmc.io/i/300/s/e33d3d66f959e713cf2d3e4a3333770b/8173809
 Cloud Rap, Art Pop, Alternative R&B
-9.26
-
-The Blueprint
-Jay-Z
-e.snmc.io/i/300/s/3e183011dffe9db79948ca76eb3c2596/5901838
-East Coast Hip Hop, Chipmunk Soul
-9.16
-
-Run the Jewels 2
-Run the Jewels
-e.snmc.io/i/300/s/2946dbf2420430bfa7ade6cea3bf05ef/5394177
-Hardcore Hip Hop
-9.08
+9.24
 
 Game Theory
 The Roots
@@ -430,11 +430,11 @@ e.snmc.io/i/300/s/be4a69d6eec8ffab905911bebe73aee4/6937006
 East Coast Hip Hop, Hardcore Hip Hop
 9.24
 
-The Chronic
-Dr. Dre
-e.snmc.io/i/300/s/24bb1d82e4f8a5bb697b3f933d405fd4/3643337
-G-Funk, West Coast Hip Hop, Gangsta Rap
-9.12
+Run the Jewels 2
+Run the Jewels
+e.snmc.io/i/300/s/2946dbf2420430bfa7ade6cea3bf05ef/5394177
+Hardcore Hip Hop
+9.08
 
 The Life of Pablo
 Kanye West
@@ -442,10 +442,22 @@ e.snmc.io/i/300/s/d0eeef85bb2ede45b1d086638548b76d/6017960
 Pop Rap, Hip Hop
 8.9
 
+The Chronic
+Dr. Dre
+e.snmc.io/i/300/s/24bb1d82e4f8a5bb697b3f933d405fd4/3643337
+G-Funk, West Coast Hip Hop, Gangsta Rap
+9.12
+
+Rodeo
+Travis Scott
+e.snmc.io/i/300/s/87e4df6fcd57cea45ca385c1f8ae0f68/5805553
+Trap, Southern Hip Hop
+9.04
+
 Mecca and the Soul Brother
 Pete Rock & C.L. Smooth
 e.snmc.io/i/300/s/2e06e735307c7c388f34169ad0a2089a/8849929
-East Coast Hip Hop, Boom Bap, Conscious Hip Hop, Jazz Rap
+East Coast Hip Hop, Boom Bap, Jazz Rap, Conscious Hip Hop
 9.2
 
 Soul Food
@@ -453,12 +465,6 @@ Goodie Mob
 e.snmc.io/i/300/s/43f63515875eb616f5e00cf2234cdb2f/2097155
 Southern Hip Hop, Conscious Hip Hop
 9.22
-
-Rodeo
-Travis Scott
-e.snmc.io/i/300/s/87e4df6fcd57cea45ca385c1f8ae0f68/5805553
-Trap, Southern Hip Hop
-9.04
 
 Samurai Champloo Music Record: Departure
 Nujabes, Fat Jon
@@ -472,35 +478,47 @@ e.snmc.io/i/300/s/5e273e878beca05678640cd8c0eefb68/8297443
 Hardcore Hip Hop, Southern Hip Hop
 9.02
 
-Jet Set Radio
-長沼英樹
-e.snmc.io/i/300/s/92813f7a9e2f3b0e1a02672cb40e224a/2076534
-Video Game Music, Instrumental Hip Hop, Big Beat
-9.24
-
 Visions of Bodies Being Burned
 clipping.
 e.snmc.io/i/300/s/54cd1cf3192cc6226e730872509ac4b8/8498966
 Horrorcore, Industrial Hip Hop, Experimental Hip Hop
 9.1
 
-Illadelph Halflife
-The Roots
-e.snmc.io/i/300/s/8b79e78d9204948af5b11f35f2d7e654/1422630
-East Coast Hip Hop, Boom Bap
-9.18
-
 Buhloone Mind State
 De La Soul
 e.snmc.io/i/300/s/46281dd230d40f96465f576a15b2681b/1389342
 East Coast Hip Hop, Conscious Hip Hop, Jazz Rap
+9.22
+
+Illadelph Halflife
+The Roots
+e.snmc.io/i/300/s/8b79e78d9204948af5b11f35f2d7e654/1422630
+East Coast Hip Hop, Boom Bap
 9.2
+
+Jet Set Radio
+長沼英樹
+e.snmc.io/i/300/s/92813f7a9e2f3b0e1a02672cb40e224a/2076534
+Video Game Music, Instrumental Hip Hop, Big Beat
+9.24
 
 Saturation II
 Brockhampton
 e.snmc.io/i/300/s/b4706d6b3e6c9a0712e8f87ac87a74fe/7165129
 Pop Rap, West Coast Hip Hop
 8.98
+
+Live! In Tune and on Time
+DJ Shadow
+e.snmc.io/i/300/s/a0ae397b83bdf29132627bf699032ecb/2267585
+Turntablism, Instrumental Hip Hop, West Coast Hip Hop
+9.22
+
+Bandana
+Freddie Gibbs & Madlib
+e.snmc.io/i/300/s/70d8127b90343bef9d513c9817928f24/8086248
+Gangsta Rap
+9.06
 
 People's Instinctive Travels and the Paths of Rhythm
 A Tribe Called Quest
@@ -514,23 +532,11 @@ e.snmc.io/i/300/s/05e38575a74e9eb4e65cdc179a3e8809/1210274
 Gangsta Rap, Southern Hip Hop
 9.18
 
-Bandana
-Freddie Gibbs & Madlib
-e.snmc.io/i/300/s/70d8127b90343bef9d513c9817928f24/8086248
-Gangsta Rap
-9.06
-
 A Piece of Strange
 CunninLynguists
 e.snmc.io/i/300/s/ab4ca830c1d54d2a8b3b0d5c484dfdc8/3480006
 Southern Hip Hop, Conscious Hip Hop
 9.14
-
-Live! In Tune and on Time
-DJ Shadow
-e.snmc.io/i/300/s/a0ae397b83bdf29132627bf699032ecb/2267585
-Turntablism, Instrumental Hip Hop, West Coast Hip Hop
-9.22
 
 TA13OO
 Denzel Curry
@@ -538,16 +544,10 @@ e.snmc.io/i/300/s/65a31bbbaeaeff683ebcfa4d179d5b34/7123174
 Southern Hip Hop, Trap
 8.98
 
-Live and Let Die
-Kool G. Rap & D.J. Polo
-e.snmc.io/i/300/s/bf9e0a300c254646a2b121de57950ae0/2442624
-East Coast Hip Hop, Gangsta Rap, Hardcore Hip Hop
-9.16
-
-The Minstrel Show
-Little Brother
-e.snmc.io/i/300/s/6129368e2300a47a519960ab7cb676fa/1460399
-Southern Hip Hop, Conscious Hip Hop
+Madvillainy Instrumentals
+Madvillain
+e.snmc.io/i/300/s/9c89819c62ef45a0437b91cc8312a105/4027859
+Instrumental Hip Hop
 9.2
 
 Saturation III
@@ -556,29 +556,35 @@ e.snmc.io/i/300/s/594cf7ffea6b865dbe0e23a275299f7e/6775104
 Pop Rap, West Coast Hip Hop
 8.98
 
+The Minstrel Show
+Little Brother
+e.snmc.io/i/300/s/6129368e2300a47a519960ab7cb676fa/1460399
+Southern Hip Hop, Conscious Hip Hop
+9.2
+
+Live and Let Die
+Kool G. Rap & D.J. Polo
+e.snmc.io/i/300/s/bf9e0a300c254646a2b121de57950ae0/2442624
+East Coast Hip Hop, Gangsta Rap, Hardcore Hip Hop
+9.16
+
 Death Certificate
 Ice Cube
 e.snmc.io/i/300/s/0dfdb590acc473943b8be7b13a8e59e3/1624500
 West Coast Hip Hop, Political Hip Hop, Gangsta Rap
 9.14
 
-Madvillainy Instrumentals
-Madvillain
-e.snmc.io/i/300/s/9c89819c62ef45a0437b91cc8312a105/4027859
-Instrumental Hip Hop
-9.2
-
 Third Side of Tape
 Lil Ugly Mane
 e.snmc.io/2.5/img/images/blockedf.png
 Experimental Hip Hop, Instrumental Hip Hop
-9.12
+9.14
 
 Word...Life
 O.C.
 e.snmc.io/i/300/s/a302f564d13b757b989512df28e318d6/3948924
 East Coast Hip Hop, Boom Bap
-9.18
+9.16
 
 All My Heroes Are Cornballs
 JPEGMAFIA
@@ -640,23 +646,17 @@ e.snmc.io/i/300/s/1e1d71d608d9c1c2f5d8141df0fea0cf/1751791
 West Coast Hip Hop, Abstract Hip Hop, Jazz Rap, Experimental Hip Hop, Boom Bap
 9.06
 
-The Sun Rises in the East
-Jeru the Damaja
-e.snmc.io/i/300/s/4428d51924494c54ec7202b0089df5cf/6464352
-East Coast Hip Hop, Boom Bap, Conscious Hip Hop, Hardcore Hip Hop
-9.12
-
-Follow the Leader
-Eric B. & Rakim
-e.snmc.io/i/300/s/0f629d34621cc01407ccb43b654ff672/1245567
-East Coast Hip Hop, Boom Bap
-9.12
-
 Grey Area
 Little Simz
 e.snmc.io/i/300/s/b410efd183e8d73138bad3f5f6a78eae/9306039
 UK Hip Hop, Conscious Hip Hop
 9.04
+
+Below the Heavens
+Blu & Exile
+e.snmc.io/i/300/s/69d4008c3d3e1cce1d61ef7bb68fd1f9/2342120
+Conscious Hip Hop, West Coast Hip Hop, Boom Bap, Jazz Rap
+9.1
 
 HBO (Haitian Body Odor)
 Mach-Hommy
@@ -664,10 +664,16 @@ e.snmc.io/i/300/s/8fda172f07d049b51e3153a9c8b075be/6447785
 East Coast Hip Hop, Abstract Hip Hop, Boom Bap
 9.18
 
-Below the Heavens
-Blu & Exile
-e.snmc.io/i/300/s/69d4008c3d3e1cce1d61ef7bb68fd1f9/2342120
-Conscious Hip Hop, West Coast Hip Hop, Boom Bap, Jazz Rap
+Follow the Leader
+Eric B. & Rakim
+e.snmc.io/i/300/s/0f629d34621cc01407ccb43b654ff672/1245567
+East Coast Hip Hop, Boom Bap
+9.12
+
+The Sun Rises in the East
+Jeru the Damaja
+e.snmc.io/i/300/s/4428d51924494c54ec7202b0089df5cf/6464352
+East Coast Hip Hop, Boom Bap, Conscious Hip Hop, Hardcore Hip Hop
 9.1
 
 Hard to Earn
@@ -676,17 +682,17 @@ e.snmc.io/i/300/s/8c99d2ec14c3b0ddb3e854ea719d887b/1638312
 East Coast Hip Hop, Boom Bap
 9.14
 
-Center of Attention
-Pete Rock &
-e.snmc.io/i/300/s/7124df8749db9b57ed00fae6e35e0e61/9211927
-East Coast Hip Hop, Boom Bap, Jazz Rap
-9.16
-
 Southernplayalisticadillacmuzik
 OutKast
 e.snmc.io/i/300/s/6ae95f5a10d2f1f2e8289ee7e886e42a/2838845
-Southern Hip Hop
+Southern Hip Hop, Hardcore Hip Hop
 9.08
+
+The Black Album
+Jay-Z
+e.snmc.io/i/300/s/61fe30f3b0e23cb3d765f8f960086171/3537126
+East Coast Hip Hop
+9.06
 
 Muddy Waters
 Redman
@@ -694,11 +700,11 @@ e.snmc.io/i/300/s/f5d0a8ee840b465815cc9b1f8c1c14c5/2831630
 East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
 9.12
 
-The Black Album
-Jay-Z
-e.snmc.io/i/300/s/61fe30f3b0e23cb3d765f8f960086171/3537126
-East Coast Hip Hop
-9.06
+Center of Attention
+Pete Rock &
+e.snmc.io/i/300/s/7124df8749db9b57ed00fae6e35e0e61/9211927
+East Coast Hip Hop, Boom Bap, Jazz Rap
+9.16
 
 Fishscale
 Ghostface Killah
@@ -712,22 +718,22 @@ e.snmc.io/i/300/s/108bebf18add6b74179572e993933aa5/2260464
 Gangsta Rap, Southern Hip Hop
 9.14
 
+Da Devil's Playground: Underground Solo
+Koopsta Knicca
+e.snmc.io/i/300/s/5a00d79f0c563a2e99b856e0d15401d4/6672641
+Memphis Rap, Southern Hip Hop
+9.12
+
+Absence
+Dälek
+e.snmc.io/i/300/s/610a15fb82bdb2c990a6bd458d42b4a3/1881344
+Industrial Hip Hop, Conscious Hip Hop, Abstract Hip Hop, Experimental Hip Hop, East Coast Hip Hop
+9.06
+
 Like Water for Chocolate
 Common
 e.snmc.io/i/300/s/7456fbe4695b007a4919fe9123d8bde5/6227857
 Conscious Hip Hop
-9.1
-
-700 Dagreez
-Black Kray
-e.snmc.io/i/300/s/a274180e5cb2c9b9908a20274147fef8/5464442
-Cloud Rap, Southern Hip Hop, Experimental Hip Hop
-9.12
-
-Resurrection
-Common Sense
-e.snmc.io/i/300/s/256c50e0cb5e163266039888c88014f7/2740040
-Conscious Hip Hop, Boom Bap, Jazz Rap
 9.1
 
 Hell on Earth
@@ -736,11 +742,17 @@ e.snmc.io/i/300/s/69fcface8c9fecf5799ff8162b56a8bb/1667985
 East Coast Hip Hop, Gangsta Rap, Boom Bap
 9.1
 
+Resurrection
+Common Sense
+e.snmc.io/i/300/s/256c50e0cb5e163266039888c88014f7/2740040
+Conscious Hip Hop, Boom Bap, Jazz Rap
+9.1
+
 Labcabincalifornia
 The Pharcyde
 e.snmc.io/i/300/s/936c2acf4bf9e7c80dacccf0627a3b18/2752994
 West Coast Hip Hop, Boom Bap
-9.12
+9.1
 
 [][][][][][][][][][][][][[][][][][][][[][[[][]][[][][][][]][]][][][][][]][][]][]­[][][][][][][]][]][][][]. PART666% Yayayayay Original Is 666% of This. Read Me U Lazyfuck U Pig Fuck. Bitchfuck Me. Pornstarsdonehate. Amateurporngodnevacummingsoon윌셔룸쌀롱
 Yayayi
@@ -748,22 +760,10 @@ e.snmc.io/2.5/img/artwork_missing150x150.png"></a
 Glitch Hop, Instrumental Hip Hop, Wonky, Experimental Hip Hop
 9.16
 
-Absence
-Dälek
-e.snmc.io/i/300/s/610a15fb82bdb2c990a6bd458d42b4a3/1881344
-Industrial Hip Hop, Conscious Hip Hop, Abstract Hip Hop, Experimental Hip Hop, East Coast Hip Hop
-9.06
-
 Reachin' (A New Refutation of Time and Space)
 Digable Planets
 e.snmc.io/i/300/s/9b7738f4c32719d602f1679ae832f60a/1342609
 Jazz Rap, East Coast Hip Hop
-9.1
-
-Da Devil's Playground: Underground Solo
-Koopsta Knicca
-e.snmc.io/i/300/s/5a00d79f0c563a2e99b856e0d15401d4/6672641
-Memphis Rap, Southern Hip Hop
 9.1
 
 Dah Shinin'
@@ -778,6 +778,12 @@ e.snmc.io/i/300/s/69074b198fab357635310dd37f533179/7212593
 Conscious Hip Hop, East Coast Hip Hop, Boom Bap
 9.1
 
+700 Dagreez
+Black Kray
+e.snmc.io/i/300/s/a274180e5cb2c9b9908a20274147fef8/5464442
+Cloud Rap, Southern Hip Hop, Experimental Hip Hop
+9.1
+
 93 'Til Infinity
 Souls of Mischief
 e.snmc.io/i/300/s/75490d1cce98d9b2840790ab4159f1e0/1644037
@@ -790,29 +796,29 @@ e.snmc.io/i/300/s/6fa24dd004263cdee358b8f9202a97b5/1240461
 East Coast Hip Hop, Boom Bap, Gangsta Rap
 9.12
 
-Niggas on the Moon: The Powers That B Disc 1
-Death Grips
-e.snmc.io/i/300/s/1ef0962e504c5fe9898ba7b468939ed1/6301907
-Glitch Hop, Experimental Hip Hop, Abstract Hip Hop
-8.94
-
 The Score
 Fugees
 e.snmc.io/i/300/s/b0d3f52c6332f435c64d564db0bb242c/1360434
 East Coast Hip Hop, Conscious Hip Hop
 9.06
 
-Call Me If You Get Lost
-Tyler, the Creator
-e.snmc.io/i/300/s/17b71521c7246ae695643ad31770e723/9097543
-West Coast Hip Hop
-8.96
+Niggas on the Moon: The Powers That B Disc 1
+Death Grips
+e.snmc.io/i/300/s/1ef0962e504c5fe9898ba7b468939ed1/6301907
+Glitch Hop, Experimental Hip Hop, Abstract Hip Hop
+8.94
 
 Super Tight...
 UGK (Underground Kingz)
 e.snmc.io/i/300/s/d4be0199d2f6846ee15c67e75d10563b/2663750
 Southern Hip Hop, Gangsta Rap
 9.1
+
+Call Me If You Get Lost
+Tyler, the Creator
+e.snmc.io/i/300/s/17b71521c7246ae695643ad31770e723/9097543
+West Coast Hip Hop
+8.94
 
 Capital Punishment
 Big Pun
@@ -826,59 +832,17 @@ e.snmc.io/i/300/s/86501ea9299a3471010534699ac0bc15/2303290
 Boom Bap, Hardcore Hip Hop
 9.14
 
-Daily Operation
-Gang Starr
-e.snmc.io/i/300/s/a9263c005b9e08ebfc77f8ae6c541403/5119404
-East Coast Hip Hop, Conscious Hip Hop, Boom Bap
-9.08
-
-Paid In Full
-Eric B. & Rakim
-e.snmc.io/i/300/s/a75ae95f8939c09406e63cd5afde81f1/1988449
-East Coast Hip Hop, Boom Bap
-9.02
-
-Fantastic, Vol. 2
-Slum Village
-e.snmc.io/i/300/s/6c4b7cb7557e908bfb5c8f22732ae693/1338248
-Hip Hop
-9.1
-
-Vol. 9mm "It's On"
-Juicy (Juice Manne) Jay
-e.snmc.io/i/300/s/ddaeefc41de8ad21d18fa43bb5e1aa6e/6781976
-Memphis Rap, Southern Hip Hop
-9.14
-
 Return to the 36 Chambers: The Dirty Version
 Ol' Dirty Bastard
 e.snmc.io/i/300/s/aa647f742246bc899774dd1d73933537/1228498
 East Coast Hip Hop, Hardcore Hip Hop
 9.04
 
-De La Soul Is Dead
-De La Soul
-e.snmc.io/i/300/s/7e04ba834c81cc12e995bf46fd512ec3/2017237
-East Coast Hip Hop, Conscious Hip Hop
-9.06
-
-Organized Konfusion
-Organized Konfusion
-e.snmc.io/i/300/s/c40fa2244f6cb8858c59eb10ab7699ef/2212190
-East Coast Hip Hop, Jazz Rap, Boom Bap
-9.1
-
-Enta da Stage
-Black Moon
-e.snmc.io/i/300/s/7f6bac8d08f2ac4447e4b666b82b8f15/2653113
-East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
-9.06
-
-Breaking Atoms
-Main Source
-e.snmc.io/i/300/s/1a0e31e4a30b5b4f128ebf4a6cc211b7/3266163
-East Coast Hip Hop, Boom Bap, Conscious Hip Hop
-9.06
+Fantastic, Vol. 2
+Slum Village
+e.snmc.io/i/300/s/6c4b7cb7557e908bfb5c8f22732ae693/1338248
+Hip Hop
+9.08
 
 Rap é compromisso
 Sabotage
@@ -886,29 +850,47 @@ e.snmc.io/i/300/s/9af56c0da722a26ddcd5cb48f7892c5e/5036955
 Boom Bap, Conscious Hip Hop
 9.14
 
-Critical Beatdown
-Ultramagnetic MC's
-e.snmc.io/i/300/s/ff3e3bd1ad8106240521850d925d6532/1445439
+Paid In Full
+Eric B. & Rakim
+e.snmc.io/i/300/s/a75ae95f8939c09406e63cd5afde81f1/1988449
 East Coast Hip Hop, Boom Bap
-9.04
+9.02
+
+Daily Operation
+Gang Starr
+e.snmc.io/i/300/s/a9263c005b9e08ebfc77f8ae6c541403/5119404
+East Coast Hip Hop, Conscious Hip Hop, Boom Bap
+9.08
+
+De La Soul Is Dead
+De La Soul
+e.snmc.io/i/300/s/7e04ba834c81cc12e995bf46fd512ec3/2017237
+East Coast Hip Hop, Conscious Hip Hop
+9.06
 
 A Prince Among Thieves
 Prince Paul
 e.snmc.io/i/300/s/b10eda5557c28fb4b7c84a66b86bacab/2731833
 East Coast Hip Hop, Boom Bap
+9.1
+
+Breaking Atoms
+Main Source
+e.snmc.io/i/300/s/1a0e31e4a30b5b4f128ebf4a6cc211b7/3266163
+East Coast Hip Hop, Boom Bap, Conscious Hip Hop
+9.06
+
+Organized Konfusion
+Organized Konfusion
+e.snmc.io/i/300/s/c40fa2244f6cb8858c59eb10ab7699ef/2212190
+East Coast Hip Hop, Jazz Rap, Boom Bap
 9.08
 
-AmeriKKKa's Most Wanted
-Ice Cube
-e.snmc.io/i/300/s/b05173744a5cb77c2c950cb10d811baf/7959440
-West Coast Hip Hop, Gangsta Rap, Political Hip Hop, Hardcore Hip Hop
-9.0
-
-Dare Iz a Darkside
-Redman
-e.snmc.io/i/300/s/3ca774afef6469a6d7846fa980b6e7f5/2300173
-East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
-9.08
+Vol. 9mm "It's On"
+Juicy (Juice Manne) Jay
+e.snmc.io/i/300/s/ddaeefc41de8ad21d18fa43bb5e1aa6e/6781976
+Memphis Rap, Southern Hip Hop
+9.14
 
 The Devil's Playground
 Da Koopsta Knicca
@@ -916,11 +898,41 @@ e.snmc.io/i/300/s/4fcbbb8378e9685c626b59364a5bea84/6781950
 Memphis Rap, Southern Hip Hop
 9.12
 
+AmeriKKKa's Most Wanted
+Ice Cube
+e.snmc.io/i/300/s/b05173744a5cb77c2c950cb10d811baf/7959440
+West Coast Hip Hop, Gangsta Rap, Political Hip Hop, Hardcore Hip Hop
+9.02
+
+Ashes 2 Ashes, Dust 2 Dust
+Tommy Wright III
+e.snmc.io/i/300/s/5baffdd63d480c4447d5666127849c27/4676639
+Memphis Rap, Southern Hip Hop, Gangsta Rap
+9.06
+
+Dare Iz a Darkside
+Redman
+e.snmc.io/i/300/s/3ca774afef6469a6d7846fa980b6e7f5/2300173
+East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
+9.1
+
+Critical Beatdown
+Ultramagnetic MC's
+e.snmc.io/i/300/s/ff3e3bd1ad8106240521850d925d6532/1445439
+East Coast Hip Hop, Boom Bap
+9.04
+
 On Top of the World
 Eightball & MJG
 e.snmc.io/i/300/s/b6a7d0c84d16b97329f9cf7df39c276e/1254997
 Southern Hip Hop, Gangsta Rap, Conscious Hip Hop
 9.08
+
+Enta da Stage
+Black Moon
+e.snmc.io/i/300/s/7f6bac8d08f2ac4447e4b666b82b8f15/2653113
+East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
+9.06
 
 The Juggaknots
 Juggaknots
@@ -934,27 +946,15 @@ e.snmc.io/i/300/s/3e2e38bd8d52c68fab30a5841df3a486/1430623
 Jazz Rap, Instrumental Hip Hop
 9.02
 
-Ashes 2 Ashes, Dust 2 Dust
-Tommy Wright III
-e.snmc.io/i/300/s/5baffdd63d480c4447d5666127849c27/4676639
-Memphis Rap, Gangsta Rap, Southern Hip Hop
-9.06
-
-RTJ4
-Run the Jewels
-e.snmc.io/i/300/s/19a770483653f7886ba7955f639dbfd7/8832784
-Hardcore Hip Hop, Political Hip Hop
-8.92
-
 Telefone
 Noname
 e.snmc.io/i/300/s/3292b349c590ec2d7663ea2b3c9fe334/6201780
 Conscious Hip Hop, Jazz Rap
 9.02
 
-Whut? Thee Album
-Redman
-e.snmc.io/i/300/s/7885184b2e4060638846fb868768962d/2740338
-East Coast Hip Hop, Hardcore Hip Hop, Boom Bap
-9.06
+Crack Therapy 3
+RXK Nephew
+e.snmc.io/i/300/s/f4a1a1cacf8c963cd8027b9898f07a56/9075033
+Trap, East Coast Hip Hop, Cloud Rap
+9.08
 
