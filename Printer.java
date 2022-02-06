@@ -11,12 +11,25 @@ import java.io.FileWriter;
 
 public class Printer{
 
-  public static final String CURRENT_YEAR = "2021";
+  public static final String CURRENT_YEAR = "2022";
 
 	public static List<String[]> albums = new ArrayList<String[]>();
 
-	public static String[] genreTypes = {"Any", "New", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
-
+	public static String[] genreTypes = {"Any", 
+        "New", 
+        "Hip Hop", 
+        "Pop", 
+        "Rock", 
+        "Folk", 
+        "Shoegaze", 
+        "Dream Pop", 
+        "Indie Rock", 
+        "Experimental", 
+        "Punk", 
+        "Blues", 
+        "Jazz", 
+        "Screamo"};
+        
 	public static void main(String[] args) throws IOException {
 
     // System.setProperty("file.encoding","UTF-8");

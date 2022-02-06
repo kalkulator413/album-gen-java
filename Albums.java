@@ -31,7 +31,20 @@ class Albums extends JFrame {
   public static List<String[]> randoms = new ArrayList<String[]>();
 
   public static int genreNum = 1;
-  public static String[] genreTypes = {"Any", "New", "Hip Hop", "Pop", "Rock", "Folk", "Shoegaze", "Dream Pop", "Experimental", "Punk", "Blues", "Jazz", "Screamo"};
+  public static String[] genreTypes = {"Any", 
+        "New", 
+        "Hip Hop", 
+        "Pop", 
+        "Rock", 
+        "Folk", 
+        "Shoegaze", 
+        "Dream Pop", 
+        "Indie Rock", 
+        "Experimental", 
+        "Punk", 
+        "Blues", 
+        "Jazz", 
+        "Screamo"};
 
   public static void main(String[] args) throws IOException {
 
@@ -192,7 +205,7 @@ class Albums extends JFrame {
       }
     }
 
-    return "2021";
+    return "2022";
   }
 
   public static void getAlbums() throws FileNotFoundException {
