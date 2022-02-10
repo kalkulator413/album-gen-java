@@ -386,7 +386,6 @@ class Albums extends JFrame {
     //System.out.println("How many albums would you like to generate? (MAX 120)");
 
     int numAlbums = 9;//console.nextInt();
-    int num = 1;
 
     ArrayList<String[]> albumsC = new ArrayList<String[]>();
     for (String[] s : albums) {
@@ -394,7 +393,7 @@ class Albums extends JFrame {
     }
 
     while(numAlbums > 0) {
-      int i = (int) (albumsC.size() * Math.random());
+      int i = (int) ((albumsC.size()) * Math.random());
 
 
       //System.out.println(num + ". " + albums.get(i)[0] + " - " + albums.get(i)[1]);
@@ -403,7 +402,6 @@ class Albums extends JFrame {
       albumsC.remove(i);
 
       numAlbums--;
-      num++;
     }
   }
 
