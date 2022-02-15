@@ -15,7 +15,7 @@ public class Printer{
 
 	public static List<String[]> albums = new ArrayList<String[]>();
 
-	public static String[] genreTypes = {"Any", 
+  public static String[] genreTypes = {"Any", 
         "New", 
         "Hip Hop", 
         "Pop", 
@@ -28,7 +28,10 @@ public class Printer{
         "Punk", 
         "Blues", 
         "Jazz", 
-        "Screamo"};
+        "Screamo",
+        "Sophisti-Pop",
+        "Industrial-Rock"
+      };
         
 	public static void main(String[] args) throws IOException {
 
