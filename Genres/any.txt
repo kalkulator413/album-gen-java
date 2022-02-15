@@ -172,17 +172,17 @@ e.snmc.io/i/300/s/0a32aabc1670258f8997c0448ff85a98/2161189
 Post-Rock, Post-Hardcore, Math Rock
 9.71
 
-Pink Moon
-Nick Drake
-e.snmc.io/i/300/s/19e2daafa210c8ab044e21eb46c989a0/2509162
-Contemporary Folk, Singer-Songwriter
-9.83
-
 The Complete Peel Sessions 1978-2004
 The Fall
 e.snmc.io/i/300/s/c4fc50f034d10fcf703e2684576c6ff2/1406154
 Post-Punk
 10.0
+
+Pink Moon
+Nick Drake
+e.snmc.io/i/300/s/19e2daafa210c8ab044e21eb46c989a0/2509162
+Contemporary Folk, Singer-Songwriter
+9.83
 
 Disintegration
 The Cure
@@ -200,7 +200,7 @@ Animals
 Pink Floyd
 e.snmc.io/i/300/s/71342f3e705d792186a08e8e24dea2e8/4175208
 Progressive Rock, Art Rock
-9.66
+9.62
 
 Unknown Pleasures
 Joy Division
@@ -284,7 +284,7 @@ Blonde on Blonde
 Bob Dylan
 e.snmc.io/i/300/s/5491cb32686c9de586d6f955268c206b/6868676
 Folk Rock, Singer-Songwriter
-9.75
+9.71
 
 Endtroducing.....
 DJ Shadow
@@ -304,17 +304,17 @@ e.snmc.io/i/300/s/5b935730c963be1b257ed8c84d522225/2259766
 Jazz Fusion, Avant-Garde Jazz
 9.75
 
-Close to the Edge
-Yes
-e.snmc.io/i/300/s/2c89478d80be2dc025941c5fb6eb1d88/1638254
-Symphonic Prog, Progressive Rock
-9.66
-
 The Glow Pt. 2
 The Microphones
 e.snmc.io/i/300/s/3c32ed761078404ca86e92ab632e58a5/8964258
 Indie Folk, Psychedelic Folk, Lo-Fi / Slacker Rock
 9.58
+
+Close to the Edge
+Yes
+e.snmc.io/i/300/s/2c89478d80be2dc025941c5fb6eb1d88/1638254
+Symphonic Prog, Progressive Rock
+9.62
 
 The Doors
 The Doors
@@ -340,17 +340,17 @@ static.wikia.nocookie.net/4chanmusic/images/2/29/Tms-1200.jpg/revision/latest/sc
 Industrial Hip Hop, Hardcore Hip Hop, Experimental Hip Hop
 9.24
 
-Master of Reality
-Black Sabbath
-e.snmc.io/i/300/s/f345131b0c4370443735d17324535782/2918156
-Heavy Metal
-9.58
-
 The Smile Sessions
 The Beach Boys
 e.snmc.io/i/300/s/26d1ab5b591c821a71253be2ba582028/8990667
 Baroque Pop, Psychedelic Pop, Progressive Pop
 10.0
+
+Master of Reality
+Black Sabbath
+e.snmc.io/i/300/s/f345131b0c4370443735d17324535782/2918156
+Heavy Metal
+9.58
 
 Songs in the Key of Life
 Stevie Wonder
@@ -394,12 +394,6 @@ e.snmc.io/i/300/s/9bd46612f27727d597ea913144e37f6b/8060362
 Alternative R&B, Art Pop, Neo-Soul
 9.32
 
-The Great Deceiver: Live 1973-1974
-King Crimson
-e.snmc.io/i/300/s/70a1e4f32382d156845e845d86f35ca3/8145663
-Progressive Rock
-10.0
-
 The College Dropout
 Kanye West
 e.snmc.io/i/300/s/6c98a557ef760a8b05f58fec7ab445f1/4096884
@@ -411,6 +405,12 @@ Björk
 e.snmc.io/i/300/s/9d31a9bb6c0e0765d18f19fe3ddd5174/8697079
 Art Pop, Electronic
 9.41
+
+The Great Deceiver: Live 1973-1974
+King Crimson
+e.snmc.io/i/300/s/70a1e4f32382d156845e845d86f35ca3/8145663
+Progressive Rock
+10.0
 
 Illinois
 Sufjan Stevens
@@ -424,17 +424,17 @@ e.snmc.io/i/300/s/6abc0f592b184b0620da9b9d072f79f8/2509651
 Singer-Songwriter, Contemporary Folk
 10.0
 
-Soundtracks for the Blind
-Swans
-e.snmc.io/i/300/s/0c30865b08322f73319de987a16860cf/1868623
-Experimental Rock, Post-Rock, Experimental
-9.58
-
 Either / Or
 Elliott Smith
 e.snmc.io/i/300/s/3853f5ed7f02795a57583f645a6f4f97/5191061
 Singer-Songwriter, Indie Folk
 9.54
+
+Soundtracks for the Blind
+Swans
+e.snmc.io/i/300/s/0c30865b08322f73319de987a16860cf/1868623
+Experimental Rock, Post-Rock, Experimental
+9.58
 
 Songs of Leonard Cohen
 Leonard Cohen
@@ -466,23 +466,17 @@ e.snmc.io/i/300/s/7d064bfeb14e5200d945c1c7b2dddf2d/6811660
 Post-Rock
 9.54
 
-The Name of This Band Is Talking Heads
-Talking Heads
-e.snmc.io/i/300/s/8fd7a8d1b39e49ea3ebdd42b260229a5/5157351
-New Wave, Art Punk, Post-Punk
-9.96
-
 What's Going On
 Marvin Gaye
 e.snmc.io/i/300/s/e18614f553dffc3c7abab5f9c2fc71cd/6368145
 Soul
 9.54
 
-The Jimi Hendrix Experience
-The Jimi Hendrix Experience
-e.snmc.io/i/300/s/56192273148da9a61288c77e91cde489/5662608
-Psychedelic Rock, Hard Rock, Blues Rock, Acid Rock
-10.0
+The Name of This Band Is Talking Heads
+Talking Heads
+e.snmc.io/i/300/s/8fd7a8d1b39e49ea3ebdd42b260229a5/5157351
+New Wave, Art Punk, Post-Punk
+9.96
 
 Rubber Soul
 The Beatles
@@ -490,17 +484,23 @@ e.snmc.io/i/300/s/71d4c17d08c53084574a0d5ae25056e3/5248558
 Pop Rock
 9.2
 
+The Velvet Underground
+The Velvet Underground
+e.snmc.io/i/300/s/2853cf8bdf1392fdf2eed5811a9a813e/5706942
+Pop Rock
+9.45
+
 Station to Station
 David Bowie
 e.snmc.io/i/300/s/d70969b2e095cbb4672a6fedca216a98/2662002
 Art Rock
 9.49
 
-Ride the Lightning
-Metallica
-e.snmc.io/i/300/s/1ba6cf38b0f52ab74d00cd12f18b193f/3693902
-Thrash Metal
-9.32
+The Jimi Hendrix Experience
+The Jimi Hendrix Experience
+e.snmc.io/i/300/s/56192273148da9a61288c77e91cde489/5662608
+Psychedelic Rock, Hard Rock, Blues Rock, Acid Rock
+10.0
 
 Daydream Nation
 Sonic Youth
@@ -508,11 +508,11 @@ e.snmc.io/i/300/s/cbefc8221a1b9af5c86694e33c9a8d40/2666135
 Noise Rock, Alternative Rock
 9.28
 
-The Velvet Underground
-The Velvet Underground
-e.snmc.io/i/300/s/2853cf8bdf1392fdf2eed5811a9a813e/5706942
-Pop Rock
-9.45
+Ride the Lightning
+Metallica
+e.snmc.io/i/300/s/1ba6cf38b0f52ab74d00cd12f18b193f/3693902
+Thrash Metal
+9.32
 
 Liquid Swords
 Genius/GZA
@@ -586,6 +586,12 @@ e.snmc.io/i/300/s/172e241462140d3eea2df1d50f648fee/2513970
 Krautrock
 9.54
 
+The Pet Sounds Sessions
+The Beach Boys
+e.snmc.io/i/300/s/8d3c2c8105b6a6f3f57e38f3fa020543/2148639
+Baroque Pop
+10.0
+
 Hunky Dory
 David Bowie
 e.snmc.io/i/300/s/98173441c8dbca81006a5be642e4eced/8053232
@@ -598,17 +604,23 @@ e.snmc.io/i/300/s/81a5aa722316c3cb177aaf733c2b2b9b/2522185
 Proto-Punk, Garage Rock, Hard Rock
 9.41
 
-The Pet Sounds Sessions
-The Beach Boys
-e.snmc.io/i/300/s/8d3c2c8105b6a6f3f57e38f3fa020543/2148639
-Baroque Pop
-9.96
-
 Midnight Marauders
 A Tribe Called Quest
 e.snmc.io/i/300/s/845fe1a910640a010ad8c4e6972a9d52/1724175
 East Coast Hip Hop, Jazz Rap, Boom Bap
 9.49
+
+Mm.. Food
+MF DOOM
+e.snmc.io/i/300/s/21a94b38a50ccd0710de68f793af45a3/1317618
+East Coast Hip Hop, Abstract Hip Hop
+9.41
+
+Funeral
+Arcade Fire
+e.snmc.io/i/300/s/ab04c5a8681be0e6efb3d4a99b60c135/2330479
+Indie Rock, Chamber Pop
+8.94
 
 Master of Puppets
 Metallica
@@ -620,19 +632,7 @@ London Calling
 The Clash
 e.snmc.io/i/300/s/b297d816bc33adacf50cb398330e5488/2143505
 New Wave, Punk Rock
-9.15
-
-Funeral
-Arcade Fire
-e.snmc.io/i/300/s/ab04c5a8681be0e6efb3d4a99b60c135/2330479
-Indie Rock, Chamber Pop
-8.94
-
-Mm.. Food
-MF DOOM
-e.snmc.io/i/300/s/21a94b38a50ccd0710de68f793af45a3/1317618
-East Coast Hip Hop, Abstract Hip Hop
-9.41
+9.11
 
 Rain Dogs
 Tom Waits
@@ -664,12 +664,6 @@ e.snmc.io/i/300/s/5c425f7be1d1d41700c6f7ca3ad2c9db/1561482
 Heartland Rock
 9.92
 
-Ants From Up There
-Black Country, New Road
-e.snmc.io/i/300/s/8cd89302916dab2eda1669fc1310e711/9391518
-Art Rock, Post-Rock, Chamber Pop, Indie Rock
-9.66
-
 How the West Was Won
 Led Zeppelin
 e.snmc.io/i/300/s/269bf1d88a96dab0028678c01e86898e/2264644
@@ -688,23 +682,11 @@ e.snmc.io/i/300/s/938423c9f319254495c651502348c7e3/7012308
 Post-Rock, Art Rock
 9.37
 
-Nevermind
-Nirvana
-upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg
-Grunge, Alternative Rock
-8.77
-
 White Light / White Heat
 The Velvet Underground
 e.snmc.io/i/300/s/32a5931205795d2b5a7d5f4b0f133026/7520508
 Experimental Rock, Noise Rock, Proto-Punk
 9.2
-
-Mezzanine
-Massive Attack
-e.snmc.io/i/300/s/0a100383d2c074b0fa029c9856d1c1f2/8966721
-Trip Hop
-9.24
 
 Purple Rain
 Prince and The Revolution
@@ -712,11 +694,17 @@ e.snmc.io/i/300/s/e83f4651127812ad34f2a2addc656649/8692026
 Pop Rock, Film Soundtrack, Synth Funk
 9.37
 
-Sunshine Daydream: Veneta, Oregon, August 27, 1972
-Grateful Dead
-e.snmc.io/i/300/s/4b5f83fb52a6c29e00185e80638490ea/9550578
-Psychedelic Rock, Jam Band
-9.96
+Nevermind
+Nirvana
+upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg
+Grunge, Alternative Rock
+8.77
+
+Mezzanine
+Massive Attack
+e.snmc.io/i/300/s/0a100383d2c074b0fa029c9856d1c1f2/8966721
+Trip Hop
+9.24
 
 Giant Steps
 John Coltrane
@@ -724,11 +712,23 @@ e.snmc.io/i/300/s/1382a013423ccf0bcbc70792b18e2338/9293085
 Hard Bop
 9.49
 
+The Complete Matrix Tapes
+The Velvet Underground
+e.snmc.io/i/300/s/bb7594793c1dfc8b1c97c7c347e770f4/5850189
+Art Rock, Proto-Punk
+9.96
+
 Hot Rats
 Frank Zappa
 e.snmc.io/i/300/s/54eae84f07402a854794a11dd700b3cb/5397244
 Jazz-Rock, Jazz Fusion
 9.32
+
+Ants From Up There
+Black Country, New Road
+e.snmc.io/i/300/s/8cd89302916dab2eda1669fc1310e711/9391518
+Art Rock, Post-Rock, Chamber Pop, Indie Rock
+9.49
 
 Deathconsciousness
 Have a Nice Life
@@ -754,23 +754,17 @@ e.snmc.io/i/300/s/0a3f9448091db0a917298854d8d1af40/7495042
 Country
 9.62
 
-On the Beach
-Neil Young
-e.snmc.io/i/300/s/6b4b8f7d2d9723c6a9a048273bc9df62/2663737
-Singer-Songwriter, Country Rock, Folk Rock
-9.45
-
 Live at The Old Quarter, Houston, Texas
 Townes Van Zandt
 e.snmc.io/i/300/s/19d7e681631f2e9f9cce978676dc4cdc/3558347
 Singer-Songwriter, Country, Contemporary Folk
 9.83
 
-The Complete Matrix Tapes
-The Velvet Underground
-e.snmc.io/i/300/s/bb7594793c1dfc8b1c97c7c347e770f4/5850189
-Art Rock, Proto-Punk
-9.92
+On the Beach
+Neil Young
+e.snmc.io/i/300/s/6b4b8f7d2d9723c6a9a048273bc9df62/2663737
+Singer-Songwriter, Country Rock, Folk Rock
+9.45
 
 Exmilitary
 Death Grips
@@ -778,17 +772,11 @@ e.snmc.io/i/300/s/5a0efa57c85c89e146f91edf9c39e824/7024368
 Hardcore Hip Hop, Industrial Hip Hop, Abstract Hip Hop, Experimental Hip Hop
 9.24
 
-The Bootleg Series Volumes 1-3: (Rare & Unreleased) 1961-1991
-Bob Dylan
-e.snmc.io/i/300/s/adb2c1229c0d06f153981e948ee1b885/4915111
-Folk Rock, Singer-Songwriter, Contemporary Folk
-9.83
-
-Symbolic
-Death
-e.snmc.io/i/300/s/30de654e085c1f58973d17b3a1a3571a/2656325
-Technical Death Metal
-9.41
+Sunshine Daydream: Veneta, Oregon, August 27, 1972
+Grateful Dead
+e.snmc.io/i/300/s/4b5f83fb52a6c29e00185e80638490ea/9550578
+Psychedelic Rock, Jam Band
+9.92
 
 Live After Death
 Iron Maiden
@@ -796,10 +784,10 @@ e.snmc.io/i/300/s/a698f8cbe51ddea077158c497f71612a/2821549
 Heavy Metal, NWOBHM
 9.62
 
-Absent Lovers: Live in Montreal 1984
-King Crimson
-e.snmc.io/2.5/img/images/blockedf.png
-Progressive Rock, New Wave
+The Bootleg Series Volumes 1-3: (Rare & Unreleased) 1961-1991
+Bob Dylan
+e.snmc.io/i/300/s/adb2c1229c0d06f153981e948ee1b885/4915111
+Folk Rock, Singer-Songwriter, Contemporary Folk
 9.83
 
 The Downward Spiral
@@ -807,6 +795,24 @@ Nine Inch Nails
 e.snmc.io/i/300/s/7c275b2385f563aaef9d4621f0c946a3/2557124
 Industrial Rock
 9.15
+
+Symbolic
+Death
+e.snmc.io/i/300/s/30de654e085c1f58973d17b3a1a3571a/2656325
+Technical Death Metal
+9.41
+
+The Olatunji Concert: The Last Live Recording
+John Coltrane
+e.snmc.io/i/300/s/f283d82b17723d399340a358b5f1464c/8249791
+Free Jazz
+9.75
+
+Absent Lovers: Live in Montreal 1984
+King Crimson
+e.snmc.io/2.5/img/images/blockedf.png
+Progressive Rock, New Wave
+9.83
 
 In utero
 Nirvana
@@ -818,19 +824,25 @@ Karma
 Pharoah Sanders
 e.snmc.io/i/300/s/afe4157494eb80bb1de18526da07fca0/5046036
 Spiritual Jazz
-9.58
-
-The Olatunji Concert: The Last Live Recording
-John Coltrane
-e.snmc.io/i/300/s/f283d82b17723d399340a358b5f1464c/8249791
-Free Jazz
-9.75
+9.54
 
 Hatful of Hollow
 The Smiths
 e.snmc.io/i/300/s/2bb3b8f8f79f8e57ae390e41979f1fec/8303380
 Jangle Pop, Indie Pop
 9.37
+
+Keep an Eye on the Sky
+Big Star
+e.snmc.io/i/300/s/17d26dfe034cec584c3116a5a6749cf0/2680625
+Power Pop
+9.83
+
+The Lonesome Crowded West
+Modest Mouse
+e.snmc.io/i/300/s/cf186d485fb29a15adc4f5398f235252/1941205
+Indie Rock
+9.32
 
 My Favorite Things
 John Coltrane
@@ -844,23 +856,11 @@ e.snmc.io/i/300/s/bc43c3504233fa64ad7e539aca7955a4/2109669
 Television Music, Dark Jazz
 9.54
 
-The Lonesome Crowded West
-Modest Mouse
-e.snmc.io/i/300/s/cf186d485fb29a15adc4f5398f235252/1941205
-Indie Rock
-9.28
-
 Made in Japan
 Deep Purple
 e.snmc.io/i/300/s/01232a3fd5253b290208ef9f05f0efc2/1231551
 Hard Rock
 9.62
-
-Keep an Eye on the Sky
-Big Star
-e.snmc.io/i/300/s/17d26dfe034cec584c3116a5a6749cf0/2680625
-Power Pop
-9.79
 
 Velocity : Design : Comfort
 Sweet Trip
@@ -891,6 +891,12 @@ Tyler, the Creator
 e.snmc.io/i/300/s/2bdf796315a55594bd609357ef879ada/7574908
 Neo-Soul, Psychedelic Soul
 8.86
+
+The Cellar Door Sessions 1970
+Miles Davis
+e.snmc.io/i/300/s/d3d0a7dbab3171dc73d33efcc73a842d/5489268
+Jazz Fusion
+9.83
 
 Live Rust
 Neil Young, Crazy Horse
@@ -928,12 +934,6 @@ e.snmc.io/i/300/s/4f0e176d0d2e2640f30c7e53732b035c/8956594
 Trip Hop
 9.62
 
-Cornell 5/8/77
-Grateful Dead
-e.snmc.io/i/300/s/cc056018216bb1ec6a769f1167b15135/6433751
-Jam Band, Roots Rock
-9.79
-
 Pornography
 The Cure
 e.snmc.io/i/300/s/eb4f10393fa703d1d110d893b70f09fe/3014863
@@ -945,12 +945,6 @@ Milton Nascimento &
 e.snmc.io/i/300/s/2a014e4a26caac09a12e8958dd9f8460/1953132
 MPB
 9.49
-
-The Cellar Door Sessions 1970
-Miles Davis
-e.snmc.io/i/300/s/d3d0a7dbab3171dc73d33efcc73a842d/5489268
-Jazz Fusion
-9.79
 
 Since I Left You
 The Avalanches
@@ -964,29 +958,23 @@ e.snmc.io/i/300/s/8b4eba02bbbc4d2a9190b8d072e1337b/1741067
 Video Game Music, Ambient
 9.54
 
-Everybody Knows This Is Nowhere
-Neil Young, Crazy Horse
-e.snmc.io/i/300/s/31763cb5143c8bf6231639e5d21795e6/7227338
-Country Rock, Singer-Songwriter
-9.32
-
-All Things Must Pass
-George Harrison
-e.snmc.io/i/300/s/ec8bf9d3dc353e766ab8e80797d7970b/5311002
-Pop Rock, Singer-Songwriter, Folk Rock
-9.32
-
-Live at the Harlem Square Club, 1963
-Sam Cooke
-e.snmc.io/i/300/s/548f3d4d662c42d18959b2fa25eeee2e/2308619
-Southern Soul
-9.62
-
 Dark Magus
 Miles Davis
 e.snmc.io/i/300/s/c78667b0554909f2affe48a140398bc3/1990192
 Jazz Fusion, Jazz-Funk
 9.62
+
+Cornell 5/8/77
+Grateful Dead
+e.snmc.io/i/300/s/cc056018216bb1ec6a769f1167b15135/6433751
+Jam Band, Roots Rock
+9.75
+
+Everybody Knows This Is Nowhere
+Neil Young, Crazy Horse
+e.snmc.io/i/300/s/31763cb5143c8bf6231639e5d21795e6/7227338
+Country Rock, Singer-Songwriter
+9.32
 
 Rumours
 Fleetwood Mac
@@ -1000,23 +988,35 @@ e.snmc.io/i/300/s/fd8f5828efb56a9ef0d3d1d0523f2512/2317304
 Art Rock
 9.15
 
+All Things Must Pass
+George Harrison
+e.snmc.io/i/300/s/ec8bf9d3dc353e766ab8e80797d7970b/5311002
+Pop Rock, Singer-Songwriter, Folk Rock
+9.32
+
+Live at the Harlem Square Club, 1963
+Sam Cooke
+e.snmc.io/i/300/s/548f3d4d662c42d18959b2fa25eeee2e/2308619
+Southern Soul
+9.62
+
 To Be Kind
 Swans
 e.snmc.io/i/300/s/5d114a0409cd94b8abbd5a0e43f7e8ab/5247406
 Experimental Rock, Post-Rock
 9.03
 
-Unleashed in the East: Live in Japan
-Judas Priest
-e.snmc.io/i/300/s/3511ac94ad92479cb439c706a01b7d21/3700071
-Heavy Metal
-9.62
-
 The Bootleg Series Vol. 5: Live 1975 - The Rolling Thunder Revue
 Bob Dylan
 e.snmc.io/i/300/s/4a9e99333d8c3d4aa43f7eb85091ca84/3148817
 Folk Rock, Singer-Songwriter
 9.66
+
+Unleashed in the East: Live in Japan
+Judas Priest
+e.snmc.io/i/300/s/3511ac94ad92479cb439c706a01b7d21/3700071
+Heavy Metal
+9.62
 
 ATLiens
 OutKast
@@ -1030,18 +1030,6 @@ upload.wikimedia.org/wikipedia/en/e/e7/The_Strokes_-_Ist_Tis_It_US_cover.png
 Garage Rock Revival, Indie Rock
 8.77
 
-Love Power Peace: Live at the Olympia, Paris, 1971
-James Brown
-e.snmc.io/i/300/s/7cfa83f964778e90e5d5c5ffb98c846b/1832631
-Funk
-9.71
-
-Led Zeppelin
-Led Zeppelin
-e.snmc.io/i/300/s/26170ca23cb95eaac18b8d15a13548dd/2504244
-Hard Rock, Blues Rock
-8.86
-
 Rust in Peace
 Megadeth
 e.snmc.io/i/300/s/064b3a4604614af6c66186efbd3141db/5748025
@@ -1053,6 +1041,18 @@ Pink Floyd
 e.snmc.io/i/300/s/ff569f5148544eba68dd77b1b0378651/6210494
 Progressive Rock
 8.94
+
+Led Zeppelin
+Led Zeppelin
+e.snmc.io/i/300/s/26170ca23cb95eaac18b8d15a13548dd/2504244
+Hard Rock, Blues Rock
+8.86
+
+Music for 18 Musicians
+Steve Reich and Musicians
+e.snmc.io/i/300/s/670a91b9e7ce988600f79e25d83069d6/7231563
+Minimalism
+9.37
 
 Sticky Fingers
 The Rolling Stones
@@ -1066,29 +1066,35 @@ e.snmc.io/i/300/s/05467ae185799431e4f2fabd0b6604e4/1560902
 Pop Rock
 9.28
 
-Music for 18 Musicians
-Steve Reich and Musicians
-e.snmc.io/i/300/s/670a91b9e7ce988600f79e25d83069d6/7231563
-Minimalism
-9.37
-
 Il buono, il brutto, il cattivo
 Ennio Morricone
 e.snmc.io/i/300/s/7572447df9b9907963a00e013890e771/2391194
 Film Score, Spaghetti Western
 9.54
 
-The Long Goodbye: LCD Soundsystem Live at Madison Square Garden
-LCD Soundsystem
-upload.wikimedia.org/wikipedia/en/d/d6/LCD_Soundsystem_-_The_Long_Goodbye_cover_art.jpg
-Dance-Punk, Indietronica
-9.58
+The Real Royal Albert Hall 1966 Concert!
+Bob Dylan
+e.snmc.io/i/300/s/7e3a71b349dff068b0d731ef43ef2669/6319602
+Folk Rock, Singer-Songwriter, Contemporary Folk
+9.79
+
+Love Power Peace: Live at the Olympia, Paris, 1971
+James Brown
+e.snmc.io/i/300/s/7cfa83f964778e90e5d5c5ffb98c846b/1832631
+Funk
+9.71
 
 Ege Bamyası
 Can
 e.snmc.io/i/300/s/9ec5d764031ef37fcb8bca52ae1fb862/2513986
 Krautrock
 9.15
+
+The Long Goodbye: LCD Soundsystem Live at Madison Square Garden
+LCD Soundsystem
+upload.wikimedia.org/wikipedia/en/d/d6/LCD_Soundsystem_-_The_Long_Goodbye_cover_art.jpg
+Dance-Punk, Indietronica
+9.58
 
 Blue
 Joni Mitchell
@@ -1100,12 +1106,6 @@ Raw Power
 Iggy and The Stooges
 e.snmc.io/i/300/s/4cb81b9f45ccc75a3ad9574f372f005f/2220562
 Proto-Punk, Garage Rock, Hard Rock
-9.15
-
-Ready to Die
-The Notorious B.I.G.
-e.snmc.io/i/300/s/695506519c4952687813afc72b64d9d5/6700517
-East Coast Hip Hop, Gangsta Rap, Boom Bap
 9.15
 
 Discovery
@@ -1120,17 +1120,17 @@ e.snmc.io/i/300/s/524baed4edebd2c1f5f32cea4debd07f/2667874
 Psychedelic Pop, Psychedelic Rock, Psychedelic Folk
 9.11
 
+Ready to Die
+The Notorious B.I.G.
+e.snmc.io/i/300/s/695506519c4952687813afc72b64d9d5/6700517
+East Coast Hip Hop, Gangsta Rap, Boom Bap
+9.15
+
 Superfly
 Curtis Mayfield
 e.snmc.io/i/300/s/391d339d210b1366734deecd8e65f42c/1838069
 Film Soundtrack, Chicago Soul, Funk
 9.37
-
-The Real Royal Albert Hall 1966 Concert!
-Bob Dylan
-e.snmc.io/i/300/s/7e3a71b349dff068b0d731ef43ef2669/6319602
-Folk Rock, Singer-Songwriter, Contemporary Folk
-9.75
 
 Archive 1967-75
 Genesis
@@ -1149,12 +1149,6 @@ Leonard Cohen
 e.snmc.io/i/300/s/6f9fb9f472defd46e9a0791a957f1e6c/7303903
 Singer-Songwriter, Contemporary Folk
 9.28
-
-Live at the It Club
-Thelonious Monk
-e.snmc.io/i/300/s/14bb963e7da803c1b631b0a4802c3b52/1998778
-Hard Bop
-9.71
 
 Violator
 Depeche Mode
@@ -1180,11 +1174,11 @@ e.snmc.io/i/300/s/bb6588cbf1ecc016d3c2a1532c642ad0/5158023
 Garage Rock, Proto-Punk, Hard Rock
 9.71
 
-Turn On the Bright Lights
-Interpol
-e.snmc.io/i/300/s/aef874913aef708f02a5573012a1b403/6171426
-Post-Punk Revival
-8.86
+Live at the It Club
+Thelonious Monk
+e.snmc.io/i/300/s/14bb963e7da803c1b631b0a4802c3b52/1998778
+Hard Bop
+9.71
 
 Grace
 Jeff Buckley
@@ -1192,9 +1186,15 @@ e.snmc.io/i/300/s/cdd814ab275cc8bd7ba807a1524191f9/7027387
 Singer-Songwriter, Alternative Rock
 8.99
 
-Ys
-Joanna Newsom
-e.snmc.io/i/300/s/b0b81e21f8c047a7121f5ff1f5d0599a/7851102
-Chamber Folk, Singer-Songwriter, Progressive Folk
-9.03
+Turn On the Bright Lights
+Interpol
+e.snmc.io/i/300/s/aef874913aef708f02a5573012a1b403/6171426
+Post-Punk Revival
+8.86
+
+The Dreaming
+Kate Bush
+e.snmc.io/i/300/s/3760244ad6eaf1bfb6e8d1391c42b182/2340663
+Art Pop, Progressive Pop
+9.2
 

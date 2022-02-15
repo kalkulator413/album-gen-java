@@ -22,11 +22,17 @@ e.snmc.io/i/300/s/ab04c5a8681be0e6efb3d4a99b60c135/2330479
 Indie Rock, Chamber Pop
 8.94
 
+Ants From Up There
+Black Country, New Road
+e.snmc.io/i/300/s/8cd89302916dab2eda1669fc1310e711/9391518
+Art Rock, Post-Rock, Chamber Pop, Indie Rock
+9.49
+
 The Lonesome Crowded West
 Modest Mouse
 e.snmc.io/i/300/s/cf186d485fb29a15adc4f5398f235252/1941205
 Indie Rock
-9.28
+9.32
 
 Is This It
 The Strokes
@@ -94,17 +100,17 @@ e.snmc.io/i/300/s/1890610d13b8be9d78da4583ca1f32dd/6545576
 Slowcore, Lo-Fi / Slacker Rock
 8.86
 
-You're Living All Over Me
-Dinosaur
-e.snmc.io/i/300/s/bf35ed3475d3b39779bc7200af4e1718/3831157
-Noise Rock, Indie Rock, Alternative Rock, Lo-Fi / Slacker Rock
-8.56
-
 I Can Hear the Heart Beating as One
 Yo La Tengo
 e.snmc.io/i/300/s/bc70aa2dffbee0cf89a25bd5a00f89dc/8674116
 Indie Rock, Noise Pop
 8.65
+
+You're Living All Over Me
+Dinosaur
+e.snmc.io/i/300/s/bf35ed3475d3b39779bc7200af4e1718/3831157
+Noise Rock, Indie Rock, Alternative Rock, Lo-Fi / Slacker Rock
+8.56
 
 Keep It Like a Secret
 Built to Spill
@@ -142,23 +148,17 @@ e.snmc.io/i/300/s/c18d3dae1c3f68203be7ccad7d3477cf/2039201
 Post-Hardcore, Indie Rock
 8.6
 
-You Forgot It in People
-Broken Social Scene
-e.snmc.io/i/300/s/3055047e937b4c383b3832fa060a810a/7674947
-Indie Rock, Art Rock
-8.52
-
 Live Drugs
 The War on Drugs
 e.snmc.io/i/300/s/02795cd5dd250012d98b785d381adc0e/8505829
 Heartland Rock, Indie Rock
 8.94
 
-Slanted and Enchanted
-Pavement
-e.snmc.io/i/300/s/9d5b99f96868f59a40a2d89c46396d56/8021476
-Lo-Fi / Slacker Rock, Indie Rock
-8.35
+You Forgot It in People
+Broken Social Scene
+e.snmc.io/i/300/s/3055047e937b4c383b3832fa060a810a/7674947
+Indie Rock, Art Rock
+8.52
 
 Just Got Back From the Discomfort—We're Alright
 The Brave Little Abacus
@@ -166,11 +166,17 @@ e.snmc.io/i/300/s/36a0591dfd341e948d5fbf588ed6f821/8247001
 Midwest Emo, Experimental Rock
 8.52
 
+Slanted and Enchanted
+Pavement
+e.snmc.io/i/300/s/9d5b99f96868f59a40a2d89c46396d56/8021476
+Lo-Fi / Slacker Rock, Indie Rock
+8.35
+
 Masked Dancers: Concern in So Many Things You Forget Where You Are
 The Brave Little Abacus
 e.snmc.io/i/300/s/e9e561df788a9fca84272153f3efbc10/7655070
 Midwest Emo, Math Rock
-8.65
+8.6
 
 I Could Live in Hope
 Low
@@ -202,11 +208,11 @@ e.snmc.io/i/300/s/5e87f60bf70d9b1d129dfa513707bdea/5433799
 Lo-Fi / Slacker Rock, Indie Rock
 8.39
 
-WORRY.
-Jeff Rosenstock
-e.snmc.io/i/300/s/b00de21cb8979dec33cb28587249b31a/8050123
-Pop Punk, Power Pop, Indie Rock
-8.39
+Mi sei apparso come un fantasma
+Songs: Ohia
+e.snmc.io/i/300/s/14fd23e30fd01589bae0902a2494edfd/1239446
+Singer-Songwriter, Slowcore, Contemporary Folk
+8.86
 
 And Then Nothing Turned Itself Inside-Out
 Yo La Tengo
@@ -214,11 +220,11 @@ e.snmc.io/i/300/s/c4262516733a4db8733d2541db5572aa/5679712
 Dream Pop, Indie Rock
 8.43
 
-Mi sei apparso come un fantasma
-Songs: Ohia
-e.snmc.io/i/300/s/14fd23e30fd01589bae0902a2494edfd/1239446
-Singer-Songwriter, Slowcore, Contemporary Folk
-8.86
+WORRY.
+Jeff Rosenstock
+e.snmc.io/i/300/s/b00de21cb8979dec33cb28587249b31a/8050123
+Pop Punk, Power Pop, Indie Rock
+8.39
 
 ABC Music: The Radio 1 Sessions
 Stereolab
@@ -292,12 +298,6 @@ e.snmc.io/i/300/s/bd66dd2449d26d4c3557db5cb9fc2134/1535089
 Indie Rock, Post-Punk Revival
 8.18
 
-Elephant
-The White Stripes
-e.snmc.io/i/300/s/1ff6e4b05a2b53da48769d4d0d97c0bf/2933945
-Garage Rock Revival, Alternative Rock
-7.97
-
 Boxer Live in Brussels
 The National
 e.snmc.io/i/300/s/e57a6576e61e2c62285bf13fb94fd6c3/6899695
@@ -310,17 +310,23 @@ e.snmc.io/i/300/s/958a3276a7e3a9d194f161c8c9722c4b/1322493
 Contemporary Folk, Singer-Songwriter, Slowcore
 8.39
 
+Elephant
+The White Stripes
+e.snmc.io/i/300/s/1ff6e4b05a2b53da48769d4d0d97c0bf/2933945
+Garage Rock Revival, Alternative Rock
+7.97
+
 The Lioness
 Songs: Ohia
 e.snmc.io/i/300/s/b516a13f8bb2f6587a0a1f24c4752fff/8794572
 Singer-Songwriter, Slowcore, Contemporary Folk
 8.35
 
-Live
-Built to Spill
-e.snmc.io/i/300/s/272307fb2dad850c907055b4223a07bc/1699192
-Indie Rock
-8.48
+Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We've Slipped On and Egg Shells We've Tippy Toed Over
+Cap'n Jazz
+e.snmc.io/i/300/s/0171c2f7dcfe0f05bcdd559ab8cac6b1/5505644
+Post-Hardcore, Midwest Emo
+8.26
 
 This Is a Long Drive for Someone With Nothing to Think About
 Modest Mouse
@@ -328,11 +334,17 @@ e.snmc.io/i/300/s/0fd748c37176fcf107f1302b3e383b01/7248739
 Indie Rock, Midwest Emo
 8.18
 
-Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We've Slipped On and Egg Shells We've Tippy Toed Over
-Cap'n Jazz
-e.snmc.io/i/300/s/0171c2f7dcfe0f05bcdd559ab8cac6b1/5505644
-Post-Hardcore, Midwest Emo
-8.26
+Live
+Built to Spill
+e.snmc.io/i/300/s/272307fb2dad850c907055b4223a07bc/1699192
+Indie Rock
+8.48
+
+Time 'n' Place
+Kero Kero Bonito
+e.snmc.io/i/300/s/f1777d250c3979005c87044fcc0a551b/7182970
+Twee Pop, Indie Pop, Indie Rock
+8.01
 
 Twin Fantasy
 Car Seat Headrest
@@ -356,7 +368,7 @@ Giles Corey
 Giles Corey
 e.snmc.io/i/300/s/9e80fef8860688d9d9bbbf02df39679d/3821503
 Slowcore, Singer-Songwriter, Contemporary Folk
-8.09
+8.05
 
 Bury Me at Makeout Creek
 Mitski
@@ -380,7 +392,7 @@ The Natural Bridge
 Silver Jews
 e.snmc.io/i/300/s/3abe9f0bed8155e197bc563b918e8c29/3424468
 Indie Rock, Lo-Fi / Slacker Rock
-8.22
+8.26
 
 High Violet
 The National
@@ -392,13 +404,13 @@ Tell Me About the Long Dark Path Home
 The Newfound Interest in Connecticut
 e.snmc.io/i/300/s/94f523a8cd1c44b0daf48f7c2afdfb2a/7471842
 Midwest Emo, Post-Rock
-8.22
+8.18
 
-Lance
-Niños del Cerro
-e.snmc.io/i/300/s/fe1161af53a3d8b6963853b35cf292d2/7163517
-Neo-Psychedelia, Indie Rock
-8.31
+Insignificance
+Jim O'Rourke
+e.snmc.io/i/300/s/3de6051738adb8d9ee46b564213548f8/6560198
+Singer-Songwriter, Indie Rock, Art Rock
+8.18
 
 The Suburbs
 Arcade Fire
@@ -412,17 +424,17 @@ e.snmc.io/i/300/s/8df9d2024be86d8b4a253d35c6a5c66c/2083274
 Indie Rock, Punk Rock
 8.09
 
-Insignificance
-Jim O'Rourke
-e.snmc.io/i/300/s/3de6051738adb8d9ee46b564213548f8/6560198
-Singer-Songwriter, Indie Rock, Art Rock
-8.18
-
 Diary
 Sunny Day Real Estate
 e.snmc.io/i/300/s/67f4e13c49d9df27f5350fbe0f87ecd6/3858859
 Midwest Emo
 8.01
+
+Lance
+Niños del Cerro
+e.snmc.io/i/300/s/fe1161af53a3d8b6963853b35cf292d2/7163517
+Neo-Psychedelia, Indie Rock
+8.26
 
 It's a Wonderful Life
 Sparklehorse
@@ -436,17 +448,17 @@ e.snmc.io/i/300/s/fb42487de5aba4f1e0c5db68ad008946/2013916
 Garage Rock Revival, Alternative Rock
 7.88
 
-Wide Awake
-Parquet Courts
-e.snmc.io/i/300/s/f088da78abd87a873b68626a45376749/7012920
-Indie Rock, Art Punk
-7.93
-
 Neon Bible
 Arcade Fire
 e.snmc.io/i/300/s/191ea7c5bb44c171d9518f46df56c6e9/4346528
 Indie Rock
 7.71
+
+Wide Awake
+Parquet Courts
+e.snmc.io/i/300/s/f088da78abd87a873b68626a45376749/7012920
+Indie Rock, Art Punk
+7.93
 
 There's Nothing Wrong With Love
 Built to Spill
@@ -476,7 +488,7 @@ Things We Lost in the Fire
 Low
 e.snmc.io/i/300/s/d3d722d56d6da5e8670e9c8f78295f2a/8968699
 Slowcore
-8.05
+8.09
 
 On Fire
 Galaxie 500
@@ -490,6 +502,12 @@ e.snmc.io/i/300/s/9e7a43d1dee46abc68e5ed6b03e41ad1/8978180
 Singer-Songwriter, Slowcore
 8.01
 
+We Cool?
+Jeff Rosenstock
+e.snmc.io/i/300/s/cb12f96cef9d81ce80abd19101dc352c/8050225
+Pop Punk, Power Pop, Indie Rock
+7.97
+
 Any Other City
 Life Without Buildings
 e.snmc.io/i/300/s/abeef94a1981ac3f02a802dab4920b9a/1254737
@@ -501,12 +519,6 @@ mewithoutYou
 e.snmc.io/i/300/s/6b089e9b225d75aa8c58e51357c666a9/1971032
 Indie Rock, Post-Hardcore
 8.01
-
-We Cool?
-Jeff Rosenstock
-e.snmc.io/i/300/s/cb12f96cef9d81ce80abd19101dc352c/8050225
-Pop Punk, Power Pop, Indie Rock
-7.97
 
 Contemporary Movement
 Duster
@@ -520,6 +532,12 @@ e.snmc.io/i/300/s/6cbcdb1ba7ee7b81943309347099f197/1264793
 Alternative Rock, Emo, Midwest Emo
 7.97
 
+Peel Sessions
+Galaxie 500
+e.snmc.io/i/300/s/6eb7b159dc0e398bd4c9518deaca5469/1753602
+Slowcore, Dream Pop
+8.22
+
 Bossanova
 Pixies
 e.snmc.io/i/300/s/787110fb82069d1f69a2d29d66e55167/3844164
@@ -532,23 +550,17 @@ e.snmc.io/i/300/s/3303d173bafb2c2c322d03147e86bc4f/2564706
 Punk Rock, Indie Rock
 8.01
 
-Peel Sessions
-Galaxie 500
-e.snmc.io/i/300/s/6eb7b159dc0e398bd4c9518deaca5469/1753602
-Slowcore, Dream Pop
-8.18
+Split Personalities
+12 Rods
+e.snmc.io/i/300/s/490f14b77d7151bae20240af57f830f6/1701621
+Indie Rock, Power Pop
+8.05
 
 Room on Fire
 The Strokes
 e.snmc.io/i/300/s/4af361d359816251ddefd5b479699c70/2447592
 Garage Rock Revival, Indie Rock
 7.67
-
-Split Personalities
-12 Rods
-e.snmc.io/i/300/s/490f14b77d7151bae20240af57f830f6/1701621
-Indie Rock, Power Pop
-8.05
 
 How It Feels to Be Something On
 Sunny Day Real Estate
@@ -568,6 +580,12 @@ e.snmc.io/i/300/s/dd8596448b9044d6aa1844b419116a8a/8701938
 Indie Rock
 7.93
 
+Change
+The Dismemberment Plan
+e.snmc.io/i/300/s/9f5f5122097da5fe1052a46a3ed950e8/8975831
+Indie Rock
+7.97
+
 Under the Bushes Under the Stars
 Guided by Voices
 e.snmc.io/i/300/s/1f6c8827acee26af79fb33835569e04c/2570736
@@ -580,23 +598,11 @@ e.snmc.io/i/300/s/684e8e167af81637a5de07f9849119c1/2431630
 Indie Rock, Neo-Psychedelia
 7.76
 
-Change
-The Dismemberment Plan
-e.snmc.io/i/300/s/9f5f5122097da5fe1052a46a3ed950e8/8975831
-Indie Rock
-7.97
-
-Catch for Us the Foxes
-mewithoutYou
-e.snmc.io/i/300/s/da492c74af0b69480034590c2ef5bb72/2014620
-Post-Hardcore, Indie Rock
-7.97
-
-Thunder, Lightning, Strike
-The Go! Team
-e.snmc.io/i/300/s/ba940a6550d9021736576d31f2e4a1b5/8478183
-Indietronica, Indie Rock, Alternative Dance
-7.88
+Bug
+Dinosaur Jr
+e.snmc.io/i/300/s/ab2dc45db9a6bc676ff34ee29fcfedcf/3856820
+Noise Rock, Indie Rock, Alternative Rock, Lo-Fi / Slacker Rock
+7.84
 
 The Sophtware Slump
 Grandaddy
@@ -604,11 +610,17 @@ e.snmc.io/i/300/s/831b9128c68489f56d4cd289ec5d8041/1255663
 Indie Pop, Indie Rock
 7.88
 
-Bug
-Dinosaur Jr
-e.snmc.io/i/300/s/ab2dc45db9a6bc676ff34ee29fcfedcf/3856820
-Noise Rock, Indie Rock, Alternative Rock, Lo-Fi / Slacker Rock
-7.84
+Thunder, Lightning, Strike
+The Go! Team
+e.snmc.io/i/300/s/ba940a6550d9021736576d31f2e4a1b5/8478183
+Indietronica, Indie Rock, Alternative Dance
+7.88
+
+Catch for Us the Foxes
+mewithoutYou
+e.snmc.io/i/300/s/da492c74af0b69480034590c2ef5bb72/2014620
+Post-Hardcore, Indie Rock
+7.93
 
 Białe wakacje
 Ścianka
@@ -622,11 +634,23 @@ e.snmc.io/i/300/s/9bff181c47f16a146712eaa1d5d98d81/1215207
 Singer-Songwriter, Slowcore
 7.88
 
+Pixies at the BBC
+Pixies
+e.snmc.io/2.5/img/images/blockedf.png
+Indie Rock, Alternative Rock
+8.09
+
 The Hot Rock
 Sleater-Kinney
 e.snmc.io/i/300/s/c249fc85ee64419e299613abe5a6a713/1209509
 Indie Rock
 7.97
+
+Day Is Far Too Long
+전자양
+e.snmc.io/i/300/s/b72eed89bf84bef62d25490caa00121d/2479309
+Indie Folk, Psychedelic Folk, Lo-Fi / Slacker Rock
+8.09
 
 Today
 Galaxie 500
@@ -640,17 +664,11 @@ e.snmc.io/i/300/s/be952d2575b736eaeb7a5065d3ed2b8e/9569779
 Indie Rock
 7.63
 
-Pixies at the BBC
-Pixies
-e.snmc.io/2.5/img/images/blockedf.png
-Indie Rock, Alternative Rock
-8.05
-
 가장 보통의 존재
 언니네이발관
 e.snmc.io/i/300/s/ee80fe673aa48395690888b1e50bfc3c/2376629
 Pop Rock, Indie Rock
-7.97
+8.01
 
 Una semana en el motor de un autobús
 Los Planetas
@@ -658,22 +676,16 @@ e.snmc.io/i/300/s/5dd9e197dff37a352d96a36cfa526dd2/5782367
 Indie Rock
 7.93
 
-Mad for Sadness
-Arab Strap
-e.snmc.io/i/300/s/3f07a2f7c70c1f4165047f025981ed0d/1937257
-Slowcore, Post-Rock
-8.01
+Public Strain
+Women
+e.snmc.io/i/300/s/7120ec774a78f996b23df0062f8a4a2d/3178269
+Post-Punk, Indie Rock
+7.8
 
 Exile in Guyville
 Liz Phair
 e.snmc.io/2.5/img/images/blockedf.png
 Indie Rock, Singer-Songwriter
-7.8
-
-Public Strain
-Women
-e.snmc.io/i/300/s/7120ec774a78f996b23df0062f8a4a2d/3178269
-Post-Punk, Indie Rock
 7.8
 
 Drinking Songs
@@ -688,17 +700,17 @@ e.snmc.io/i/300/s/8364e7c937dfc559935cc2c352e675ac/2345921
 Indie Rock, Chamber Pop, Glam Rock
 7.88
 
-Day Is Far Too Long
-전자양
-e.snmc.io/i/300/s/b72eed89bf84bef62d25490caa00121d/2479309
-Indie Folk, Psychedelic Folk, Lo-Fi / Slacker Rock
-8.05
+Mad for Sadness
+Arab Strap
+e.snmc.io/i/300/s/3f07a2f7c70c1f4165047f025981ed0d/1937257
+Slowcore, Post-Rock
+8.01
 
 Somewhere City
 Origami Angel
 e.snmc.io/i/300/s/bd389cd905aee816e05526e4b6b119c9/9570170
 Midwest Emo, Emo-Pop
-7.84
+7.88
 
 Ugly But Honest: 1996-1999
 Carissa's Wierd
@@ -712,23 +724,17 @@ e.snmc.io/i/300/s/15ea88f889b6563748d7eec3aceb9be7/9372419
 Chamber Pop, Indie Rock
 7.84
 
-Murray Street
-Sonic Youth
-e.snmc.io/i/300/s/c616f949dcf9c384dde3c23336f85706/8792682
-Noise Rock, Indie Rock, Alternative Rock
-7.76
-
 Speak Kindly of Your Volunteer Fire Department
 Robert Pollard, Doug Gillard
 e.snmc.io/i/300/s/64960a984d7da15d7c958bca3ca7d3d6/2072724
 Lo-Fi / Slacker Rock, Indie Rock
 8.01
 
-Good Morning Spider
-Sparklehorse
-e.snmc.io/i/300/s/6d8b84a30a26b420734341c1a4a10bb0/1209658
-Indie Rock, Lo-Fi / Slacker Rock
-7.88
+Murray Street
+Sonic Youth
+e.snmc.io/i/300/s/c616f949dcf9c384dde3c23336f85706/8792682
+Noise Rock, Indie Rock, Alternative Rock
+7.76
 
 Come In
 Weatherday
@@ -742,17 +748,29 @@ e.snmc.io/i/300/s/f095ae20d843b4723f2bde5d4946566f/7401312
 Indie Rock, Art Punk, Art Rock
 7.88
 
-Transatlanticism
-Death Cab for Cutie
-e.snmc.io/i/300/s/21096a415e03f9a389339aed0f3a926a/6888757
-Indie Rock, Indie Pop
-7.63
+Good Morning Spider
+Sparklehorse
+e.snmc.io/i/300/s/6d8b84a30a26b420734341c1a4a10bb0/1209658
+Indie Rock, Lo-Fi / Slacker Rock
+7.88
 
 Nervous Young Man
 Car Seat Headrest
 e.snmc.io/i/300/s/b6dc8db56619148503f561cd444365ad/4914376
 Lo-Fi / Slacker Rock, Singer-Songwriter
 7.84
+
+Ponyoak
+Kleenex Girl Wonder
+e.snmc.io/i/300/s/79a65ac4386157abb6e6695651d62473/2478698
+Lo-Fi / Slacker Rock, Power Pop
+7.97
+
+Transatlanticism
+Death Cab for Cutie
+e.snmc.io/i/300/s/21096a415e03f9a389339aed0f3a926a/6888757
+Indie Rock, Indie Pop
+7.63
 
 Knock Knock
 Smog
@@ -766,23 +784,17 @@ e.snmc.io/i/300/s/823a3ddbd2ea4b9c8fd1aceab1fb98c4/9224880
 Singer-Songwriter, Lo-Fi / Slacker Rock, Bedroom Pop, Indie Folk
 7.88
 
-Ponyoak
-Kleenex Girl Wonder
-e.snmc.io/i/300/s/79a65ac4386157abb6e6695651d62473/2478698
-Lo-Fi / Slacker Rock, Power Pop
-7.93
-
 Electr-o-Pura
 Yo La Tengo
 e.snmc.io/i/300/s/386ea24b2e976f3a4679bee0b9ed7675/1209538
 Indie Rock, Noise Pop
 7.84
 
-Maggot
-Dazey and the Scouts
-e.snmc.io/i/300/s/982ef6fece12feda3bb19e52f3fec53a/6513681
-Queercore, Surf Punk, Indie Surf
-8.01
+Act IV: Rebirth in Reprise
+The Dear Hunter
+e.snmc.io/i/300/s/cfd51cb693f0bd7d295877e9f4c4ad76/8685197
+Progressive Rock, Indie Rock, Rock Opera
+7.8
 
 Hier kommt der schwartze Mond
 Valium Aggelein
@@ -790,11 +802,11 @@ e.snmc.io/i/300/s/39ad81c78fdf3a49e59158cc326ba4d1/9199530
 Slowcore, Space Rock, Space Rock Revival
 7.88
 
-Act IV: Rebirth in Reprise
-The Dear Hunter
-e.snmc.io/i/300/s/cfd51cb693f0bd7d295877e9f4c4ad76/8685197
-Progressive Rock, Indie Rock, Rock Opera
-7.84
+Blue Screen Life
+Pinback
+e.snmc.io/i/300/s/f650c209d7a89d4a12c8994bbd9388da/1894166
+Indie Rock
+7.88
 
 Black Sheep Boy
 Okkervil River
@@ -802,17 +814,17 @@ e.snmc.io/i/300/s/21bbaff4bed39d686d43f767e5156f18/1355631
 Indie Rock, Indie Folk
 7.8
 
-Blue Screen Life
-Pinback
-e.snmc.io/i/300/s/f650c209d7a89d4a12c8994bbd9388da/1894166
-Indie Rock
-7.88
-
 The Curtain Hits the Cast
 Low
 e.snmc.io/i/300/s/85a27d797a094650da8baf8ddb22e3a4/6621017
 Slowcore
 7.84
+
+Vivadixiesubmarinetransmissionplot
+Sparklehorse
+e.snmc.io/i/300/s/9bbcdccb11aac20886ffbbcfbb87129c/1207973
+Lo-Fi / Slacker Rock, Indie Rock, Singer-Songwriter
+7.8
 
 Reconstruction Site
 The Weakerthans
@@ -820,23 +832,23 @@ e.snmc.io/i/300/s/2b8d40b9ba5e0f2430545121de92bd18/4724600
 Indie Rock
 7.88
 
-Vivadixiesubmarinetransmissionplot
-Sparklehorse
-e.snmc.io/i/300/s/9bbcdccb11aac20886ffbbcfbb87129c/1207973
-Lo-Fi / Slacker Rock, Indie Rock, Singer-Songwriter
-7.76
+Maggot
+Dazey and the Scouts
+e.snmc.io/i/300/s/982ef6fece12feda3bb19e52f3fec53a/6513681
+Queercore, Surf Punk, Indie Surf
+7.88
+
+It Was Hot, We Stayed in the Water
+The Microphones
+e.snmc.io/i/300/s/0ebbfd187d658009f4745d09347d9277/8964246
+Psychedelic Folk, Indie Folk, Lo-Fi / Slacker Rock
+7.71
 
 Bakesale
 Sebadoh
 e.snmc.io/2.5/img/images/blockedf.png
 Indie Rock
 7.76
-
-It Was Hot, We Stayed in the Water
-The Microphones
-e.snmc.io/i/300/s/0ebbfd187d658009f4745d09347d9277/8964246
-Psychedelic Folk, Indie Folk, Lo-Fi / Slacker Rock
-7.67
 
 Timothy's Monster
 Motorpsycho
@@ -856,23 +868,17 @@ e.snmc.io/i/300/s/6d5071f97ab611605861fc870e760b74/8661405
 Post-Punk Revival, Indie Rock
 7.54
 
-Ventura
-Los Hermanos
-e.snmc.io/i/300/s/6d136c281841826f38592fddd1f7a63f/1221071
-Indie Rock
-7.8
-
 Get to Heaven
 Everything Everything
 e.snmc.io/i/300/s/feaa26d94c650517f4f1456d1a018428/5696775
 Art Pop, Progressive Pop, Indie Rock
 7.63
 
-Home, Like Noplace Is There
-The Hotelier
-e.snmc.io/i/300/s/fafe20e067096bcbc9e662d86d06570a/8010539
-Emo, Midwest Emo
-7.63
+Ventura
+Los Hermanos
+e.snmc.io/i/300/s/6d136c281841826f38592fddd1f7a63f/1221071
+Indie Rock
+7.8
 
 Monomania
 Car Seat Headrest
@@ -880,17 +886,17 @@ e.snmc.io/i/300/s/cc7ea53a1e7f9d37bbab10df4209378d/4956836
 Lo-Fi / Slacker Rock, Singer-Songwriter
 7.76
 
-Source Tags & Codes
-...And You Will Know Us by the Trail of Dead
-e.snmc.io/i/300/s/1e3506c7f13146e19d3537a07bc65e63/8983569
-Indie Rock, Post-Hardcore
-7.63
-
 Bizarro
 The Wedding Present
 e.snmc.io/i/300/s/13f6c9435300ab7352ef7e89a8672a73/1435208
 Indie Rock
 7.84
+
+Source Tags & Codes
+...And You Will Know Us by the Trail of Dead
+e.snmc.io/i/300/s/1e3506c7f13146e19d3537a07bc65e63/8983569
+Indie Rock, Post-Hardcore
+7.63
 
 It Still Moves
 My Morning Jacket
@@ -922,35 +928,29 @@ e.snmc.io/i/300/s/5ee1d6029f9e1dd143222dfe5914f336/1239703
 Experimental Rock, Lo-Fi / Slacker Rock, Neo-Psychedelia, Noise Rock
 7.59
 
-Blissard
-Motorpsycho
-e.snmc.io/i/300/s/f3e57af87e1c3d2da20b2463940d7a22/8611989
-Indie Rock
-7.84
-
-The Power of Failing
-Mineral
-e.snmc.io/i/300/s/0259e1da431beb25493a3d4f8f54f85f/1225873
-Midwest Emo
-7.67
-
 And the Glass Handed Kites
 Mew
 e.snmc.io/i/300/s/64d617d32b0009cf0ab05bf981c213f9/2742707
 Dream Pop, Progressive Pop, Indie Rock
 7.67
 
-Red Apple Falls
-Smog
-e.snmc.io/i/300/s/918eb9819aab8635d74c8aa0fb3f4574/6364727
-Contemporary Folk, Singer-Songwriter, Slowcore
-7.76
-
 Left and Leaving
 The Weakerthans
 e.snmc.io/i/300/s/ca3f8da08a06f957efa17bfd6c13dd45/6295991
 Indie Rock
 7.8
+
+Blissard
+Motorpsycho
+e.snmc.io/i/300/s/f3e57af87e1c3d2da20b2463940d7a22/8611989
+Indie Rock
+7.84
+
+Western Teleport
+Emperor X
+e.snmc.io/i/300/s/08d6f00d44c385b9f88cd5484cc354db/9349594
+Singer-Songwriter, Indie Pop, Indie Rock, Indie Folk
+7.84
 
 Ocean Beach
 Red House Painters

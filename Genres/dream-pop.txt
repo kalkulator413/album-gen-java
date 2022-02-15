@@ -40,6 +40,12 @@ e.snmc.io/i/300/s/8fef2706a43f8c8451718547df311282/6122404
 Dream Pop, Downtempo, Ambient Pop
 8.99
 
+Once Twice Melody
+Beach House
+e.snmc.io/i/300/s/cba2169039c0ad90143c961266ce0668/9473519
+Dream Pop, Neo-Psychedelia
+8.77
+
 Bloom
 Beach House
 e.snmc.io/i/300/s/cb38170daedeae40e637e4a5d469f8f5/4130381
@@ -68,7 +74,7 @@ Long Season '96~7 96.12.26 Akasaka Blitz
 Fishmans
 e.snmc.io/i/300/s/301e8dbf3be1db62671404140d5c150b/6169248
 Dream Pop
-8.65
+8.69
 
 Just for a Day
 Slowdive
@@ -80,7 +86,7 @@ BBC Sessions
 Cocteau Twins
 e.snmc.io/i/300/s/aeed8f00c3e4a0e68cd88bb0b724950c/1632828
 Dream Pop, Ethereal Wave
-8.48
+8.52
 
 Ceres & Calypso in the Deep Time
 Candy Claws
@@ -130,17 +136,17 @@ e.snmc.io/i/300/s/ec9d66b5758ec3085e348f1365fcadf9/1631474
 Dream Pop, Indie Pop
 8.01
 
+Peel Sessions
+Galaxie 500
+e.snmc.io/i/300/s/6eb7b159dc0e398bd4c9518deaca5469/1753602
+Slowcore, Dream Pop
+8.22
+
 In Concert
 iamamiwhoami
 e.snmc.io/i/300/s/02dafb3f4fb7772380764ffa51e57770/4234672
 Electropop, Art Pop, Dream Pop, Post-Industrial
 8.14
-
-Peel Sessions
-Galaxie 500
-e.snmc.io/i/300/s/6eb7b159dc0e398bd4c9518deaca5469/1753602
-Slowcore, Dream Pop
-8.18
 
 Today
 Galaxie 500
@@ -159,6 +165,12 @@ Lily Chou-Chou
 e.snmc.io/i/300/s/34362fb96f0297251f146c6e43866d5a/2906854
 Dream Pop, Film Soundtrack
 7.93
+
+Tender Buttons
+Broadcast
+e.snmc.io/i/300/s/0f2cc6481c14705d44b288cb34546e44/2932282
+Indietronica, Dream Pop
+7.76
 
 Victorialand
 Cocteau Twins
@@ -184,17 +196,17 @@ e.snmc.io/i/300/s/623cfd28f1a84c41250d4a4092371f03/1347596
 Neo-Psychedelia, Dream Pop, Space Rock Revival, Space Rock
 7.71
 
-Slowdive
-Slowdive
-e.snmc.io/i/300/s/4ae127fe803c7c744fa7b5c169c5b9d7/6530580
-Dream Pop, Shoegaze
-7.5
-
 So Tonight That I Might See
 Mazzy Star
 e.snmc.io/i/300/s/6bb12e8e642ffcfe0309e31a880c95cd/2765236
 Dream Pop, Neo-Psychedelia
 7.63
+
+Slowdive
+Slowdive
+e.snmc.io/i/300/s/4ae127fe803c7c744fa7b5c169c5b9d7/6530580
+Dream Pop, Shoegaze
+7.5
 
 The Noise Made by People
 Broadcast
@@ -206,7 +218,7 @@ Dream Pop, Indietronica, Neo-Psychedelia
 空夜coo:ya
 e.snmc.io/i/300/s/afce090e2a83dcb5566d75f1d094a556/6228844
 Dream Pop, Ethereal Wave
-8.22
+8.14
 
 And the Glass Handed Kites
 Mew
@@ -220,6 +232,12 @@ e.snmc.io/i/300/s/2fcfbd562f2e82f5b7491cf401832479/2932280
 Dream Pop, Indietronica, Neo-Psychedelia
 7.67
 
+Copenhagen
+Galaxie 500
+e.snmc.io/i/300/s/2d97fcd4dfc795fc1b250f9fea9984de/4739780
+Dream Pop, Slowcore, Shoegaze
+7.84
+
 m b v
 My Bloody Valentine
 e.snmc.io/i/300/s/61b0ef5e520067ce642dac83dc348a02/9686356
@@ -231,12 +249,6 @@ Beach House
 e.snmc.io/i/300/s/94913b121ddab6826d48027abd9dba52/5713091
 Dream Pop
 7.42
-
-Copenhagen
-Galaxie 500
-e.snmc.io/i/300/s/2d97fcd4dfc795fc1b250f9fea9984de/4739780
-Dream Pop, Slowcore, Shoegaze
-7.8
 
 Lost Souls
 Doves
@@ -254,7 +266,7 @@ Pure Phase
 Spiritualized Electric Mainline
 e.snmc.io/i/300/s/238d69bb589fc83e467ca61379c9c247/2491580
 Neo-Psychedelia, Dream Pop, Space Rock Revival, Space Rock
-7.59
+7.63
 
 A Tiny House, in Secret Speeches, Polar Equals
 Sweet Trip
@@ -268,35 +280,35 @@ e.snmc.io/i/300/s/a138f4554f4dbbadb76707910241704a/9408524
 Dream Pop, Mandopop
 7.54
 
+Priest = Aura
+The Church
+e.snmc.io/i/300/s/76cb8a791ba6595fb43ebac28966dc0c/1951284
+Dream Pop, Jangle Pop
+7.59
+
 Here Comes Everybody
 The Wake
 e.snmc.io/i/300/s/7ecab94571f3aa35d1faa3a879cd25a9/4323510
 Dream Pop, New Wave
 7.59
 
-Priest = Aura
-The Church
-e.snmc.io/i/300/s/76cb8a791ba6595fb43ebac28966dc0c/1951284
-Dream Pop, Jangle Pop
-7.54
-
-De nachten
-Sophia
-e.snmc.io/i/300/s/38ef241ec605672ccd09a75318bf8ee1/1248717
-Dream Pop, Slowcore
-7.8
-
 Lonely Is an Eyesore
 Various Artists
 e.snmc.io/i/300/s/6c8540887f3115473a9cc494f8f93bcb/4829026
 Post-Punk, Dream Pop, Darkwave
-7.59
+7.63
 
 Peripheral Vision
 Turnover
 e.snmc.io/i/300/s/895eb4b9899f138713e5d8da52464210/5621428
 Indie Rock, Dream Pop
 7.46
+
+De nachten
+Sophia
+e.snmc.io/i/300/s/38ef241ec605672ccd09a75318bf8ee1/1248717
+Dream Pop, Slowcore
+7.8
 
 Amor amarillo
 Gustavo Cerati
@@ -316,23 +328,23 @@ e.snmc.io/i/300/s/b474ea237a6dc28fb0bacd168fbdcfd2/1853993
 Dream Pop
 7.5
 
-It'll End in Tears
-This Mortal Coil
-e.snmc.io/i/300/s/10925dc896b7c0309a4166e892f9e8c3/2781839
-Dream Pop, Ethereal Wave
-7.37
-
 Purple
 Spangle call Lilli line
 e.snmc.io/i/300/s/06d8145f0713cf780ae42c7c8401ddb3/2482347
 Dream Pop
 7.71
 
-Moondiver
-Tokyo Shoegazer
-e.snmc.io/i/300/s/cf4f52c2e15230614f0dffac723e7d0d/7897304
+It'll End in Tears
+This Mortal Coil
+e.snmc.io/i/300/s/10925dc896b7c0309a4166e892f9e8c3/2781839
+Dream Pop, Ethereal Wave
+7.37
+
+Dormitorio
+Giradioses
+e.snmc.io/i/300/s/2046600eb422cf5cdbf88c2e7815748a/6264139
 Shoegaze, Dream Pop
-7.63
+7.88
 
 She Hangs Brightly
 Mazzy Star
@@ -340,11 +352,11 @@ e.snmc.io/i/300/s/36a04e0f7e1d13a0175d48969a0f08e6/1858387
 Dream Pop, Alt-Country, Neo-Psychedelia
 7.42
 
-Dormitorio
-Giradioses
-e.snmc.io/i/300/s/2046600eb422cf5cdbf88c2e7815748a/6264139
+Moondiver
+Tokyo Shoegazer
+e.snmc.io/i/300/s/cf4f52c2e15230614f0dffac723e7d0d/7897304
 Shoegaze, Dream Pop
-7.88
+7.63
 
 23
 Blonde Redhead
@@ -370,23 +382,29 @@ e.snmc.io/i/300/s/29230017e25642e195a53fe2b4c23485/8462681
 Alternative Rock, Pop Rock, Dream Pop
 7.29
 
-Love
-斉藤由貴
-e.snmc.io/i/300/s/02156053426903d846948e412ae39082/9527725
-J-Pop, Idol kayō, Dream Pop
-7.42
-
 The World Is Saved
 Stina Nordenstam
 e.snmc.io/i/300/s/277f2b3455bcf7763a8eaa8833cc03de/8959031
 Singer-Songwriter, Dream Pop, Art Pop
 7.46
 
-Excerpts From a Love Circus
-Lisa Germano
-e.snmc.io/i/300/s/ea6490ed2cfeadded8218d5dff64aaf7/2579658
-Dream Pop, Singer-Songwriter, Slowcore
+Love
+斉藤由貴
+e.snmc.io/i/300/s/02156053426903d846948e412ae39082/9527725
+J-Pop, Idol kayō, Dream Pop
+7.42
+
+Marked for Death
+Emma Ruth Rundle
+e.snmc.io/i/300/s/bed2b8c441784578aa4c43395bf974e1/6198632
+Singer-Songwriter, Dream Pop
 7.37
+
+Filigree & Shadow
+This Mortal Coil
+e.snmc.io/i/300/s/5619655e685b3f13ad812313caa85553/3378559
+Dream Pop, Ethereal Wave
+7.33
 
 Live in Italy
 Cranes
@@ -394,17 +412,11 @@ e.snmc.io/i/300/s/0afa1d496c5675b59b77df29e90325b7/1820762
 Dream Pop
 7.93
 
-Marked for Death
-Emma Ruth Rundle
-e.snmc.io/i/300/s/bed2b8c441784578aa4c43395bf974e1/6198632
-Singer-Songwriter, Dream Pop
-7.33
-
-Filigree & Shadow
-This Mortal Coil
-e.snmc.io/i/300/s/5619655e685b3f13ad812313caa85553/3378559
-Dream Pop, Ethereal Wave
-7.33
+Excerpts From a Love Circus
+Lisa Germano
+e.snmc.io/i/300/s/ea6490ed2cfeadded8218d5dff64aaf7/2579658
+Dream Pop, Singer-Songwriter, Slowcore
+7.37
 
 Orange
 Orange
@@ -417,6 +429,12 @@ Kitchens of Distinction
 e.snmc.io/i/300/s/2dfd060d95dfceebdbe60c26d0b511b6/1398578
 Shoegaze, Dream Pop
 7.37
+
+Like Author, Like Daughter
+Midwife
+e.snmc.io/i/300/s/351e4b00f3f565b8a023bb8727d36c98/6628615
+Slowcore, Dream Pop
+7.42
 
 Snowball
 The Field Mice
@@ -442,12 +460,6 @@ e.snmc.io/i/300/s/a851b86947c55d01c909b1f04c7a921a/1429781
 Dream Pop, Art Rock
 7.37
 
-Like Author, Like Daughter
-Midwife
-e.snmc.io/i/300/s/351e4b00f3f565b8a023bb8727d36c98/6628615
-Slowcore, Dream Pop
-7.42
-
 Different Stars
 Trespassers William
 e.snmc.io/i/300/s/08313ee335998b2deeb8949c64a530d4/3061805
@@ -460,23 +472,23 @@ e.snmc.io/i/300/s/a0b020a6cbb5ab0e13f9c2eb1cf966d5/1614809
 Dream Pop, Art Pop
 7.42
 
-And She Closed Her Eyes
-Stina Nordenstam
-e.snmc.io/i/300/s/95e42fe391193d905180ab2ade44f698/2202648
-Singer-Songwriter, Dream Pop
-7.29
-
 Split
 Lush
 e.snmc.io/i/300/s/5b2a4270f249a6744d3025a77eb055f8/9627011
 Shoegaze, Dream Pop
 7.25
 
-...Lo que va a encandilar es el día
-Jaime Sin Tierra
-e.snmc.io/i/300/s/1eeb5c430c1fb4e6408ffec7dc196082/4817605
-Indie Pop, Dream Pop
-7.71
+And She Closed Her Eyes
+Stina Nordenstam
+e.snmc.io/i/300/s/95e42fe391193d905180ab2ade44f698/2202648
+Singer-Songwriter, Dream Pop
+7.29
+
+Four-Calendar Café
+Cocteau Twins
+e.snmc.io/i/300/s/cc59b75fbf59f712e51f72fc977d1da6/7609381
+Dream Pop
+7.25
 
 Ask Me Tomorrow
 Mojave 3
@@ -490,12 +502,6 @@ e.snmc.io/i/300/s/d0c09309b33a995fd0aa4d9d82eda790/4821753
 Dream Pop, Slowcore
 7.33
 
-Four-Calendar Café
-Cocteau Twins
-e.snmc.io/i/300/s/cc59b75fbf59f712e51f72fc977d1da6/7609381
-Dream Pop
-7.25
-
 December
 For Against
 e.snmc.io/i/300/s/ae3ace0bfaa33b94d01a19cd0b57c83a/2591404
@@ -508,11 +514,11 @@ e.snmc.io/i/300/s/83e5b4e742ee4f462dbba6cbe7b7947b/5068979
 Indie Pop, Dream Pop
 7.5
 
-Artists' Rifles
-Piano Magic
-e.snmc.io/i/300/s/18153305a7555416f7fd0ca11a2f33fb/7637988
-Dream Pop, Indie Rock
-7.33
+No One Waved Goodbye
+Tacoma Radar
+e.snmc.io/i/300/s/8bb7b6b0a3dbaf1bbb12a0556e99a57b/2443594
+Slowcore, Dream Pop
+7.37
 
 Summer Sun
 Yo La Tengo
@@ -520,11 +526,23 @@ e.snmc.io/i/300/s/14a41981718aa5e4381526f92b3f44de/1604353
 Indie Pop, Dream Pop
 7.25
 
+Artists' Rifles
+Piano Magic
+e.snmc.io/i/300/s/18153305a7555416f7fd0ca11a2f33fb/7637988
+Dream Pop, Indie Rock
+7.33
+
 Sit Down and Listen to Hooverphonic
 Hooverphonic
 e.snmc.io/i/300/s/302552c57e4f47c30fa17904eecaf02f/9095196
 Dream Pop, Chamber Pop
 7.42
+
+...Lo que va a encandilar es el día
+Jaime Sin Tierra
+e.snmc.io/i/300/s/1eeb5c430c1fb4e6408ffec7dc196082/4817605
+Indie Pop, Dream Pop
+7.71
 
 Halica: Bliss Out v.11
 Sweet Trip
@@ -532,23 +550,17 @@ e.snmc.io/i/300/s/61678b4d36e9eb2894f331b99567f0ad/2284914
 Ambient Techno, Dream Pop, Ambient Pop
 7.25
 
+Home
+Polaris
+e.snmc.io/i/300/s/779f608495a22bfefa3064a68575e691/2144460
+Dream Pop, Indie Pop, Neo-Psychedelia
+7.37
+
 Sintética
 Nudozurdo
 e.snmc.io/i/300/s/dacfc80b528000361e80175110e0b1dd/2404414
 Post-Punk Revival, Dream Pop
 7.42
-
-No One Waved Goodbye
-Tacoma Radar
-e.snmc.io/i/300/s/8bb7b6b0a3dbaf1bbb12a0556e99a57b/2443594
-Slowcore, Dream Pop
-7.37
-
-Tomorrow Is Again
-The Relict
-e.snmc.io/i/300/s/0ca72986834cc8eddbc691587fafed61/2045482
-Dream Pop, Indie Pop
-7.84
 
 Fête foraine
 The Apartments
@@ -556,23 +568,23 @@ e.snmc.io/i/300/s/4f20e173125590753cd720ca9e33d2a6/1377978
 Chamber Pop, Dream Pop
 7.63
 
-Forever
-Cranes
-e.snmc.io/i/300/s/9a9a826103d6a78a8140b8a9649b1e86/1223227
-Dream Pop
-7.25
-
 Pet Grief
 The Radio Dept.
 e.snmc.io/i/300/s/9d9ddebf22a94d774eae846b4bc05eac/4878086
 Dream Pop, Indie Pop, Synthpop
 7.2
 
-Home
-Polaris
-e.snmc.io/i/300/s/779f608495a22bfefa3064a68575e691/2144460
-Dream Pop, Indie Pop, Neo-Psychedelia
+Diminuendo
+Lowlife
+e.snmc.io/i/300/s/c7aae4a7096ad24d1a8d67efb6a755c8/3148987
+Post-Punk, Dream Pop, Ethereal Wave
 7.33
+
+Forever
+Cranes
+e.snmc.io/i/300/s/9a9a826103d6a78a8140b8a9649b1e86/1223227
+Dream Pop
+7.25
 
 Bahama
 Arnold
@@ -586,23 +598,23 @@ e.snmc.io/i/300/s/c9f290d52ab66f838fb0d5aa72e41467/3739870
 Dream Pop, Art Pop, Neo-Psychedelia
 7.29
 
+Tomorrow Is Again
+The Relict
+e.snmc.io/i/300/s/0ca72986834cc8eddbc691587fafed61/2045482
+Dream Pop, Indie Pop
+7.8
+
 Happiness
 Lisa Germano
 e.snmc.io/i/300/s/78a67c4cde8e51b31b79afccf317336b/4619711
 Singer-Songwriter, Dream Pop
 7.25
 
-Diminuendo
-Lowlife
-e.snmc.io/i/300/s/c7aae4a7096ad24d1a8d67efb6a755c8/3148987
-Post-Punk, Dream Pop, Ethereal Wave
+Love Songs for the Chemical Generation
+Daniel Land & The Modern Painters
+e.snmc.io/i/300/s/9fda3e9fc7c8eb9b6e2e437a31ff15bf/2851581
+Dream Pop, Shoegaze
 7.29
-
-Euphoria
-Insides
-e.snmc.io/i/300/s/69c81703f3aa2a83a88368f97ea9d130/1213631
-Ambient Pop, Dream Pop, Indietronica
-7.2
 
 Old
 Starflyer 59
@@ -616,11 +628,11 @@ e.snmc.io/i/300/s/97e491f9498ca0ca399c551d677878af/5950425
 Dream Pop, Psychedelic Pop
 7.42
 
-Love Songs for the Chemical Generation
-Daniel Land & The Modern Painters
-e.snmc.io/i/300/s/9fda3e9fc7c8eb9b6e2e437a31ff15bf/2851581
-Dream Pop, Shoegaze
-7.25
+Euphoria
+Insides
+e.snmc.io/i/300/s/69c81703f3aa2a83a88368f97ea9d130/1213631
+Ambient Pop, Dream Pop, Indietronica
+7.2
 
 The Voice of Love
 Julee Cruise
@@ -628,16 +640,28 @@ e.snmc.io/i/300/s/32ccbd324017e699b1161651ec9279a0/4247469
 Ambient Pop, Dream Pop
 7.25
 
+Glitter
+Pasteboard
+e.snmc.io/i/300/s/00639463d329ebc1cadcb85f409ea890/8276475
+Dream Pop
+7.25
+
+Sounds of the Satellites
+Laika
+e.snmc.io/i/300/s/a81943f42bf49cad33f16ba2184ddd97/1647467
+Trip Hop, Dream Pop, Electronic
+7.16
+
 Together We're Stranger
 No-Man
 e.snmc.io/i/300/s/5e1cb1db75b3124d0aaeba1c7b961fc9/1439447
 Dream Pop, Ambient Pop
 7.2
 
-Glitter
-Pasteboard
-e.snmc.io/i/300/s/00639463d329ebc1cadcb85f409ea890/8276475
-Dream Pop
+Sargasso Sea
+Pram
+e.snmc.io/i/300/s/881bf1a156813da9e94b5e8217cf2d6e/1417408
+Neo-Psychedelia, Dream Pop
 7.25
 
 Leave Here a Stranger
@@ -646,35 +670,11 @@ e.snmc.io/i/300/s/8e36cfd6fa4dfcb4b504ea2536c2744b/4687905
 Dream Pop, Indie Rock, Indie Pop
 7.33
 
-Sounds of the Satellites
-Laika
-e.snmc.io/i/300/s/a81943f42bf49cad33f16ba2184ddd97/1647467
-Trip Hop, Dream Pop, Electronic
-7.16
-
-Sargasso Sea
-Pram
-e.snmc.io/i/300/s/881bf1a156813da9e94b5e8217cf2d6e/1417408
-Neo-Psychedelia, Dream Pop
-7.25
-
-Melting Moment
-Poison Girl Friend
-e.snmc.io/i/300/s/4ce11a75773c226150faac196664454e/7048436
-Trip Hop, Art Pop, Dream Pop
-7.2
-
 Dream It Down
 Underground Lovers
 e.snmc.io/i/300/s/c8901f59726198e7ebcc8c8efedbd024/1305261
 Dream Pop
 7.42
-
-Low Birth Weight
-Piano Magic
-e.snmc.io/i/300/s/0eb285adbed2ffded955e5ab7cdb30bf/1230504
-Dream Pop
-7.2
 
 Citrus
 Asobi Seksu
@@ -682,11 +682,29 @@ e.snmc.io/i/300/s/9a39b6e3e89c9078e8d2fbdd15025c5b/8981399
 Shoegaze, Dream Pop
 7.03
 
+Melting Moment
+Poison Girl Friend
+e.snmc.io/i/300/s/4ce11a75773c226150faac196664454e/7048436
+Trip Hop, Art Pop, Dream Pop
+7.2
+
+Low Birth Weight
+Piano Magic
+e.snmc.io/i/300/s/0eb285adbed2ffded955e5ab7cdb30bf/1230504
+Dream Pop
+7.2
+
 El naval
 Mus
 e.snmc.io/i/300/s/5a51bca2e3eb7653e35c8925d0ffe676/2164115
 Dream Pop
 7.46
+
+High Ball Me!
+Moose
+e.snmc.io/i/300/s/304dc976dd1fbdf8e9be5d78ef88ec7a/1230829
+Dream Pop
+7.37
 
 Saturdays = Youth
 M83
@@ -694,21 +712,21 @@ e.snmc.io/i/300/s/59e3f65154c8144c38e10718f87ff520/2242152
 Dream Pop
 6.99
 
-Stars on E.S.P.
-His Name Is Alive
-e.snmc.io/i/300/s/302f622c3b87345a7cc241201a3b7087/2115851
-Dream Pop, Indie Pop
-7.25
-
 Echelons
 For Against
 e.snmc.io/i/300/s/48e75763023e933353c224ea25e0d536/2326864
 Post-Punk, Dream Pop
 7.25
 
-Soita mulle
-Regina
-e.snmc.io/i/300/s/2d8591b9a4a7f1fd0959b772ae9a3901/3813116
+8月の現状 (8-gatsu no genjō)
+フィッシュマンズ
+e.snmc.io/i/300/s/c2ccb5d18dd2a5a3ec53b5bd9a29c569/2083194
+Dream Pop, Ambient Pop, Neo-Psychedelia
+7.25
+
+Stars on E.S.P.
+His Name Is Alive
+e.snmc.io/i/300/s/302f622c3b87345a7cc241201a3b7087/2115851
 Dream Pop, Indie Pop
 7.25
 
@@ -718,23 +736,23 @@ e.snmc.io/i/300/s/7e5eeda7fe8738d4a0d6c5bb3c61675f/1923799
 Dream Pop, Jangle Pop, Twee Pop
 7.12
 
-Wings of Joy
-Cranes
-e.snmc.io/i/300/s/b8c2c5b4e084e3188a8f9a8be379c470/1693017
-Dream Pop, Gothic Rock, Ethereal Wave
-7.12
-
 Between Happiness and Heartache
 Breathless
 e.snmc.io/i/300/s/dcb27ca83067930de1873daa48f225c0/1225811
 Post-Punk, Dream Pop
 7.25
 
-High Ball Me!
-Moose
-e.snmc.io/i/300/s/304dc976dd1fbdf8e9be5d78ef88ec7a/1230829
-Dream Pop
-7.37
+Soita mulle
+Regina
+e.snmc.io/i/300/s/2d8591b9a4a7f1fd0959b772ae9a3901/3813116
+Dream Pop, Indie Pop
+7.2
+
+Wings of Joy
+Cranes
+e.snmc.io/i/300/s/b8c2c5b4e084e3188a8f9a8be379c470/1693017
+Dream Pop, Gothic Rock, Ethereal Wave
+7.12
 
 Ceres & Calypso Instrumentals in Dual Mono
 Candy Claws
@@ -754,11 +772,23 @@ e.snmc.io/i/300/s/80b6533310969f83d9f09e75c4a79e6d/2733260
 Indie Pop, Dream Pop, Alt-Pop
 6.7
 
+The Ocean Blue
+The Ocean Blue
+e.snmc.io/i/300/s/b5ed308d8c278f047a13ff3dd1d624be/1451894
+Jangle Pop, Dream Pop
+7.16
+
 Green to Blue
 Breathless
 e.snmc.io/i/300/s/2ea3c6d83e23bfecf2899412a3615b46/4464475
 Dream Pop, Ethereal Wave
 7.33
+
+Live a Little, Love a Lot
+Moose
+e.snmc.io/i/300/s/c8e2e7860ac7c3ef0c7d58e091865208/3092658
+Dream Pop, Alternative Rock
+7.25
 
 Clinging to a Scheme
 The Radio Dept.
@@ -766,34 +796,22 @@ e.snmc.io/i/300/s/ccde89003574bc379f5023098ec5a65d/3397003
 Dream Pop, Indie Pop
 6.99
 
-The Ocean Blue
-The Ocean Blue
-e.snmc.io/i/300/s/b5ed308d8c278f047a13ff3dd1d624be/1451894
-Jangle Pop, Dream Pop
-7.16
-
-8月の現状 (8-gatsu no genjō)
-フィッシュマンズ
-e.snmc.io/i/300/s/c2ccb5d18dd2a5a3ec53b5bd9a29c569/2083194
-Dream Pop, Ambient Pop, Neo-Psychedelia
-7.16
-
 This Is Our Music
 Galaxie 500
 e.snmc.io/i/300/s/b5626e86dcd522fe55a77e95b7b4c0d5/1420259
 Slowcore, Dream Pop
 7.03
 
+Devotion
+Beach House
+e.snmc.io/i/300/s/85ef1f63b7939f718bdbec68da839df8/2418462
+Dream Pop, Indie Pop
+6.91
+
 A New Stereophonic Sound Spectacular
 Hooverphonic
 e.snmc.io/i/300/s/a2c13f33bda9f2609090afca4b363c96/8996238
 Trip Hop, Dream Pop
-7.12
-
-Some Heavy Ocean
-Emma Ruth Rundle
-e.snmc.io/i/300/s/746526bfea6a158f10ef00748ca6a053/5182027
-Contemporary Folk, Dream Pop, Singer-Songwriter
 7.12
 
 North Pole Radio Station
@@ -802,16 +820,10 @@ e.snmc.io/i/300/s/bf16f20dcf0f333c1a6be065d628e052/9432427
 Neo-Psychedelia, Dream Pop
 7.16
 
-Devotion
-Beach House
-e.snmc.io/i/300/s/85ef1f63b7939f718bdbec68da839df8/2418462
-Dream Pop, Indie Pop
-6.91
-
-Home Is in Your Head
-His Name Is Alive
-e.snmc.io/i/300/s/07aff5eff341d5f407131f7242ad2139/1207543
-Dream Pop, Experimental Rock
+In Ribbons
+Pale Saints
+e.snmc.io/i/300/s/4e96840832fb38ed5f998ded00ec2428/1257189
+Shoegaze, Dream Pop
 7.08
 
 Hitch on the Leaves
@@ -819,6 +831,18 @@ Gaslight Radio
 e.snmc.io/i/300/s/49f65dc950ac48a979f36eda3b32dd8e/1272151
 Indie Rock, Dream Pop
 7.63
+
+Chasing Promises
+Breathless
+e.snmc.io/i/300/s/3ad7bddbd15648a808aa49925d4e6abd/1581664
+Post-Punk, Dream Pop
+7.16
+
+Some Heavy Ocean
+Emma Ruth Rundle
+e.snmc.io/i/300/s/746526bfea6a158f10ef00748ca6a053/5182027
+Contemporary Folk, Dream Pop, Singer-Songwriter
+7.08
 
 Blue Skied an' Clear
 Various Artists
@@ -838,10 +862,10 @@ e.snmc.io/i/300/s/5ae8e9366fe61c2a292fd31c9bd2dbf6/5342907
 Dream Pop, Electronic, Synthpop
 6.99
 
-In Ribbons
-Pale Saints
-e.snmc.io/i/300/s/4e96840832fb38ed5f998ded00ec2428/1257189
-Shoegaze, Dream Pop
+Home Is in Your Head
+His Name Is Alive
+e.snmc.io/i/300/s/07aff5eff341d5f407131f7242ad2139/1207543
+Dream Pop, Experimental Rock
 7.08
 
 Last Light
@@ -856,29 +880,23 @@ e.snmc.io/i/300/s/c253411c67f836db9d098d2a5c5a6ce1/7151959
 Singer-Songwriter, Dream Pop
 7.08
 
-Chasing Promises
-Breathless
-e.snmc.io/i/300/s/3ad7bddbd15648a808aa49925d4e6abd/1581664
-Post-Punk, Dream Pop
-7.16
+Peng!
+Stereolab
+e.snmc.io/i/300/s/7e0976f208dc0281f34ea73df0b3ccf2/2606745
+Noise Pop, Dream Pop
+7.03
 
-Live a Little, Love a Lot
-Moose
-e.snmc.io/i/300/s/c8e2e7860ac7c3ef0c7d58e091865208/3092658
-Dream Pop, Alternative Rock
-7.25
+Loveheart
+Merz
+e.snmc.io/i/300/s/47faf1b9c6a070059b28564a9b09ff15/1575647
+Indie Pop, Dream Pop
+7.16
 
 The Coldest Winter for a Hundred Years
 The Wild Swans
 e.snmc.io/i/300/s/65585317fe2f4a0ef1aac93c065fa821/3725149
 Jangle Pop, Dream Pop
 7.29
-
-Peng!
-Stereolab
-e.snmc.io/i/300/s/7e0976f208dc0281f34ea73df0b3ccf2/2606745
-Noise Pop, Dream Pop
-6.99
 
 Mouth by Mouth
 His Name Is Alive
@@ -892,23 +910,11 @@ e.snmc.io/i/300/s/8e38b38e0b5899c2015c4465e81ac359/5643148
 Dream Pop, Ethereal Wave
 7.16
 
-Magenta Skycode
-This Empty Flow
-e.snmc.io/i/300/s/5447ecc020f3fd3eedc99ca2ec9f198e/2068001
-Gothic Rock, Dream Pop
-7.2
-
 Shimmering, Warm & Bright
 Bel Canto
 e.snmc.io/i/300/s/08b04c219052ff0b9903f094ea70bdb7/2443976
 Ethereal Wave, Dream Pop, Synthpop
 7.03
-
-Loveheart
-Merz
-e.snmc.io/i/300/s/47faf1b9c6a070059b28564a9b09ff15/1575647
-Indie Pop, Dream Pop
-7.16
 
 Coalesced
 For Against
@@ -916,41 +922,35 @@ e.snmc.io/i/300/s/55cdf42a0c1f4a6bbad64e9776ce7000/1695659
 Dream Pop, Jangle Pop
 7.2
 
-Forest at the Head of a River
-Spangle call Lilli line
-e.snmc.io/i/300/s/0cc2c74e1997949fefaf3d71ddf30fcc/3004165
-Post-Rock, Indie Rock, Dream Pop
-7.46
-
-Með suð í eyrum við spilum endalaust
-Sigur Rós
-e.snmc.io/2.5/img/images/blockedf.png
-Dream Pop, Post-Rock
-6.87
-
 Волшебство
 Flёur
 e.snmc.io/i/300/s/d35115a41bbd785c351b4ff2d2d75feb/2331487
 Dream Pop, Contemporary Folk, Art Pop, Chamber Folk
 7.03
 
+Forest at the Head of a River
+Spangle call Lilli line
+e.snmc.io/i/300/s/0cc2c74e1997949fefaf3d71ddf30fcc/3004165
+Post-Rock, Indie Rock, Dream Pop
+7.46
+
 Cosodorokitsune
 Shojoskip
 e.snmc.io/i/300/s/f35f618391f596d0463295e574f6cea1/4650831
 Shoegaze, Dream Pop
-7.03
+7.08
 
-One
-Riverside
-e.snmc.io/i/300/s/8853580f226c464f06ce2ac8ba77f186/1334854
-Jangle Pop, Dream Pop
-7.25
+Magenta Skycode
+This Empty Flow
+e.snmc.io/i/300/s/5447ecc020f3fd3eedc99ca2ec9f198e/2068001
+Gothic Rock, Dream Pop
+7.16
 
-Jubilee Twist
-The Heart Throbs
-e.snmc.io/i/300/s/ad020d0d20c85dd79ec44f1f1edc6300/2010522
-Dream Pop, Indie Pop, Shoegaze
-7.37
+Með suð í eyrum við spilum endalaust
+Sigur Rós
+e.snmc.io/2.5/img/images/blockedf.png
+Dream Pop, Post-Rock
+6.87
 
 Time and the Maiden
 Claire Voyant
