@@ -44,7 +44,10 @@ class Albums extends JFrame {
         "Punk", 
         "Blues", 
         "Jazz", 
-        "Screamo"};
+        "Screamo",
+        "Sophisti-Pop",
+        "Industrial-Rock"
+      };
 
   public static void main(String[] args) throws IOException {
 
@@ -307,10 +310,13 @@ class Albums extends JFrame {
           String rating = c.substring(c.indexOf(">") + 1);
           rating = fixString(rating);
 
-          Double r = 1.5 + 2 * Double.parseDouble(rating);
+          Double r = -7.89 + 4.24 * Double.parseDouble(rating);
           r = Math.round(100 * r)/ 100.0;
           if (r > 10.0) {
             r = 10.0;
+          }
+          if (r < 0) {
+            r = 0.0;
           }
           rating = Double.toString(r);
 
@@ -504,21 +510,30 @@ class Albums extends JFrame {
 
       double r = Double.parseDouble(getRating(randoms.get(i)));
 
-      int red = 1000 - (int) (100 * r);
+      int red = 550 - (int) (55 * r);
       if (red > 255)
         red = 255;
       
-      int green = -745 + (int) (100 * r);
+      int green = -295 + (int) (55 * r);
       if (green < 0)
         green = 0;
 
+      double ratio = 255.0 / green;
+      red = (int) (ratio * red);
+      green = 255;
+      if (red > 255)
+        red = 255;
+
+
       if (getTitle(randoms.get(i)).equals("E·MO·TION"))
-        g.setColor(new Color(255, 215, 0));
+        g.setColor(new Color(252, 84, 255));
       else
         g.setColor(new Color(red, green, 0));
 
+      g.setFont(new Font("MONOSPACED", Font.BOLD, 13));
       g.drawString(getRating(randoms.get(i)), 110 + (int) (getGenres(randoms.get(i)).length() * 13 * ((0.5 + 0.75)/2 + 0.75)/2), 80 + i * 70);
       g.setColor(Color.WHITE);
+      g.setFont(new Font("MONOSPACED", 0, 13));
 
       //images
       g.fillRect(9, 34+i*70, 52, 52);

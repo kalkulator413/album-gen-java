@@ -168,10 +168,13 @@ public class Printer{
           String rating = c.substring(c.indexOf(">") + 1);
           rating = fixString(rating);
 
-          Double r = 1.5 + 2 * Double.parseDouble(rating);
+          Double r = -7.89 + 4.24 * Double.parseDouble(rating);
           r = Math.round(100 * r)/ 100.0;
           if (r > 10.0) {
             r = 10.0;
+          }
+          if (r < 0) {
+            r = 0.0;
           }
           rating = Double.toString(r);
 
