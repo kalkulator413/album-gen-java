@@ -260,15 +260,21 @@ class Albums extends JFrame {
     File file = new File("./Genres/" + fileName);
 
     Scanner sc = new Scanner(file);
-    for (int i = 0; i < 120; i ++) {
-      String title = sc.nextLine();
-      String artist = sc.nextLine();
-      String image = sc.nextLine();
-      String genres = sc.nextLine();
-      String rating = sc.nextLine();
-      sc.nextLine();
+    while (sc.hasNext()) {
 
-      albums.add(album(title, artist, rating, image, genres));
+      try {
+        String title = sc.nextLine();
+        String artist = sc.nextLine();
+        String image = sc.nextLine();
+        String genres = sc.nextLine();
+        String rating = sc.nextLine();
+        sc.nextLine();
+
+        albums.add(album(title, artist, rating, image, genres));
+      } catch(Exception e) {
+        System.out.print(e);
+      }
+
     }
   }
 
