@@ -57,8 +57,30 @@ class Albums extends JFrame {
     DefaultListModel<String> genre = new DefaultListModel<>(); 
     JList<String> list1 = new JList<>(genre);
     JButton bStart =new JButton("Generate");
+    JButton offlineButton =new JButton("Go Offline");
+    JButton onlineButton =new JButton("Go Online");
 
-    selectionScreen(start, list1, bStart, genre);
+    selectionScreen(start, list1, bStart, genre, offlineButton, onlineButton);
+
+    offlineButton.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        LIVE = false;
+        start.remove(offlineButton);
+        start.setVisible(false);
+        start.add(onlineButton);
+        start.setVisible(true);
+      }
+    });
+
+    onlineButton.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        LIVE = true;
+        start.remove(onlineButton);
+        start.setVisible(false);
+        start.add(offlineButton);
+        start.setVisible(true);
+      }
+    });
 
     bStart.addActionListener(new ActionListener() {
               public void actionPerformed(ActionEvent e) {
@@ -139,7 +161,7 @@ class Albums extends JFrame {
     return album[4];
   }
 
-  public static void selectionScreen(JFrame start, JList<String> list1, JButton bStart, DefaultListModel<String> genre) {
+  public static void selectionScreen(JFrame start, JList<String> list1, JButton bStart, DefaultListModel<String> genre, JButton offlineButton, JButton onlineButton) {
     start.setSize(900, 660);
 
     for (String s : genreTypes) {
@@ -151,7 +173,21 @@ class Albums extends JFrame {
 
     bStart.setBounds(500,275,100,50);
     bStart.setBackground(new Color(30, 30, 30));
+    bStart.setForeground(Color.WHITE);
     start.add(bStart);
+
+    offlineButton.setBounds(500, 350, 100, 50);
+    offlineButton.setBackground(new Color(30, 30, 30));
+    offlineButton.setForeground(Color.WHITE);
+
+    onlineButton.setBounds(500, 350, 100, 50);
+    onlineButton.setBackground(new Color(30, 30, 30));
+    onlineButton.setForeground(Color.WHITE);
+
+    if(LIVE)
+      start.add(offlineButton);
+    else
+      start.add(onlineButton);
 
     final JLabel label = new JLabel("Select Genre:");          
     label.setBounds(400, 150, 100, 50);
@@ -437,6 +473,8 @@ class Albums extends JFrame {
 
     JButton rStart = new JButton("New Genre");
     rStart.setBounds(775, 65, 110, 50);
+    rStart.setBackground(new Color(30, 30, 30));
+    rStart.setForeground(Color.WHITE);
     rStart.addActionListener(new ActionListener(){  
       public void actionPerformed(ActionEvent e){ 
             test.setVisible(false);
@@ -456,6 +494,8 @@ class Albums extends JFrame {
 
     JButton b = new JButton("New Albums");
     b.setBounds(775, 5, 110, 50);
+    b.setBackground(new Color(30, 30, 30));
+    b.setForeground(Color.WHITE);
     b.addActionListener(new ActionListener(){  
       public void actionPerformed(ActionEvent e){ 
             for (int i = 0; i < randoms.size(); i=i) {
@@ -468,16 +508,17 @@ class Albums extends JFrame {
             test.add(b);
             test.add(rStart);
 
-          test.setLayout(null);
-          test.setVisible(true);
+            test.setLayout(null);
+            test.setVisible(true);
         }  
     });
 
+    // test.getContentPane().setBackground(new Color(30, 30, 30));
+
     test.add(b);
     test.add(rStart);
-
-    test.getContentPane().setBackground(new Color(30, 30, 30));
     test.setLayout(null);
+
     test.setVisible(true);
   }
 

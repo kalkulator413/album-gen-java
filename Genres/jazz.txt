@@ -40,17 +40,17 @@ e.snmc.io/i/300/s/54eae84f07402a854794a11dd700b3cb/5397244
 Jazz-Rock, Jazz Fusion
 9.32
 
-Karma
-Pharoah Sanders
-e.snmc.io/i/300/s/afe4157494eb80bb1de18526da07fca0/5046036
-Spiritual Jazz
-9.58
-
 The Olatunji Concert: The Last Live Recording
 John Coltrane
 e.snmc.io/i/300/s/f283d82b17723d399340a358b5f1464c/8249791
 Free Jazz
 9.75
+
+Karma
+Pharoah Sanders
+e.snmc.io/i/300/s/afe4157494eb80bb1de18526da07fca0/5046036
+Spiritual Jazz
+9.54
 
 My Favorite Things
 John Coltrane
@@ -74,7 +74,7 @@ The Cellar Door Sessions 1970
 Miles Davis
 e.snmc.io/i/300/s/d3d0a7dbab3171dc73d33efcc73a842d/5489268
 Jazz Fusion
-9.79
+9.83
 
 Dark Magus
 Miles Davis
@@ -100,12 +100,6 @@ e.snmc.io/i/300/s/0d597171c6c4f266637ca6f4328bd1a2/2187844
 ECM Style Jazz
 9.62
 
-Blue Train
-John Coltrane
-e.snmc.io/i/300/s/e2b9f75f2e78b4c9d89a993baf1394c4/7974566
-Hard Bop
-9.15
-
 At the Mountains of Madness
 Electric Masada
 e.snmc.io/i/300/s/3123dafa6abd087bd1b2248298382011/5187589
@@ -117,6 +111,12 @@ Miles Davis
 e.snmc.io/i/300/s/d8d4020cfa14b6aa6038c5e5aa10f81a/2098703
 Jazz Fusion
 9.54
+
+Blue Train
+John Coltrane
+e.snmc.io/i/300/s/e2b9f75f2e78b4c9d89a993baf1394c4/7974566
+Hard Bop
+9.15
 
 A Charlie Brown Christmas
 Vince Guaraldi
@@ -142,23 +142,17 @@ e.snmc.io/2.5/img/images/blockedf.png
 Jazz Fusion
 9.32
 
-Get Up With It
-Miles Davis
-e.snmc.io/i/300/s/eb6de05c059c90237c34214ba8bf9b4b/3273759
-Jazz Fusion, Jazz-Funk
-9.2
-
 Blues & Roots
 Charlie Mingus
 e.snmc.io/i/300/s/92896e43baf7f085d7f034930269964c/3842798
 Post-Bop
 9.2
 
-Mingus at Antibes
-Charles Mingus
-e.snmc.io/i/300/s/2be3b06a7a8f3c3afac0036b3d7557fc/2135948
-Post-Bop, Hard Bop
-9.37
+Get Up With It
+Miles Davis
+e.snmc.io/i/300/s/eb6de05c059c90237c34214ba8bf9b4b/3273759
+Jazz Fusion, Jazz-Funk
+9.2
 
 Agharta
 Miles Davis
@@ -166,11 +160,17 @@ e.snmc.io/i/300/s/dde66102b1577350d4b9953cc1e1a278/1212210
 Jazz Fusion, Jazz-Funk
 9.28
 
+Mingus at Antibes
+Charles Mingus
+e.snmc.io/i/300/s/2be3b06a7a8f3c3afac0036b3d7557fc/2135948
+Post-Bop, Hard Bop
+9.37
+
 A Tribute to Jack Johnson
 Miles Davis
 e.snmc.io/i/300/s/ecccfdd0d58058e8229a49e297828b64/1498275
 Jazz Fusion, Jazz-Rock, Film Score
-9.15
+9.11
 
 Live at Birdland
 Coltrane
@@ -190,33 +190,27 @@ e.snmc.io/i/300/s/4e67068d2345db0b7fa5c46a77e0f7a3/1345041
 Jazz-Funk, Jazz Fusion
 8.94
 
-Waltz for Debby
-Bill Evans Trio
-e.snmc.io/i/300/s/e16f8e43c7294f4efd570ed023c5afa3/4166281
-Cool Jazz
-9.2
-
 The Köln Concert
 Keith Jarrett
 e.snmc.io/i/300/s/ef2188a48955a62887b388421b7a729a/2188477
 ECM Style Jazz
 9.15
 
+Waltz for Debby
+Bill Evans Trio
+e.snmc.io/i/300/s/e16f8e43c7294f4efd570ed023c5afa3/4166281
+Cool Jazz
+9.2
+
 Cowboy Bebop
 Seatbelts
 e.snmc.io/i/300/s/a4aa6a2655d8030b997383499e0a56c9/2428934
 Television Music, Jazz
-9.11
+9.15
 
 The Shape of Jazz to Come
 Ornette Coleman
 e.snmc.io/i/300/s/8b20ea0ae41e34d068c3eb87541c1c52/2283780
-Avant-Garde Jazz
-8.99
-
-Out to Lunch
-Eric Dolphy
-e.snmc.io/i/300/s/c61bc5ff40f4de7b031bb5f980b0c9d4/2421496
 Avant-Garde Jazz
 8.94
 
@@ -225,6 +219,12 @@ John Coltrane
 e.snmc.io/i/300/s/2875ea899c61269cdec449cca5e65add/8048963
 Free Jazz, Spiritual Jazz
 8.99
+
+Out to Lunch
+Eric Dolphy
+e.snmc.io/i/300/s/c61bc5ff40f4de7b031bb5f980b0c9d4/2421496
+Avant-Garde Jazz
+8.94
 
 Roxy & Elsewhere
 Frank Zappa, The Mothers of Invention
@@ -236,19 +236,13 @@ Let My Children Hear Music
 Charles Mingus
 e.snmc.io/i/300/s/04eb35f750b2088e90391cd53e6deaf7/2822710
 Third Stream, Experimental Big Band, Avant-Garde Jazz
-9.07
+9.11
 
 Twin Peaks: Fire Walk With Me
 Angelo Badalamenti
 e.snmc.io/i/300/s/aa366d262ec4683692f63db3861cb74b/2083637
 Film Score, Dark Jazz
 9.15
-
-Persona5
-目黒将司
-e.snmc.io/i/300/s/82c87cbc454f273559791cb8a55ab920/6385597
-Video Game Music, Acid Jazz, Lounge, Jazz-Funk
-8.99
 
 Pastel Blues
 Nina Simone
@@ -274,6 +268,12 @@ e.snmc.io/i/300/s/861241101cb6b4d37f91dc048172ad6b/1619373
 Modal Jazz, Post-Bop
 9.03
 
+Persona5
+目黒将司
+e.snmc.io/i/300/s/82c87cbc454f273559791cb8a55ab920/6385597
+Video Game Music, Acid Jazz, Lounge, Jazz-Funk
+8.99
+
 Lanquidity
 Sun Ra
 e.snmc.io/i/300/s/405a27235e54530e980b0a435a7e7404/1636814
@@ -286,11 +286,11 @@ e.snmc.io/i/300/s/bfde9efd9abfc33315d35f506b5efea9/1561133
 Hard Bop
 9.15
 
-The Great Concert of Charles Mingus
-Charles Mingus
-e.snmc.io/i/300/s/eb503005f95a6a1bfaaacc186c1a392d/3806495
-Post-Bop, Avant-Garde Jazz
-9.15
+Concert in Japan
+John Coltrane
+e.snmc.io/i/300/s/cb269190add29f229c107b788153aaea/2844688
+Free Jazz, Spiritual Jazz
+9.11
 
 Time Out
 The Dave Brubeck Quartet
@@ -298,22 +298,22 @@ e.snmc.io/i/300/s/8531fa769eb42c16ca0efa5df54f9480/1934344
 Cool Jazz
 8.82
 
-Concert in Japan
-John Coltrane
-e.snmc.io/i/300/s/cb269190add29f229c107b788153aaea/2844688
-Free Jazz, Spiritual Jazz
-9.11
+Sunday at the Village Vanguard
+Bill Evans Trio
+e.snmc.io/i/300/s/7ee9bd679d7b9345f4cf410174599b1a/1864477
+Cool Jazz
+9.03
+
+The Great Concert of Charles Mingus
+Charles Mingus
+e.snmc.io/i/300/s/eb503005f95a6a1bfaaacc186c1a392d/3806495
+Post-Bop, Avant-Garde Jazz
+9.15
 
 嵐 (Arashi)
 Yosuke Yamashita Trio, 大駱駝艦
 e.snmc.io/i/300/s/0f6a8e3262d3abaecbd1ad454f23dad1/7712079
 Free Jazz
-9.07
-
-Sunday at the Village Vanguard
-Bill Evans Trio
-e.snmc.io/i/300/s/7ee9bd679d7b9345f4cf410174599b1a/1864477
-Cool Jazz
 9.03
 
 Saxophone Colossus
@@ -322,23 +322,23 @@ e.snmc.io/i/300/s/ef266d5452b4a62e930f7db9f69f5399/7977284
 Hard Bop
 8.9
 
-Creative Orchestra (Köln) 1978
-Anthony Braxton
-e.snmc.io/i/300/s/29c03b817a285b04b9f9cc21fac0718b/9474758
-Experimental Big Band, Modern Creative
-9.15
-
-At Carnegie Hall
-Thelonious Monk Quartet With John Coltrane
-e.snmc.io/i/300/s/c3361b39a0716b090746193ab7ddd108/6689530
-Hard Bop, Bebop
-9.07
-
 Mingus Mingus Mingus Mingus Mingus
 Charles Mingus
 e.snmc.io/i/300/s/4fe8b8987dd41e3b025a7988df9757e5/2340162
 Post-Bop
 8.9
+
+At Carnegie Hall
+Thelonious Monk Quartet With John Coltrane
+e.snmc.io/i/300/s/c3361b39a0716b090746193ab7ddd108/6689530
+Hard Bop, Bebop
+9.03
+
+Creative Orchestra (Köln) 1978
+Anthony Braxton
+e.snmc.io/i/300/s/29c03b817a285b04b9f9cc21fac0718b/9474758
+Experimental Big Band, Modern Creative
+9.15
 
 On the Corner
 Miles Davis
@@ -358,17 +358,17 @@ e.snmc.io/i/300/s/63f4f664243d0388dbc2115f096b87a5/4201607
 Jazz Fusion, Jazz-Rock
 8.77
 
-Song for My Father (Cantiga para meu pai)
-The Horace Silver Quintet
-e.snmc.io/i/300/s/44414f91361597d9406e0fd27f26dec4/1887350
-Hard Bop
-8.9
-
 Quartet (Santa Cruz) 1993
 Anthony Braxton
 e.snmc.io/i/300/s/e4b6bd6d634605b3760ce597849155fd/5722793
 Free Jazz, Modern Creative
 8.99
+
+Song for My Father (Cantiga para meu pai)
+The Horace Silver Quintet
+e.snmc.io/i/300/s/44414f91361597d9406e0fd27f26dec4/1887350
+Hard Bop
+8.9
 
 Somethin' Else
 Cannonball Adderley
@@ -394,22 +394,22 @@ e.snmc.io/i/300/s/71b68ea1350f82a71756a7e718978395/7624771
 Canterbury Scene, Jazz-Rock, Jazz Fusion
 8.65
 
-Enlightenment
-McCoy Tyner
-e.snmc.io/i/300/s/679dfbbb611a90c7d6b134ffc650a352/1609534
-Modal Jazz, Spiritual Jazz
-8.99
-
 Free for All
 Art Blakey & The Jazz Messengers
 e.snmc.io/i/300/s/9efb13bbf181a41358c5d95cbeb8912d/9095216
 Hard Bop
 8.9
 
-At the Five Spot, Vol. 1
-Eric Dolphy
-e.snmc.io/i/300/s/b559469a2bcf2296774c780de2bc7796/8317970
-Post-Bop, Avant-Garde Jazz
+Enlightenment
+McCoy Tyner
+e.snmc.io/i/300/s/679dfbbb611a90c7d6b134ffc650a352/1609534
+Modal Jazz, Spiritual Jazz
+8.99
+
+Ella in Berlin: Mack the Knife
+Ella Fitzgerald
+e.snmc.io/i/300/s/780ad71de23c1b5cde753f15851c4573/1748041
+Vocal Jazz, Standards
 8.94
 
 Live in Hamburg
@@ -417,6 +417,12 @@ Esbjörn Svensson Trio
 e.snmc.io/i/300/s/8889a1562ca9f33cceaa95817a4251a7/3195546
 ECM Style Jazz, Avant-Garde Jazz
 9.03
+
+At the Five Spot, Vol. 1
+Eric Dolphy
+e.snmc.io/i/300/s/b559469a2bcf2296774c780de2bc7796/8317970
+Post-Bop, Avant-Garde Jazz
+8.94
 
 Solo-Concerts: Bremen and Lausanne
 Keith Jarrett
@@ -428,18 +434,6 @@ Albert Ayler in Greenwich Village
 Albert Ayler
 e.snmc.io/i/300/s/43a49be62d9ebdd557d9a8ad8bf6305d/1895135
 Free Jazz
-8.9
-
-Imaginary Diseases
-Frank Zappa
-e.snmc.io/i/300/s/5b1e6f14619b16b96bb79185e95e0cc1/5478365
-Jazz-Rock, Jazz Fusion
-8.94
-
-Ella in Berlin: Mack the Knife
-Ella Fitzgerald
-e.snmc.io/i/300/s/780ad71de23c1b5cde753f15851c4573/1748041
-Vocal Jazz, Standards
 8.9
 
 Black Unity
@@ -460,6 +454,12 @@ e.snmc.io/i/300/s/102b7a282cd7911fb036ad068b7dcf44/1486565
 Avant-Garde Jazz, Modal Jazz
 8.94
 
+Imaginary Diseases
+Frank Zappa
+e.snmc.io/i/300/s/5b1e6f14619b16b96bb79185e95e0cc1/5478365
+Jazz-Rock, Jazz Fusion
+8.9
+
 Misterioso
 Thelonious Monk Quartet
 e.snmc.io/i/300/s/df1ab91c7d5d5537d91cce9e22b895b2/2320035
@@ -478,29 +478,29 @@ e.snmc.io/i/300/s/f3892fe117d04c25f3bbb1f45544c3cc/6383044
 Avant-Garde Jazz
 8.9
 
-Sextant
-Herbie Hancock
-e.snmc.io/i/300/s/3f5ac748d6c9e168bb6e382b5e28b5a9/1334993
-Jazz Fusion, Avant-Garde Jazz
-8.73
-
 Wild Is the Wind
 Nina Simone
 e.snmc.io/i/300/s/d6e3f82a2de9e40246f2e627fbcb4281/3081641
 Vocal Jazz, Soul
 8.77
 
-Duke Ellington's Far East Suite
-Duke Ellington
-e.snmc.io/i/300/s/2c40605440a76cdf9f09f45d4db0a8fc/3857934
-Big Band
-8.82
+Sextant
+Herbie Hancock
+e.snmc.io/i/300/s/3f5ac748d6c9e168bb6e382b5e28b5a9/1334993
+Jazz Fusion, Avant-Garde Jazz
+8.73
 
 It's Your World
 Gil Scott-Heron and Brian Jackson
 e.snmc.io/i/300/s/3106a45eba7a438c279d0fa8d1afc7bf/2296695
 Soul, Jazz-Funk
 8.94
+
+Duke Ellington's Far East Suite
+Duke Ellington
+e.snmc.io/i/300/s/2c40605440a76cdf9f09f45d4db0a8fc/3857934
+Big Band
+8.82
 
 Full House
 Wes Montgomery
@@ -532,17 +532,17 @@ e.snmc.io/i/300/s/72aae68497f986b7710fdc015719a8ce/6380040
 Jazz Fusion, Spiritual Jazz
 8.73
 
-Sketches of Spain
-Miles Davis
-e.snmc.io/i/300/s/3889ecb542dea99d5cf6338e353b8f10/7607646
-Third Stream, Modal Jazz
-8.52
-
 The Carl Stalling Project: Music From Warner Bros. Cartoons 1936-1958
 Carl Stalling
 e.snmc.io/i/300/s/cd2d7add94c4aefb5a2c15576ee6a81d/2266728
 Cartoon Music, Big Band, Film Soundtrack
 8.9
+
+Sketches of Spain
+Miles Davis
+e.snmc.io/i/300/s/3889ecb542dea99d5cf6338e353b8f10/7607646
+Third Stream, Modal Jazz
+8.52
 
 Empyrean Isles
 Herbie Hancock
@@ -562,18 +562,6 @@ e.snmc.io/i/300/s/96a7d0c4b5c7d856d0ff181bcaf486c4/3087474
 Post-Bop
 8.65
 
-Thelonious in Action
-Thelonious Monk Quartet
-e.snmc.io/i/300/s/139f36cfccb638ba3bfc2eee30fd1987/3992907
-Hard Bop
-8.94
-
-Nation Time
-Joe McPhee
-e.snmc.io/i/300/s/3fded73b07a85bee65f0977ff60ae539/9400569
-Avant-Garde Jazz
-8.77
-
 Black Beauty: Miles Davis at Fillmore West
 Miles Davis
 e.snmc.io/i/300/s/9b129e17b14f407b078cd62ea8b52de0/7230189
@@ -585,6 +573,18 @@ Charles Mingus
 e.snmc.io/i/300/s/1ad217817d2f769db937f4fcbffa8fa0/3139560
 Avant-Garde Jazz, Post-Bop
 8.86
+
+Thelonious in Action
+Thelonious Monk Quartet
+e.snmc.io/i/300/s/139f36cfccb638ba3bfc2eee30fd1987/3992907
+Hard Bop
+8.9
+
+Nation Time
+Joe McPhee
+e.snmc.io/i/300/s/3fded73b07a85bee65f0977ff60ae539/9400569
+Avant-Garde Jazz
+8.77
 
 Ask the Ages
 Sonny Sharrock
@@ -598,23 +598,11 @@ e.snmc.io/i/300/s/eba6132d7c7cdb29ea2b9938ddc00cf5/8992298
 Video Game Music, Big Band, Jazz Fusion
 8.69
 
-Monk's Dream
-The Thelonious Monk Quartet
-e.snmc.io/i/300/s/674f371fedc3d20a30e644292a265cc3/3950624
-Hard Bop
-8.65
-
 Mosaic
 Art Blakey & The Jazz Messengers
 e.snmc.io/i/300/s/e0e4776be798bb6cf5429cbe7ea4b237/1623886
 Hard Bop
 8.73
-
-Don Cherry
-Don Cherry
-e.snmc.io/i/300/s/c9aeb211eaf7a092e8de0e70ef39b439/1508940
-Spiritual Jazz
-8.69
 
 Willisau (Quartet) 1991
 Anthony Braxton
@@ -622,34 +610,40 @@ e.snmc.io/i/300/s/185f71d3e33cee02e51fc4f3bee8563f/8331879
 Avant-Garde Jazz, Modern Creative
 8.77
 
+Monk's Dream
+The Thelonious Monk Quartet
+e.snmc.io/i/300/s/674f371fedc3d20a30e644292a265cc3/3950624
+Hard Bop
+8.65
+
 My Funny Valentine: Miles Davis in Concert
 Miles Davis
 e.snmc.io/i/300/s/1adee2b63abd238ac7748bb6c8e768e7/2054416
 Post-Bop
 8.77
 
-At the Five Spot, Vol. 2
-Eric Dolphy
-e.snmc.io/i/300/s/5d4d7f6176fdd9d006a313b97d91eb3e/8325196
-Post-Bop, Avant-Garde Jazz
-8.86
-
-Mingus at Carnegie Hall
-Charles Mingus
-e.snmc.io/i/300/s/4e50b83d8621ceceeae088640a292eed/1561179
-Avant-Garde Jazz
-8.86
-
-Free Jazz
-The Ornette Coleman Double Quartet
-e.snmc.io/i/300/s/91fb50be6d56f4886d12f65c477650a9/2057045
-Free Jazz
-8.56
+Don Cherry
+Don Cherry
+e.snmc.io/i/300/s/c9aeb211eaf7a092e8de0e70ef39b439/1508940
+Spiritual Jazz
+8.69
 
 Mercy, Mercy, Mercy!
 The Cannonball Adderley Quintet
 e.snmc.io/i/300/s/4bdda20a2432467e4e6686ba4ceb6ac2/1988553
 Hard Bop, Soul Jazz
+8.77
+
+Search for the New Land
+Lee Morgan
+e.snmc.io/i/300/s/5f53acaaafd9dcf54939e2677b99d9dd/1620019
+Post-Bop
+8.73
+
+First Meditations (For Quartet)
+John Coltrane
+e.snmc.io/i/300/s/61e81641dc88797013991e0fb6358077/4864550
+Spiritual Jazz, Avant-Garde Jazz
 8.77
 
 'Four' & More: Recorded Live in Concert
@@ -658,17 +652,11 @@ e.snmc.io/i/300/s/d0a28645d1c18adf8609ffa00151fb75/2277027
 Modal Jazz, Post-Bop
 8.77
 
-Search for the New Land
-Lee Morgan
-e.snmc.io/i/300/s/5f53acaaafd9dcf54939e2677b99d9dd/1620019
-Post-Bop
-8.69
-
-First Meditations (For Quartet)
-John Coltrane
-e.snmc.io/i/300/s/61e81641dc88797013991e0fb6358077/4864550
-Spiritual Jazz, Avant-Garde Jazz
-8.73
+Free Jazz
+The Ornette Coleman Double Quartet
+e.snmc.io/i/300/s/91fb50be6d56f4886d12f65c477650a9/2057045
+Free Jazz
+8.56
 
 渋星 (Shibuboshi)
 渋さ知らズ
@@ -676,16 +664,28 @@ e.snmc.io/i/300/s/069f1d05825a620c78dbcda3a3dee9d9/2306172
 Experimental Big Band, Jazz Fusion
 8.73
 
-Root Down: Jimmy Smith Live!
-Jimmy Smith
-e.snmc.io/i/300/s/24a567d2c3eb835897be9bf4bc3fe01b/1519522
-Soul Jazz
+At the Five Spot, Vol. 2
+Eric Dolphy
+e.snmc.io/i/300/s/5d4d7f6176fdd9d006a313b97d91eb3e/8325196
+Post-Bop, Avant-Garde Jazz
+8.82
+
+Passing Ships
+Andrew Hill
+e.snmc.io/i/300/s/bbd73ad8a93e3bae6cbb17f7f4c0b9c8/1233362
+Modal Jazz, Post-Bop
 8.77
 
-Money Jungle
-Duke Ellington, Charles Mingus /><a href="/artist/max-roach" class="artistMax Roach
-e.snmc.io/i/300/s/2d663fe20e6bbe973a814060ab254ab5/1987112
-Hard Bop
+Mingus at Carnegie Hall
+Charles Mingus
+e.snmc.io/i/300/s/4e50b83d8621ceceeae088640a292eed/1561179
+Avant-Garde Jazz
+8.86
+
+Maiden Voyage
+Herbie Hancock
+e.snmc.io/i/300/s/ada971cc533bc897d493cfcb0ada20a1/1887302
+Modal Jazz
 8.6
 
 The Sidewinder
@@ -694,10 +694,10 @@ e.snmc.io/i/300/s/d04dcf9671c6c93db447157514c8130a/6448711
 Hard Bop
 8.65
 
-Passing Ships
-Andrew Hill
-e.snmc.io/i/300/s/bbd73ad8a93e3bae6cbb17f7f4c0b9c8/1233362
-Modal Jazz, Post-Bop
+Root Down: Jimmy Smith Live!
+Jimmy Smith
+e.snmc.io/i/300/s/24a567d2c3eb835897be9bf4bc3fe01b/1519522
+Soul Jazz
 8.77
 
 The Real McCoy
@@ -706,10 +706,10 @@ e.snmc.io/i/300/s/e38cb261774622cce05b7722cc1fd0e6/2417306
 Post-Bop
 8.65
 
-Maiden Voyage
-Herbie Hancock
-e.snmc.io/i/300/s/ada971cc533bc897d493cfcb0ada20a1/1887302
-Modal Jazz
+Money Jungle
+Duke Ellington, Charles Mingus /><a href="/artist/max-roach" class="artistMax Roach
+e.snmc.io/i/300/s/2d663fe20e6bbe973a814060ab254ab5/1987112
+Hard Bop
 8.6
 
 Idle Moments
@@ -724,10 +724,10 @@ e.snmc.io/i/300/s/02f182a4d33ffaa0f15c6ca32a14249f/5393667
 Free Jazz
 8.77
 
-Cornell 1964
-Charles Mingus Sextet with Eric Dolphy
-e.snmc.io/i/300/s/70a87f87e9d30093d2b61bd4519e4d17/4907673
-Post-Bop
+Sinatra at the Sands
+Sinatra With Count Basie & The Orchestra & Quincy Jones
+e.snmc.io/i/300/s/a2ad342b1ad19876d426f37367ba146a/1259799
+Vocal Jazz
 8.73
 
 Testament: A Conduction Collection
@@ -740,12 +740,12 @@ We Insist! Max Roach's Freedom Now Suite
 Max Roach
 e.snmc.io/i/300/s/44e759c9115e7c64630ec11db88df221/6457466
 Avant-Garde Jazz
-8.6
+8.56
 
-Sinatra at the Sands
-Sinatra With Count Basie & The Orchestra & Quincy Jones
-e.snmc.io/i/300/s/a2ad342b1ad19876d426f37367ba146a/1259799
-Vocal Jazz
+Cornell 1964
+Charles Mingus Sextet with Eric Dolphy
+e.snmc.io/i/300/s/70a87f87e9d30093d2b61bd4519e4d17/4907673
+Post-Bop
 8.73
 
 The Blues and the Abstract Truth
@@ -772,17 +772,17 @@ e.snmc.io/i/300/s/114470376c14e8c95088233a9654b300/3117810
 Hard Bop
 8.73
 
+The Lost Trident Sessions
+Mahavishnu Orchestra
+e.snmc.io/i/300/s/c52c8def8da05d19d57962496a03287c/5244438
+Jazz Fusion, Jazz-Rock
+8.73
+
 The Cannonball Adderley Quintet in San Francisco
 The Cannonball Adderley Quintet Featuring Nat Adderley
 e.snmc.io/i/300/s/1dda30ae4ca34a458e8fbf3f74087e80/1908531
 Hard Bop
 8.77
-
-Miles Davis in Person, Saturday Night at the Blackhawk, San Francisco, Volume 2
-Miles Davis
-e.snmc.io/i/300/s/aa9aac72e91439d915269bbd3a9af6a9/7531158
-Hard Bop, Modal Jazz
-8.82
 
 Dark to Themselves
 Cecil Taylor Unit
@@ -790,22 +790,22 @@ e.snmc.io/i/300/s/46b21da5edf65f76d2838b0b07f985ea/2046166
 Free Jazz
 8.65
 
-The Lost Trident Sessions
-Mahavishnu Orchestra
-e.snmc.io/i/300/s/c52c8def8da05d19d57962496a03287c/5244438
-Jazz Fusion, Jazz-Rock
-8.69
+Miles Davis in Person, Saturday Night at the Blackhawk, San Francisco, Volume 2
+Miles Davis
+e.snmc.io/i/300/s/aa9aac72e91439d915269bbd3a9af6a9/7531158
+Hard Bop, Modal Jazz
+8.82
 
 Brilliant Corners
 Thelonious Monk
 e.snmc.io/i/300/s/f5849d0ab8864bcea61c2ef37ccec0c2/8863402
 Hard Bop
-8.52
+8.48
 
-The Jazz Composer's Orchestra
-The Jazz Composer's Orchestra
-e.snmc.io/i/300/s/8f4e18171836af9c80115623a3b4243f/2402604
-Experimental Big Band, Free Jazz
+Ascension [Edition II]
+John Coltrane
+e.snmc.io/i/300/s/dcd879406956de551efb76fe87927dc1/2215810
+Free Jazz, Spiritual Jazz
 8.56
 
 The Grand Wazoo
@@ -820,17 +820,17 @@ e.snmc.io/i/300/s/e1666ee9427d97610e5680e7fe14ab24/3747769
 Avant-Garde Jazz, Spiritual Jazz
 8.52
 
+The Jazz Composer's Orchestra
+The Jazz Composer's Orchestra
+e.snmc.io/i/300/s/8f4e18171836af9c80115623a3b4243f/2402604
+Experimental Big Band, Free Jazz
+8.52
+
 Bright Moments
 Rahsaan Roland Kirk
 e.snmc.io/i/300/s/b0447e2a9f00f35a7bba7ff575ee42f7/4612488
 Modal Jazz, Spiritual Jazz
 8.73
-
-Promises
-Floating Points, Pharoah Sanders /><a href="/artist/london-symphony-orchestra" class="artistLondon Symphony Orchestra
-e.snmc.io/i/300/s/6974c2c86f0fac27647c2db0ef618387/8796798
-Post-Minimalism, Third Stream
-8.31
 
 Ptah, the El Daoud
 Alice Coltrane
@@ -838,23 +838,11 @@ e.snmc.io/i/300/s/bb1036e3ca175b1abceeaa5c81165e33/5732863
 Spiritual Jazz
 8.56
 
-50th Birthday Celebration Vol. 4
-Electric Masada
-e.snmc.io/i/300/s/02f275b097df0f0aa44e190df3887ea6/6381931
-Avant-Garde Jazz, Jazz Fusion
-8.69
-
-Ascension [Edition II]
-John Coltrane
-e.snmc.io/i/300/s/dcd879406956de551efb76fe87927dc1/2215810
-Free Jazz, Spiritual Jazz
-8.56
-
-Smokin' at the Half Note
-Wynton Kelly, Wes Montgomery
-e.snmc.io/i/300/s/d4eff897bfddb8240a2addbb92e89176/1844366
-Hard Bop
-8.65
+Promises
+Floating Points, Pharoah Sanders /><a href="/artist/london-symphony-orchestra" class="artistLondon Symphony Orchestra
+e.snmc.io/i/300/s/6974c2c86f0fac27647c2db0ef618387/8796798
+Post-Minimalism, Third Stream
+8.31
 
 Live in Seattle
 John Coltrane Featuring Pharoah Sanders
@@ -862,35 +850,41 @@ e.snmc.io/i/300/s/5f8df5c1d4ea3d793b974cb51dee0e00/4856362
 Free Jazz
 8.65
 
+Smokin' at the Half Note
+Wynton Kelly, Wes Montgomery
+e.snmc.io/i/300/s/d4eff897bfddb8240a2addbb92e89176/1844366
+Hard Bop
+8.65
+
+50th Birthday Celebration Vol. 4
+Electric Masada
+e.snmc.io/i/300/s/02f275b097df0f0aa44e190df3887ea6/6381931
+Avant-Garde Jazz, Jazz Fusion
+8.69
+
 Taxi Driver
 Bernard Herrmann
 e.snmc.io/i/300/s/4158012be894f35a79a6a6a7801a2584/6531117
 Film Score, Cool Jazz
 8.6
 
-The Peach Orchard
-William Parker & In Order to Survive
-e.snmc.io/i/300/s/c09bd153b313deae5e43c8595ac08abb/1957570
-Free Jazz, Avant-Garde Jazz
-8.52
-
-Clifford Brown and Max Roach
-Clifford Brown and Max Roach
-e.snmc.io/i/300/s/8c0338d01032de248ec2a407dd3cb60b/2031387
-Hard Bop
-8.56
-
 One Flight Up
 Dexter Gordon
 e.snmc.io/i/300/s/ba07aeb60f62d17264577edbae2b1fc6/6299481
 Hard Bop, Modal Jazz
-8.6
+8.65
 
 The Paris Concert: Edition One
 Bill Evans
 e.snmc.io/i/300/s/89701e203fb995567ea162591986f488/3591291
 Cool Jazz
 8.73
+
+Vienna Concert
+Keith Jarrett
+e.snmc.io/i/300/s/74d5f24f549286e7c34e47dd7eaa6108/2228742
+ECM Style Jazz
+8.6
 
 Miles Smiles
 Miles Davis Quintet
@@ -904,22 +898,28 @@ e.snmc.io/i/300/s/88a81d3462bc5eb6b5f213828ae6b038/2559197
 Post-Bop
 8.52
 
-Little Girl Blue
-Nina Simone
-e.snmc.io/i/300/s/9c683a150ceac7dd767cb4fc6072506b/1210748
-Vocal Jazz
-8.52
-
-Vienna Concert
-Keith Jarrett
-e.snmc.io/i/300/s/74d5f24f549286e7c34e47dd7eaa6108/2228742
-ECM Style Jazz
-8.6
-
 Science Fiction
 Ornette Coleman
 e.snmc.io/i/300/s/bc1c888ce638d51b17511fa9800cbf87/5390124
 Free Jazz, Avant-Garde Jazz
+8.56
+
+Clifford Brown and Max Roach
+Clifford Brown and Max Roach
+e.snmc.io/i/300/s/8c0338d01032de248ec2a407dd3cb60b/2031387
+Hard Bop
+8.56
+
+The Peach Orchard
+William Parker & In Order to Survive
+e.snmc.io/i/300/s/c09bd153b313deae5e43c8595ac08abb/1957570
+Free Jazz, Avant-Garde Jazz
+8.48
+
+Little Girl Blue
+Nina Simone
+e.snmc.io/i/300/s/9c683a150ceac7dd767cb4fc6072506b/1210748
+Vocal Jazz
 8.52
 
 Impressions
@@ -928,11 +928,11 @@ e.snmc.io/i/300/s/4c38c00442f645d06f4bd93f72bfee7d/2381351
 Avant-Garde Jazz
 8.56
 
-At the "Golden Circle" Stockholm, Volume One
-The Ornette Coleman Trio
-e.snmc.io/i/300/s/e7a296b2bbfaeee489a6f718c6b3ae75/2251591
-Avant-Garde Jazz
-8.65
+Elevation
+Pharoah Sanders
+e.snmc.io/i/300/s/bf91fc3b10e8777e46dbe53bf1f16293/1475371
+Spiritual Jazz
+8.6
 
 The Jazz Messengers at the Cafe Bohemia, Volume 1
 The Jazz Messengers
@@ -940,21 +940,21 @@ e.snmc.io/i/300/s/80d4e55cc2d59c4d59d570a791f0f8f7/6320325
 Hard Bop
 8.69
 
-Elevation
-Pharoah Sanders
-e.snmc.io/i/300/s/bf91fc3b10e8777e46dbe53bf1f16293/1475371
-Spiritual Jazz
-8.6
+At the "Golden Circle" Stockholm, Volume One
+The Ornette Coleman Trio
+e.snmc.io/i/300/s/e7a296b2bbfaeee489a6f718c6b3ae75/2251591
+Avant-Garde Jazz
+8.65
 
 'Round About Midnight
 Miles Davis
 e.snmc.io/i/300/s/c23a376585a8f512e0c9f4b277fd926d/7230186
 Hard Bop
-8.43
+8.39
 
-The Illinois Concert
-Eric Dolphy
-e.snmc.io/i/300/s/c81fd00486fb921cbebbc219592df456/4989644
-Avant-Garde Jazz, Post-Bop
-8.69
+Pangaea
+Miles Davis
+e.snmc.io/i/300/s/3f324098902f340be096d1a8646856fd/8516919
+Jazz Fusion, Jazz-Funk
+8.52
 
