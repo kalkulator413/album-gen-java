@@ -84,7 +84,8 @@ class Albums extends JFrame {
 
     bStart.addActionListener(new ActionListener() {
               public void actionPerformed(ActionEvent e) {
-                int gNum = list1.getSelectedIndex() + 1;
+                int gNum = 1;
+                gNum = list1.getSelectedIndex() + 1;
                 genreNum = gNum;
                 start.setVisible(false);
 
@@ -101,6 +102,7 @@ class Albums extends JFrame {
                         url = new URL(site + i + "/#results");
                       getAlbums(url);
                     }
+                    writeFiles();
 
                   } catch (IOException ioe) {
                     System.out.println(ioe);
@@ -115,7 +117,6 @@ class Albums extends JFrame {
                   }
                 }
 
-                writeFiles();
                 randomizeAlbums();
 
                 showAlbums();
@@ -130,7 +131,7 @@ class Albums extends JFrame {
 
   public static int getNumPages(int gNum) {
     if (gNum == 1)
-      return 5;
+      return 6;
     else if (gNum == 2)
       return 3;
     else
@@ -231,17 +232,22 @@ class Albums extends JFrame {
   public static String getYear() throws IOException {
     URL url = new URL("https://www.calendardate.com/todays.htm");
 
-    Scanner sc = new Scanner(url.openStream());
+    try {
 
-    while(sc.hasNext()) {
-      String s = sc.next();
-      
-      if (s.equals("src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>")) {
-        for (int i = 0; i < 7; i ++)
-          s = sc.next();
-        // System.out.println("got date " + s);
-        return s;
+      Scanner sc = new Scanner(url.openStream());
+
+      while(sc.hasNext()) {
+        String s = sc.next();
+        
+        if (s.equals("src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>")) {
+          for (int i = 0; i < 7; i ++)
+            s = sc.next();
+          // System.out.println("got date " + s);
+          return s;
+        }
       }
+    } catch(Exception E) {
+      return "2022";
     }
 
     return "2022";
