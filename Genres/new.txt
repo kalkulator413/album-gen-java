@@ -30,7 +30,7 @@ Atmospheric Sludge Metal
 
 Man Plays the Horn
 Cities Aviv
-e.snmc.io/i/300/s/cde59f8b927d54998746331fd37f7e45/9702095
+e.snmc.io/i/300/s/bcd58dfe9b34d7bef9caec3ae5b1a759/9723209
 Experimental Hip Hop, Abstract Hip Hop, Jazz Rap, Southern Hip Hop
 7.67
 
@@ -79,7 +79,7 @@ Neo-Psychedelia, Psychedelic Pop
 Milk Outside a Bag of Milk Outside a Bag of Milk Soundtrack
 Nikita Kryukov
 e.snmc.io/i/300/s/426380c17414596f3b0a71e397dae3eb/9621512
-Dark Ambient, Video Game Music, Drone Metal
+Dark Ambient, Video Game Music
 8.05
 
 Protocol V
@@ -121,7 +121,7 @@ Post-Industrial, Opera, Experimental
 Where Myth Becomes Memory
 Rolo Tomassi
 e.snmc.io/i/300/s/fa82af3201d62d05ac03268ee9b42604/9476544
-Post-Metal, Post-Hardcore
+Post-Metal
 7.16
 
 Metanoia
@@ -270,8 +270,8 @@ MPB
 
 aubades
 Jean-Michel Blais
-e.snmc.io/i/300/s/43d868451395c8be5f503cf840a4400e/9297539
-Modern Classical, Chamber Music
+e.snmc.io/i/300/s/0908ff76c319101cd474accc9d98f0df/9721820
+Chamber Music, Modern Classical
 7.29
 
 Caprisongs
@@ -421,7 +421,7 @@ Heavy Metal
 MMXXII
 Yearning
 e.snmc.io/i/300/s/9df73989bb0e6b191c0798188cacb83e/9678106
-Emoviolence, Screamo
+Emoviolence
 6.82
 
 OCTIWORLD
@@ -439,7 +439,7 @@ East Coast Hip Hop, Trap
 A Loner
 Hangman's Chair
 e.snmc.io/i/300/s/35b45c0fb84f459f53618a9f51b541de/9509625
-Doom Metal, Gothic Metal, Coldwave
+Doom Metal, Gothic Metal
 6.91
 
 Mudwater Mirror
