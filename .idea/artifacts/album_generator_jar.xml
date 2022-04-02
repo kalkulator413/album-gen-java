@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="album-generator:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/album_generator_jar</output-path>
-    <root id="archive" name="album-generator.jar">
-      <element id="module-output" name="album-generator" />
-    </root>
-  </artifact>
-</component>
