@@ -1,2 +1,2 @@
 # Album Generator
-Use the executable jar file or compile the Album class in order to run the generator.
+No longer works due to the new RYM update. Use [album gen py](https://github.com/kalkulator413/album-gen-py) instead.
